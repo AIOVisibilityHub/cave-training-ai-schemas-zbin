@@ -1,0 +1,3604 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T19:09:02.825Z",
+  "client": {
+    "name": "Cave Training",
+    "canonicalUrl": "https://cavetraining.aiovisibility.net",
+    "primaryWebsiteUrl": "cavetrainingfit.com",
+    "pagesUrl": "https://cavetraining.aiovisibility.net",
+    "phone": "(661) 674-7162",
+    "locations": [
+      {
+        "name": "Cave Training Office",
+        "address": "21515 Soledad Canyon Rd Suite 109",
+        "city": "Santa Clarita",
+        "state": "CA",
+        "zip": "91350",
+        "phone": "(661) 674-7162"
+      }
+    ],
+    "services": [
+      "Functional Fitness Gym"
+    ],
+    "cities": [
+      "Santa Clarita"
+    ]
+  },
+  "package": {
+    "totalFiles": 704,
+    "totalBytes": 1722012,
+    "stats": {
+      "faqs": 310,
+      "helpArticles": 330,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 16,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
+      "caseStudies": 6,
+      "organization": 1,
+      "press": 3,
+      "reviews": 12,
+      "qna": 0,
+      "research": 0,
+      "total": 681
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/what-classes-do-you-offer.json",
+        "bytes": 747,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-is-the-gym-located.json",
+        "bytes": 525,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-phone-number.json",
+        "bytes": 437,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-are-memberships.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-classes-beginner-friendly.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-pregnancy-postpartum-programs.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-training-support-pre-and-postnatal-clients.json",
+        "bytes": 789,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-the-community-at-cave-training-unique.json",
+        "bytes": 769,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-qualifications-do-coaches-at-cave-training-have.json",
+        "bytes": 793,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-classes-does-cave-training-offer.json",
+        "bytes": 714,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-gym-atmosphere-like.json",
+        "bytes": 706,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-cave-training-suitable-for-beginners.json",
+        "bytes": 700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-bring-to-my-first-class.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-are-the-classes.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-free-trials.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-gpp-class-like.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-men-join-prenatal-classes.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-postpartum-recovery-tips-do-you-give.json",
+        "bytes": 666,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-kids-or-teen-programs.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-nutrition-fit-into-training.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-lift-class-different.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-parking-available.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-have-childcare-during-classes.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-cancellation-policy.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-join-mid-month.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-classes-ever-virtual.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-equipment-is-used-in-shred.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-boxing-class-benefit-me.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-during-first-trimester.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-results-can-i-expect-in-30-days.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-corporate-or-group-rates.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-progress-tracked.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-have-an-injury.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-memberships-month-to-month.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-max-class-size.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-book-a-consultation.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-unique-about-gpp-compared-to-crossfit-boxes.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-shred-differ-from-typical-spin-classes.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-boxing-class-contact-free-for-nervous-beginners.json",
+        "bytes": 705,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-try-endure-over-standard-treadmill-intervals.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-sets-lift-apart-from-powerlifting-gyms.json",
+        "bytes": 706,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-personal-training-incorporate-multiple-class-styles.json",
+        "bytes": 712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-repair-yoga-complement-intense-classes.json",
+        "bytes": 676,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-vibe-during-a-gpp-workout.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-shred-circuits-ever-repeat-weekly.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-boxing-improve-skills-for-other-sports.json",
+        "bytes": 661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-endure-good-for-people-hating-traditional-cardio.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-beginner-proof-is-lift-barbell-training.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-a-sample-personal-training-progression.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-repair-address-post-pregnancy-tightness.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-combine-gpp-and-boxing-in-one-week.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-shred-use-air-bikes-uniquely.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-progression-in-boxing-classes.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-endure-for-quick-lunch-workouts.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-lift-teach-olympic-lifts-too.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-personalized-is-personal-training-really.json",
+        "bytes": 659,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-repair-restorative-or-active-recovery.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-energy-peak-in-gpp-sessions.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-shred-replace-my-running-routine.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-boxing-build-mental-toughness.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-next-after-mastering-lift-basics.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-call-it-cave-training-instead-of-a-standard-gym-name.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-nikki-s-doula-background-shape-gpp-classes.json",
+        "bytes": 698,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-wildest-pr-someone-hit-in-shred.json",
+        "bytes": 673,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-boxing-classes-ever-use-actual-gloves-from-pros.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-endure-sync-to-my-spotify-playlist.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-no-mirrors-in-lift-sessions.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-personal-training-use-birthfit-principles-daily.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-repair-s-go-to-pose-for-post-shred-recovery.json",
+        "bytes": 651,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ever-had-a-gpp-class-turn-into-impromptu-games.json",
+        "bytes": 641,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-handle-sandbagging-in-group-scaling.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-secret-to-boxing-s-stress-relief-edge.json",
+        "bytes": 667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-endure-ever-go-outdoors.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-lift-clients-film-their-squat-form.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-rare-is-cave-s-prenatal-boxing-combo.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-a-micro-gym-day-like-vs-big-boxes.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-shred-air-bikes-have-leaderboards.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-repair-differ-from-hot-yoga-studios.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ever-seen-gpp-gymnastics-scare-off-crossfit-vets.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-ben-s-weirdest-powerlifting-cue.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-personal-training-fix-runner-s-knee-via-lift.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-celebrate-class-milestones.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-boxing-ever-women-only-for-comfort.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-endure-track-record-for-weight-loss.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-coaches-share-their-own-fail-stories-in-lift.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-s-community-beat-app-based-hiit.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-can-i-start-prenatal-training-at-cave.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-gpp-safe-during-second-trimester.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-prenatal-mods-exist-for-shred-hiit.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-continue-boxing-while-pregnant.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-endure-adapt-for-pregnancy.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-lift-barbell-training-prenatal-safe.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-postpartum-training-begin.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-address-diastasis-recti.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-train-through-morning-sickness.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-pelvic-floor-exercises-are-in-repair.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-soon-after-c-section-can-i-join-classes.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-prenatal-training-reduce-labor-pain.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-partners-join-prenatal-personal-training.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-nutrition-goes-with-prenatal-gpp.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-handle-gestational-diabetes.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-postpartum-boxing-good-for-stress.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-can-i-deadlift-postpartum-in-lift.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-cave-offer-breastfeeding-mom-accommodations.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-prenatal-yoga-in-repair-differ.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-do-gpp-while-showing-significantly.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-results-from-12-week-postpartum-program.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-prenatal-classes-women-only.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-modify-for-multiples-pregnancy.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-to-worry-about-pelvic-pain-prenatally.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-6-month-postpartum-transformation.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-is-it-safe-to-restart-workouts-postpartum.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-training-rebuild-core-postpartum.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-join-shred-hiit-8-weeks-postpartum.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-have-lingering-pelvic-floor-weakness.json",
+        "bytes": 641,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-postpartum-boxing-okay-for-stress-relief.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-soon-can-i-do-endure-cardio-postpartum.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-lift-barbell-work-help-c-section-recovery.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-sign-my-core-is-ready-for-gpp.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-handle-urinary-leakage-postpartum.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-deadlift-postpartum-with-diastasis-recti.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-nutrition-supports-postpartum-muscle-regain.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-personal-training-worth-it-postpartum.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-until-pre-pregnancy-strength-returns.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-cave-offer-mom-baby-classes-postpartum.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-scar-tissue-limits-my-mobility-postpartum.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-postpartum-shred-help-with-weight-loss.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-modify-gpp-gymnastics-postpartum.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-normal-fatigue-3-months-postpartum.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-cave-track-postpartum-progress-metrics.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-squat-heavy-postpartum.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-yoga-in-repair-aid-recovery.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-do-boxing-with-breastfeeding.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-postpartum-class-schedule-look.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-prevent-prolapse-during-lift-postpartum.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-shred-hiit-different-from-apps.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-calories-does-shred-burn-per-session.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-shred-beginner-safe-for-metabolic-training.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-an-air-bike-s-metabolic-edge-over-treadmill.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-shred-prevent-hiit-plateaus.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-shred-replace-steady-state-cardio-entirely.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-ideal-shred-frequency-weekly.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-shred-target-stubborn-fat-areas.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-metabolic-conditioning-safe-postpartum-in-shred.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-a-sample-shred-workout-structure.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-shred-improve-vo2-max-faster-than-running.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-fuel-before-shred-metabolic-sessions.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-shred-help-break-weight-loss-stalls.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-rower-technique-for-max-shred-output.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-shred-low-impact-for-bad-knees.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-shred-build-work-capacity-over-time.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-do-shred-fasted-for-fat-loss.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-shred-s-afterburn-compared-to-weights.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-shred-improve-endurance-for-other-sports.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-scale-shred-for-advanced-athletes.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-metabolic-conditioning-in-shred-addictive.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-recovery-between-shred-days.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-shred-fix-poor-conditioning-from-lockdowns.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-shred-pair-with-lift-strength.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-dropout-rate-for-shred-beginners.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-boxing-class-women-friendly-for-beginners.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-female-boxing-build-visible-abs.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-sports-bra-requirement-for-boxing.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-women-with-no-experience-join-boxing.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-boxing-improve-female-core-endurance.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-boxing-safe-during-menstrual-cycle.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-female-boxing-footwork-progression.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-boxing-help-with-postpartum-core-rebuild.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-calories-does-women-s-boxing-burn.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-gloves-provided-for-female-first-timers.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-boxing-replace-crunches-for-women.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-class-vibe-for-women-in-boxing.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-female-boxing-improve-punching-power-fast.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-boxing-low-impact-for-women-s-knees.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-boxing-benefit-busy-career-women.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-prenatal-women-try-modified-boxing.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-core-breathing-technique-in-women-s-boxing.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-boxing-help-women-with-stress-eating.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-women-only-boxing-sessions.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-boxing-sculpt-arms-for-women.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-progression-from-beginner-female-boxing.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-boxing-fix-mom-pooch-core-weakness.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-female-boxing-cardio-better-than-running.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-hand-care-for-women-new-to-bag-work.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-boxing-boost-confidence-for-women.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-lift-class-beginner-friendly-for-women-new-to-barbells.json",
+        "bytes": 678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-powerlifting-make-women-bulky.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-proper-squat-stance-for-women-s-hips.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-postpartum-women-deadlift-in-lift.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-fast-do-women-gain-strength-in-lift.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-women-only-lift-sessions.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-brace-technique-women-need-most.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-lift-fix-lower-back-taking-squats-issue.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-petite-women-powerlift-with-standard-bars.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-bench-press-change-women-s-posture.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-powerlifting-safe-during-perimenopause.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-women-s-deadlift-progression-in-lift.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-women-need-spotters-for-heavy-lift-sets.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-lift-pair-with-shred-for-women.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-common-women-s-overhead-press-mistake.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-lift-help-women-with-pcos-strength.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-chalk-wrist-wraps-allowed-for-women.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-powerlifting-improve-bone-health-for-women.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-tempo-training-benefit-for-female-lifters.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-women-compete-from-cave-lift-training.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-modify-lift-for-shoulder-injuries.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-lift-sculpt-strong-but-feminine-legs.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-nutrition-timing-for-women-s-lift-sessions.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-older-women-50-thrive-in-lift.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-lift-breathing-differ-from-cardio-classes.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-exactly-is-birthfit-training.json",
+        "bytes": 666,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-doctor-permission-for-prenatal-classes.json",
+        "bytes": 659,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-pelvic-floor-weakness-feel-like.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-prenatal-fitness-differ-from-regular-gym.json",
+        "bytes": 670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-start-birthfit-with-zero-fitness-background.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-safe-first-trimester-exercises-here.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-doula-experience-help-training-sessions.json",
+        "bytes": 655,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-first-sign-core-is-healing-postpartum.json",
+        "bytes": 651,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-prenatal-classes-hurt-my-belly.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-weeks-pregnant-is-too-far-along.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-ve-never-done-crossfit-before.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-pelvic-health-training-fix-incontinence.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-bring-my-toddler-to-postpartum-classes.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-a-typical-prenatal-personal-training-session.json",
+        "bytes": 652,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-birthfit-prevent-c-section-complications.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-prenatal-yoga-offered-or-just-strength.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-foods-pair-with-prenatal-strength-training.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-soon-after-miscarriage-can-i-restart.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-this-fix-pregnancy-swayback-posture.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-partners-learn-pelvic-floor-cues-too.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-biggest-prenatal-training-myth.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-crossfit-l2-certification-help-moms.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-prenatal-training-causes-round-ligament-pain.json",
+        "bytes": 657,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-birthfit-work-for-high-risk-pregnancies.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-graduate-from-postpartum-program.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-prioritize-pelvic-health-over-abs-in-pregnancy.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-birthfit-differ-from-generic-prenatal-yoga.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-nikki-s-go-to-pelvic-floor-activation-cue.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-prenatal-deadlifts-prevent-delivery-tears.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-postpartum-pelvic-training-affect-sex-life.json",
+        "bytes": 652,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-avoid-kegels-alone-in-nikki-s-program.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-pelvic-health-training-help-multiple-pregnancies.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-birthfit-phase-training-match-trimesters.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-pelvic-floor-equivalent-of-diastasis-recti.json",
+        "bytes": 656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-nikki-s-program-reverse-hysterectomy-effects.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-prenatal-pelvic-training-speed-labor.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-combine-crossfit-with-birthfit-methodology.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-pelvic-neutral-in-postpartum-squats.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-pelvic-health-work-prevent-hemorrhoids.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-nikki-assess-pelvic-floor-readiness.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-birthfit-help-vbac-success-rates.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-role-of-glutes-in-pelvic-health.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-postpartum-pelvic-training-affect-periods.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-teach-partners-birthfit-bracing-cues.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-pelvic-health-training-help-menopause-transition.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-nikki-modify-olympic-lifts-prenatally.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-biggest-pelvic-health-myth-for-moms.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-pelvic-floor-dysfunction-cause-back-pain.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-birthfit-breathing-differ-from-lamaze.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-long-term-pelvic-health-benefit-for-athletes.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-which-class-fits-my-fitness-level.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-clothing-requirement-for-classes.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-family-memberships-or-couples-rates.json",
+        "bytes": 671,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-handle-holiday-schedule-changes.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-switch-classes-freely-on-unlimited-membership.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-locker-room-shower-situation.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-coaches-provide-form-feedback-via-video.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-accommodate-shift-workers.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-injury-modification-process.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-freeze-membership-for-vacations.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-track-nutrition-alongside-training.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-progress-photos-or-measurements.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-music-policy-during-classes.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-gift-cards-for-classes.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-handle-peak-holiday-crowds.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-bring-a-friend-for-free-trial.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-late-cancellation-policy.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-sell-supplements-or-protein-on-site.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-support-marathon-training.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-seasonal-outdoor-training-options.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-phone-policy-during-classes.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-celebrate-member-milestones.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-corporate-groups-book-private-shred.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-equipment-cleaning-protocol.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-integrate-mental-health-focus.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-payment-methods-does-cave-accept.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-virtual-training-for-travelers.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-youngest-age-for-group-classes.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-masks-required-or-covid-protocols-active.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-lift-prep-women-for-powerlifting-meets.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-handle-food-allergies-onsite.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-makeup-class-policy.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-senior-discount-rates.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-pay-per-class-instead-of-membership.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-waitlist-process-for-full-classes.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-coaches-offer-off-site-personal-training.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-accommodate-religious-holidays.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-student-teacher-discounts.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-policy-for-medical-absences.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-book-back-to-back-classes-same-day.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-partner-with-local-physical-therapy.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-lost-stolen-membership-card-policy.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-handle-member-disputes.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-holiday-class-cancellations.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-my-membership-at-other-locations.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-refund-policy-for-memberships.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-nutrition-challenges.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cave-verify-member-eligibility.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-annual-membership-fees.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-process-for-coach-feedback.json",
+        "bytes": 604,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/functional-fitness-gym-service.json",
+        "bytes": 5281,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/nikki-adams-herrera-profile.json",
+        "bytes": 11896,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/nikki-adams-herrera-santa-clarita.json",
+        "bytes": 11894,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/nikki-adams-herrera-crossfit-l2-santa-clarita-faq.json",
+        "bytes": 12108,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/nikki-adams-herrera-afaa-personal-trainer-santa-clarita-faq.json",
+        "bytes": 12148,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/nikki-adams-herrera-birthfit-coach-santa-clarita-faq.json",
+        "bytes": 12120,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/nikki-adams-herrera-crossfit-strongman-santa-clarita-faq.json",
+        "bytes": 12136,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/nikki-adams-herrera-holistic-nutrition-coach-santa-clarita-faq.json",
+        "bytes": 12160,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/ben-herron-profile.json",
+        "bytes": 455,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/ben-herron-santa-clarita.json",
+        "bytes": 453,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/ben-herron-nasm-santa-clarita-faq.json",
+        "bytes": 698,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/ben-herron-usa-powerlifting-santa-clarita-faq.json",
+        "bytes": 746,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/ben-herron-issa-santa-clarita-faq.json",
+        "bytes": 698,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-profile.json",
+        "bytes": 428,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-santa-clarita.json",
+        "bytes": 426,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-nasm-trainer-santa-clarita-faq.json",
+        "bytes": 695,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/taylor-nutrition-coach-santa-clarita-faq.json",
+        "bytes": 707,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/first-trimester-strength-training-safety.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-diastasis-recti-self-test.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pelvic-floor-kegel-alternatives.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-modifications-for-pregnancy.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-deadlift-progression-postpartum.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/birthfit-breathing-for-labor-prep.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-for-postpartum-stress-relief.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-class-for-breastfeeding-moms.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/glute-activation-for-pregnancy-stability.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/nutrition-timing-for-lift-sessions.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/c-section-scar-mobility-protocol.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prenatal-squat-form-checklist.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-urinary-leakage-fixes.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/partner-exercises-for-birth-prep.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/metabolic-resistance-training-for-fat-loss.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shoulder-safe-boxing-during-pregnancy.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/perimenopause-strength-preservation.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-yoga-sequence-for-runners.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/weekly-gpp-progression-for-beginners.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hydration-protocol-for-nursing-athletes.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hip-thrusts-vs-glute-bridges-pregnancy.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cold-plunge-timing-post-lift.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pcos-insulin-sensitivity-training.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/toddler-friendly-workout-schedule.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/valsalva-maneuver-for-women-s-lifting.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-cave-training-right-for-total-beginners.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-cave-training-differs-from-regular-gyms.json",
+        "bytes": 651,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-in-your-first-week-at-cave.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-between-gpp-shred-boxing-endure-and-lift.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-cave-training-builds-confidence-in-the-gym.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/managing-soreness-with-a-high-intensity-program.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-often-should-i-train-at-cave-each-week.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-cave-training-warmup.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-need-to-be-in-shape-before-i-join.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-progress-is-measured-at-cave-training.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/safety-standards-in-high-intensity-classes.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-cave-training-supports-women-with-past-injuries.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/combining-personal-training-with-group-classes.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-makes-cave-s-community-different.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-cave-training-helps-with-long-term-weight-maintenance.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-cave-s-coaching-philosophy.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-cave-training-serves-different-life-stages.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-if-i-m-nervous-about-lifting-heavy.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cardio-vs-strength-how-cave-blends-both.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-talk-to-your-coach-about-your-goals.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-training-during-a-busy-season-of-life.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-doms-vs-injury-pain.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-cave-training-helps-with-mental-health.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-results-to-expect-in-the-first-90-days.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-cave-training-works-with-your-healthcare-providers.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-exercise-through-pregnancy-prevents-diabetes.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/faster-labor-with-prenatal-squat-training.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maintaining-muscle-prevents-postpartum-weight-gain.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-core-recovery-8-weeks-faster.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/reduced-c-section-recovery-time.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/less-back-pain-during-third-trimester.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stronger-pelvic-floor-less-incontinence.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/better-sleep-during-pregnancy.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/reduced-varicose-veins-risk.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-depression-risk-cut-40.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stronger-push-during-delivery.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/easier-breastfeeding-weight-management.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/less-pregnancy-constipation.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-energy-returns-6-weeks-early.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fewer-pregnancy-related-injuries.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/better-posture-through-pregnancy.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/higher-milk-supply-stability.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/reduced-swelling-in-feet-ankles.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-sexual-health-recovery.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stronger-immune-function-pregnancy.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/less-postpartum-hair-loss.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/improved-pregnancy-skin-elasticity.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/higher-newborn-birth-weight-healthy-range.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-joint-stability-returns-faster.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pregnancy-training-improves-partner-bonding.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/exercise-cuts-pregnancy-anxiety-35.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-fog-clears-4-weeks-faster.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/group-classes-halve-mom-isolation.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cortisol-control-through-third-trimester.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/strength-training-boosts-body-confidence.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/routine-prevents-postpartum-overwhelm.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endorphin-rush-beats-pregnancy-blues.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/community-accountability-stops-quitting.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dopamine-from-consistent-prs.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/breathwork-reduces-labor-fear.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sleep-quality-improves-25-with-evening-classes.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-resilience-through-shared-stories.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/serotonin-stability-during-milk-droughts.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/partner-training-strengthens-relationship.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/oxytocin-release-through-group-high-fives.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/structured-movement-prevents-decision-fatigue.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/confidence-carries-through-labor.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-identity-crisis-prevention.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/nervous-system-regulation-through-repair.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seasonal-depression-pregnancy-help.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gratitude-practice-during-group-cool-downs.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hormonal-migraine-prevention-strategy.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/emotional-eating-replacement-protocol.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/transition-anxiety-pregnancy-to-mom.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-rage-cycle-breaker.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maternal-muscle-mass-bigger-healthy-babies.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/better-placental-blood-flow-from-gpp.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/insulin-sensitivity-prevents-macrosomia.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/core-strength-supports-uterine-position.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/enhanced-nutrient-partitioning-to-fetus.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/reduced-low-birth-weight-risk-25.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stronger-amniotic-fluid-dynamics.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hip-mobility-better-cord-blood-flow.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mitochondrial-density-for-baby-energy.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/optimal-head-circumference-development.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lung-maturity-from-maternal-conditioning.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bone-density-transfer-to-newborn.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/liver-enzyme-balance-for-detox.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kidney-filtration-efficiency-for-baby.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thyroid-function-optimization.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adrenal-resilience-for-stress-protection.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gut-microbiome-seeding-benefit.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/optimal-iron-stores-for-baby.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/heart-rate-variability-for-fetal-heart.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stem-cell-mobilization-benefit.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/optimal-length-weight-ratio-at-birth.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/enhanced-meconium-passage-predictor.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/breast-tissue-development-support.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/reduced-nicu-admission-risk.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/long-term-neurodevelopmental-benefits.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-bag-work-releases-executive-rage.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-intervals-stop-mom-toddler-meltdowns.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-heavy-mental-load-offload.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-rhythm-resets-workday-cortisol.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-partner-accountability-ends-isolation-anger.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-yoga-stops-premenstrual-rage.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/primal-scream-replacement-primal-scream-replacement.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-deadline-shred-anger-purge.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stay-home-mom-s-6pm-rage-prevention.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/valsalva-breathing-for-meeting-interruptions.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/carpool-line-fury-endure-flow.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-prs-beat-performance-review-anxiety.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/laundry-pile-anger-deadlift-therapy.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/client-email-trigger-shadow-boxing.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/diaper-change-frustration-goblet-squats.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/traffic-jam-mental-rehearsal-breathing.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/team-conflict-partner-carry-drills.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/grocery-store-overwhelm-grocery-store-overwhelm.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/performance-review-prep-strict-press.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/nap-fight-battle-wall-ball-focus.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/zoom-fatigue-rower-sprints.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/school-pickup-chaos-box-jump-discipline.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budget-meeting-tension-kettlebell-swings.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/playdate-politics-battle-ropes.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/year-end-review-dread-front-squat-confidence.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/muscle-memory-returns-3x-faster-postpartum.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/metabolic-rate-stays-elevated-20-years.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bone-density-peak-preserved-through-menopause.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pelvic-floor-strength-prevents-prolapse-age-70.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/jeans-fit-same-size-10-years-later.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sarcopenia-delayed-15-years.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/heart-disease-risk-halved-lifelong.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/faster-recovery-from-future-injuries.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/posture-prevents-dowager-s-hump.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sleep-quality-peaks-after-50.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/confidence-carries-through-empty-nest.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/arthritis-avoided-through-smart-loading.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hot-flash-intensity-reduced-40.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/balance-prevents-falls-after-70.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/faster-grandchild-chasing-stamina.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/skin-elasticity-maintained-past-50.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/immune-function-stays-robust.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dementia-risk-reduced-35.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sexual-function-preserved-past-60.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/travel-independence-maintained.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gardening-lifting-grandkids-pain-free.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/medication-independence-past-70.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-pregnancy-dress-size-at-reunion.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/walking-speed-preserved-for-independence.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/legacy-of-strength-for-daughters.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-pregnancy-pelvic-floor-baseline-strength.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/first-trimester-pelvic-floor-protection.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/second-trimester-leak-prevention-strategy.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/third-trimester-prolapse-prevention.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/immediate-postpartum-pelvic-floor-assessment.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/6-12-week-postpartum-floor-restoration.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/diastasis-pelvic-floor-dual-recovery.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/returning-to-heavy-deadlifts-pelvic-safe.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/perimenopause-pelvic-floor-decline-prevention.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-menopause-prolapse-prevention-routine.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cough-laugh-incontinence-elimination.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pelvic-floor-posture-connection.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/high-impact-running-floor-protection.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sexual-function-floor-restoration.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/constipation-prevention-floor-training.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pelvic-floor-overactivity-treatment.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-child-pelvic-floor-preservation.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hysterectomy-floor-preparation.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/senior-pelvic-floor-emergency-kit.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pelvic-floor-core-pressure-testing.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/heavy-lifting-floor-lifespan-prevention.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pelvic-floor-breathing-mastery.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dance-zumba-floor-protection.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/chronic-holding-pattern-correction.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pelvic-floor-legacy-for-daughters.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-pregnancy-gpp-clears-decision-fatigue.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/first-trimester-shred-stops-nausea-anxiety.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-breathing-calms-second-trimester-worry.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-third-trimester-nesting-rage.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-rhythm-soothes-labor-fear.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/week-1-postpartum-repair-nervous-reset.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-partner-work-fills-social-void.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-sleep-deprivation-brain-fog-fix.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-prs-anchor-identity-during-chaos.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-replaces-postpartum-rage-outlet.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-routine-survives-toddler-chaos.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-perimenopause-mood-swings.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-executive-function-through-empty-nest.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-menopause-cortisol-management.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-confidence-through-retirement.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-widowhood-grief-processing.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-lifelong-circadian-rhythm.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-nervous-system-longevity.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-cognitive-reserve-for-dementia.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-hot-flash-emotional-override.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-legacy-stress-buffer.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-social-anxiety-lifelong-antidote.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-routine-through-life-transitions.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-breathwork-panic-attack-prevention.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-lifelong-emotional-resilience-foundation.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-bdnf-production-fights-alzheimer-s.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-neurogenesis-through-gymnastics.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-reduces-brain-inflammation-30.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-vo2max-protects-cognitive-reserve.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-bilateral-coordination-prevents-decline.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-yoga-lowers-alzheimer-s-amyloid.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-myokine-release-brain-shield.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-white-matter-preservation.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-hippocampal-volume-protection.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-vascular-dementia-prevention.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-parkinson-s-tremor-control.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-meditation-brain-thickness.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-insulin-resistance-brain-shield.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-neuroplasticity-window-extension.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-tau-protein-reduction.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-fronto-parietal-network-protection.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-mirror-neuron-activation.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-autonomic-balance-restoration.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-igf-1-neuroprotection.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-cerebellar-coordination-lifespan.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-neurovascular-coupling.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-lewy-body-prevention.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-reticular-activating-system.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-default-mode-network-balance.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-lifetime-tauopathy-delay.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-lowers-resting-heart-rate-12-bpm.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-improves-ejection-fraction-15.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-vo2max-gains-outpace-running.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-stroke-volume-maximization.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-asymmetric-heart-training.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-lowers-arterial-stiffness.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-diastolic-function-preservation.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-reduces-cardiac-troponin-leakage.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-triglyceride-clearance-40-faster.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-prevents-peripartum-cardiomyopathy.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-improves-endothelial-function.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-vagal-tone-heart-rate-variability.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-prevents-abdominal-aortic-aneurysm.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-mitral-valve-regurgitation-protection.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-ldl-particle-size-improvement.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-coronary-collateral-development.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-baroreceptor-sensitivity.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-prevents-takotsubo-cardiomyopathy.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-reduces-homocysteine-heart-risk.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gpp-cardiac-autonomic-neuropathy-prevention.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/shred-apolipoprotein-b-reduction.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/endure-prevents-hypertrophic-cardiomyopathy.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boxing-improves-qt-interval-stability.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-atrial-natriuretic-peptide-balance.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lift-long-term-cardiac-remodeling-prevention.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sleep-optimization-through-evening-endure.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/perimenopause-hot-flash-protocol.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/teenage-daughter-strength-foundation.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/corporate-ladder-climb-endurance.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/grocery-shopping-core-stability.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-hysterectomy-strength-restoration.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ski-vacation-injury-prevention.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/wedding-dress-back-strength.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/menopause-sleep-architecture-repair.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/airport-travel-functional-capacity.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pcos-cycle-regularity-training.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/daughter-s-sports-performance-edge.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-running-base-building.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/executive-presentation-voice-training.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gardening-season-back-protection.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thyroid-medication-reduction-protocol.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/beach-vacation-body-confidence.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/senior-living-independence-maintenance.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-divorce-body-reclamation.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/nursing-school-clinical-endurance.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/holiday-weight-maintenance-strategy.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/violin-performance-posture-training.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-cancer-fatigue-reversal.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/real-estate-agent-daily-stamina.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/wedding-dance-floor-readiness.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-stroke-hemiparesis-training.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/server-12-hour-shift-survival.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/granddaughter-carrying-capacity.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-meniscus-surgery-return.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choir-performance-breath-control.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/protein-timing-around-prenatal-lift-sessions.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/carb-cycling-for-shred-fat-loss-phases.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/magnesium-for-sleep-muscle-recovery.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gut-microbiome-diversity-through-fermented-foods.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/omega-3s-prevent-postpartum-depression.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flexibility-progression-couch-to-crow-pose.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cancer-risk-reduction-through-strength-training.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/immune-system-boost-during-flu-season.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-vacation-recomposition-reset.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hashimoto-s-thyroid-training-adaptation.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/desk-job-posture-reprogramming.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-competition-cut-for-women-s-physique.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/chemotherapy-fatigue-reversal-protocol.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/high-heels-ankle-stability-training.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/perimenopause-libido-restoration.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/toddler-wrestling-core-training.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/postpartum-hair-restoration-nutrition.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/migraine-prevention-through-breathing.json",
+        "bytes": 542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tennis-serve-power-development.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seasonal-allergy-immune-modulation.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-surgical-scar-tissue-mobility.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/high-stress-job-cortisol-patterning.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/daughter-s-dance-team-conditioning.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/raynaud-s-circulation-improvement.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-menopause-vaginal-dryness-prevention.json",
+        "bytes": 566,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/cave-training-office.json",
+        "bytes": 324,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/prenatal-strength-maintenance.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/postpartum-diastasis-closure.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/youth-soccer-performance.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/wedding-transformation.json",
+        "bytes": 520,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/crossfit-veteran-reset.json",
+        "bytes": 517,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/perimenopausal-strength-preservation.json",
+        "bytes": 534,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/cave-training-organization.json",
+        "bytes": 5382,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/community-highlights-meet-nikki-herrera-adams-of-cave-training.json",
+        "bytes": 412,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/meet-nikki-herrera-adams.json",
+        "bytes": 334,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/nikki-adams-cpt-instagram-profile-lululemon-ambassador.json",
+        "bytes": 356,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/amazing-personal-training-for-son-1-review.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/welcoming-space-for-all-levels-prenatal-2-review.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/best-birthfit-instructor-found-3-review.json",
+        "bytes": 522,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/perfect-prep-for-wedding-shape-4-review.json",
+        "bytes": 520,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/nikki-brings-something-new-and-special-5-review.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceptional-youth-training-6-review.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/long-time-crossfit-fan-converted-7-review.json",
+        "bytes": 474,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/life-changing-prenatal-support-8-review.json",
+        "bytes": 464,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/wedding-shape-achieved-9-review.json",
+        "bytes": 464,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/welcoming-for-all-fitness-levels-10-review.json",
+        "bytes": 456,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/cave-training-11-review.json",
+        "bytes": 336,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/cave-training-12-review.json",
+        "bytes": 304,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 201,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 20825,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 120899,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 22055,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 22535,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 12825,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 135599,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 182237,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 19271,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 116419,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 317,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 1158,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 352,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 193,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1355,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 265270,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 71802,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 71802,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 1207,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 83323,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 78317,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1036,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/cave-training-ai-schemas-zbin"
+    }
+  }
+}

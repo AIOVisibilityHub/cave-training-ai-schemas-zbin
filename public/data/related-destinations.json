@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T19:09:02.818Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Cave Training",
+    "canonicalUrl": "https://cavetraining.aiovisibility.net",
+    "primaryWebsiteUrl": "cavetrainingfit.com",
+    "aiDataHub": "https://cavetraining.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Cave Training — canonical website",
+      "url": "https://cavetraining.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Cave Training — AI Data Hub",
+      "url": "https://cavetraining.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/cave-training-ai-schemas-zbin"
+    }
+  }
+}
