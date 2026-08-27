@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does prenatal yoga in REPAIR differ?",
+  "description": "Functional poses prep pelvis/spine for birth vs. generic studio flexibility.",
+  "url": "cavetrainingfit.com/faq/how-does-prenatal-yoga-in-repair-differ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does prenatal yoga in REPAIR differ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional poses prep pelvis/spine for birth vs. generic studio flexibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

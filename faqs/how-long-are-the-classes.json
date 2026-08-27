@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long are the classes?",
+  "description": "Most group classes run 45-60 minutes, with ENDURE at 40 minutes for efficient cardio sessions.",
+  "url": "cavetrainingfit.com/faq/how-long-are-the-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long are the classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most group classes run 45-60 minutes, with ENDURE at 40 minutes for efficient cardio sessions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

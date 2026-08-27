@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What nutrition supports postpartum muscle regain?",
+  "description": "Nikki's coaching prioritizes 1.6g/kg protein, timed around nursing and training.",
+  "url": "cavetrainingfit.com/faq/what-nutrition-supports-postpartum-muscle-regain",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What nutrition supports postpartum muscle regain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nikki's coaching prioritizes 1.6g/kg protein, timed around nursing and training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

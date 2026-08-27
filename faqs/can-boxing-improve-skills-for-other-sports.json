@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can BOXING improve skills for other sports?",
+  "description": "Absolutely—enhances timing, power transfer, and endurance transferable to soccer, MMA, or running.",
+  "url": "cavetrainingfit.com/faq/can-boxing-improve-skills-for-other-sports",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can BOXING improve skills for other sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely—enhances timing, power transfer, and endurance transferable to soccer, MMA, or running."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

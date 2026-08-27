@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does powerlifting improve bone health for women?",
+  "description": "Heavy loading signals osteoblast activity; postmenopausal fracture protection.",
+  "url": "cavetrainingfit.com/faq/how-does-powerlifting-improve-bone-health-for-women",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does powerlifting improve bone health for women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heavy loading signals osteoblast activity; postmenopausal fracture protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

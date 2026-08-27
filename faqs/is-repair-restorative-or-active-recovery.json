@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is REPAIR restorative or active recovery?",
+  "description": "Active mobility flows to prime you for next GPP/SHRED, not passive posing.",
+  "url": "cavetrainingfit.com/faq/is-repair-restorative-or-active-recovery",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is REPAIR restorative or active recovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Active mobility flows to prime you for next GPP/SHRED, not passive posing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

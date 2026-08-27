@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does postpartum pelvic training affect sex life?",
+  "description": "Restored floor tone eliminates pain; 12-week program rebuilds intimacy confidence.",
+  "url": "cavetrainingfit.com/faq/how-does-postpartum-pelvic-training-affect-sex-life",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does postpartum pelvic training affect sex life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restored floor tone eliminates pain; 12-week program rebuilds intimacy confidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

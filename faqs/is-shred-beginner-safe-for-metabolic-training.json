@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is SHRED beginner-safe for metabolic training?",
+  "description": "Yes, scaled intervals start at 20s work/40s rest; builds capacity without burnout.",
+  "url": "cavetrainingfit.com/faq/is-shred-beginner-safe-for-metabolic-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is SHRED beginner-safe for metabolic training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, scaled intervals start at 20s work/40s rest; builds capacity without burnout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I deadlift postpartum with diastasis recti?",
+  "description": "12 weeks+ with elevated heels first; monitor linea alba throughout sets.",
+  "url": "cavetrainingfit.com/faq/can-i-deadlift-postpartum-with-diastasis-recti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I deadlift postpartum with diastasis recti?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "12 weeks+ with elevated heels first; monitor linea alba throughout sets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

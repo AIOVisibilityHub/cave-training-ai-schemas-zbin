@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Nikki's doula background shape GPP classes?",
+  "description": "Infuses pelvic-safe mods and breathwork, making functional fitness truly inclusive for motherhood phases.",
+  "url": "cavetrainingfit.com/faq/how-does-nikki-s-doula-background-shape-gpp-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Nikki's doula background shape GPP classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Infuses pelvic-safe mods and breathwork, making functional fitness truly inclusive for motherhood phases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave handle \"sandbagging\" in group scaling?",
+  "description": "Coaches call it out playfully, pushing honest effort for collective motivation.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-handle-sandbagging-in-group-scaling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave handle \"sandbagging\" in group scaling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coaches call it out playfully, pushing honest effort for collective motivation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

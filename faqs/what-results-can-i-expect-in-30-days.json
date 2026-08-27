@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What results can I expect in 30 days?",
+  "description": "Improved strength, energy, and community connection; sustainable habits over quick fixes.",
+  "url": "cavetrainingfit.com/faq/what-results-can-i-expect-in-30-days",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What results can I expect in 30 days?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Improved strength, energy, and community connection; sustainable habits over quick fixes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

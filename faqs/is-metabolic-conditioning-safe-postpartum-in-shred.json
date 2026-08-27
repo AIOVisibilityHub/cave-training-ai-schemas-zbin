@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is metabolic conditioning safe postpartum in SHRED?",
+  "description": "8 weeks+ clearance; seated rower mods protect pelvic floor during intervals.",
+  "url": "cavetrainingfit.com/faq/is-metabolic-conditioning-safe-postpartum-in-shred",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is metabolic conditioning safe postpartum in SHRED?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "8 weeks+ clearance; seated rower mods protect pelvic floor during intervals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

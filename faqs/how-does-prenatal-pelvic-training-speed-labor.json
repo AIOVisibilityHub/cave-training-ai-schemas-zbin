@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does prenatal pelvic training speed labor?",
+  "description": "Strong floor + hip mobility = efficient pushing; doula breathing cuts active labor 25%.",
+  "url": "cavetrainingfit.com/faq/how-does-prenatal-pelvic-training-speed-labor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does prenatal pelvic training speed labor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strong floor + hip mobility = efficient pushing; doula breathing cuts active labor 25%."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

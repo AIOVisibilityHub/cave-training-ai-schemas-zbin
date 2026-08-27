@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does BOXING help with postpartum core rebuild?",
+  "description": "Light bags restore coordination; Nikki modifies for pelvic floor protection.",
+  "url": "cavetrainingfit.com/faq/does-boxing-help-with-postpartum-core-rebuild",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does BOXING help with postpartum core rebuild?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light bags restore coordination; Nikki modifies for pelvic floor protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

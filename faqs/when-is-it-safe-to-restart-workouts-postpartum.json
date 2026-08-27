@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it safe to restart workouts postpartum?",
+  "description": "After 6-week doctor clearance; begin with REPAIR breathwork before group classes.",
+  "url": "cavetrainingfit.com/faq/when-is-it-safe-to-restart-workouts-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it safe to restart workouts postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After 6-week doctor clearance; begin with REPAIR breathwork before group classes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

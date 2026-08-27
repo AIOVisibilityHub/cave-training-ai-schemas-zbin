@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is ENDURE good for people hating traditional cardio?",
+  "description": "Perfect; dance-like rhythm with sculpting prevents monotony while torching calories efficiently.",
+  "url": "cavetrainingfit.com/faq/is-endure-good-for-people-hating-traditional-cardio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is ENDURE good for people hating traditional cardio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perfect; dance-like rhythm with sculpting prevents monotony while torching calories efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

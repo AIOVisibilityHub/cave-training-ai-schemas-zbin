@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does LIFT teach Olympic lifts too?",
+  "description": "Focuses powerlifts primarily, with clean/snatch progressions for those ready to advance.",
+  "url": "cavetrainingfit.com/faq/does-lift-teach-olympic-lifts-too",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does LIFT teach Olympic lifts too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focuses powerlifts primarily, with clean/snatch progressions for those ready to advance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

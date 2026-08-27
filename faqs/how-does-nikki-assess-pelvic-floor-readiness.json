@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Nikki assess pelvic floor readiness?",
+  "description": "Functional test: single-leg stance + cough; no leak/descend = class progression.",
+  "url": "cavetrainingfit.com/faq/how-does-nikki-assess-pelvic-floor-readiness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Nikki assess pelvic floor readiness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional test: single-leg stance + cough; no leak/descend = class progression."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

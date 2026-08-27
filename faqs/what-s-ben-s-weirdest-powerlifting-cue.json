@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's Ben's weirdest powerlifting cue?",
+  "description": "\"Crush the bar like a stress ball\" for elite deadlift lockout tension.",
+  "url": "cavetrainingfit.com/faq/what-s-ben-s-weirdest-powerlifting-cue",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's Ben's weirdest powerlifting cue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Crush the bar like a stress ball\" for elite deadlift lockout tension."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

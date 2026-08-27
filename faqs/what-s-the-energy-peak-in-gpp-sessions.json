@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the energy peak in GPP sessions?",
+  "description": "Team workouts with shared scores create electric accountability unlike solo lifting.",
+  "url": "cavetrainingfit.com/faq/what-s-the-energy-peak-in-gpp-sessions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the energy peak in GPP sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Team workouts with shared scores create electric accountability unlike solo lifting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

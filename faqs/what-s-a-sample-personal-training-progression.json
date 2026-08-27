@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's a sample Personal Training progression?",
+  "description": "Week 1: GPP fundamentals; Week 4: LIFT benchmarks; Month 2: SHRED intensity customization.",
+  "url": "cavetrainingfit.com/faq/what-s-a-sample-personal-training-progression",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's a sample Personal Training progression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Week 1: GPP fundamentals; Week 4: LIFT benchmarks; Month 2: SHRED intensity customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

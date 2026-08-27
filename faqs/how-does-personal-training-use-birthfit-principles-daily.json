@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Personal Training use \"BirthFit\" principles daily?",
+  "description": "Sustainable progressions for core/pelvic rebuild, preventing diastasis in everyday clients too.",
+  "url": "cavetrainingfit.com/faq/how-does-personal-training-use-birthfit-principles-daily",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Personal Training use \"BirthFit\" principles daily?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sustainable progressions for core/pelvic rebuild, preventing diastasis in everyday clients too."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

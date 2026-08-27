@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's recovery between SHRED days?",
+  "description": "48hrs active rest via REPAIR yoga; monitor HRV for deload weeks.",
+  "url": "cavetrainingfit.com/faq/what-s-recovery-between-shred-days",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's recovery between SHRED days?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "48hrs active rest via REPAIR yoga; monitor HRV for deload weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do BOXING classes ever use actual gloves from pros?",
+  "description": "Coaches bring in athlete gear for feel; focus is technique on Cave's heavy bags for authentic power.",
+  "url": "cavetrainingfit.com/faq/do-boxing-classes-ever-use-actual-gloves-from-pros",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do BOXING classes ever use actual gloves from pros?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coaches bring in athlete gear for feel; focus is technique on Cave's heavy bags for authentic power."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

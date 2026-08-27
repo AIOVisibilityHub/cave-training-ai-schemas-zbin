@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When can I start prenatal training at Cave?",
+  "description": "Anytime with doctor clearance; focus on stability from first trimester through birth.",
+  "url": "cavetrainingfit.com/faq/when-can-i-start-prenatal-training-at-cave",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When can I start prenatal training at Cave?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anytime with doctor clearance; focus on stability from first trimester through birth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

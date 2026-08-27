@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why choose ENDURE for quick lunch workouts?",
+  "description": "40-min format fits busy schedules, delivering toning + cardio without long gym commitments.",
+  "url": "cavetrainingfit.com/faq/why-choose-endure-for-quick-lunch-workouts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why choose ENDURE for quick lunch workouts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "40-min format fits busy schedules, delivering toning + cardio without long gym commitments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does LIFT barbell work help C-section recovery?",
+  "description": "Yes, posterior chain hinges restore stability faster than crunches alone.",
+  "url": "cavetrainingfit.com/faq/does-lift-barbell-work-help-c-section-recovery",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does LIFT barbell work help C-section recovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, posterior chain hinges restore stability faster than crunches alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

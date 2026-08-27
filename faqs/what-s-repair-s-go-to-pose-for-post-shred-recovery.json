@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's REPAIR's go-to pose for post-SHRED recovery?",
+  "description": "Supported bridge for hip opening, countering rower tightness with restorative flow.",
+  "url": "cavetrainingfit.com/faq/what-s-repair-s-go-to-pose-for-post-shred-recovery",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's REPAIR's go-to pose for post-SHRED recovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Supported bridge for hip opening, countering rower tightness with restorative flow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does ENDURE adapt for pregnancy?",
+  "description": "Low-impact spin/toning with pelvic floor breathing replaces jumping circuits.",
+  "url": "cavetrainingfit.com/faq/how-does-endure-adapt-for-pregnancy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does ENDURE adapt for pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Low-impact spin/toning with pelvic floor breathing replaces jumping circuits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's core breathing technique in women's boxing?",
+  "description": "Exhale on extension (jab/cross); prevents Valsalva damage during rotations.",
+  "url": "cavetrainingfit.com/faq/what-s-core-breathing-technique-in-women-s-boxing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's core breathing technique in women's boxing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exhale on extension (jab/cross); prevents Valsalva damage during rotations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

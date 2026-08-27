@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do GPP while \"showing\" significantly?",
+  "description": "Third trimester side-lying mods and seated gymnastics keep you moving comfortably.",
+  "url": "cavetrainingfit.com/faq/can-i-do-gpp-while-showing-significantly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do GPP while \"showing\" significantly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Third trimester side-lying mods and seated gymnastics keep you moving comfortably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

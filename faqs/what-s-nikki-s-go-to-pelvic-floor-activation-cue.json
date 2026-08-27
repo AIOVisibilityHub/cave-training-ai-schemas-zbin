@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's Nikki's go-to pelvic floor activation cue?",
+  "description": "\"Zip up like wearing tight jeans\"—TVA + floor co-contraction before every squat.",
+  "url": "cavetrainingfit.com/faq/what-s-nikki-s-go-to-pelvic-floor-activation-cue",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's Nikki's go-to pelvic floor activation cue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Zip up like wearing tight jeans\"—TVA + floor co-contraction before every squat."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

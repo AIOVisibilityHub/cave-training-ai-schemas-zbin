@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's an air bike's metabolic edge over treadmill?",
+  "description": "Upper/lower body engagement spikes heart rate 20% higher for unmatched conditioning.",
+  "url": "cavetrainingfit.com/faq/what-s-an-air-bike-s-metabolic-edge-over-treadmill",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's an air bike's metabolic edge over treadmill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upper/lower body engagement spikes heart rate 20% higher for unmatched conditioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is postpartum BOXING good for stress?",
+  "description": "Perfect; light bag work releases tension while rebuilding coordination safely.",
+  "url": "cavetrainingfit.com/faq/is-postpartum-boxing-good-for-stress",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is postpartum BOXING good for stress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perfect; light bag work releases tension while rebuilding coordination safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

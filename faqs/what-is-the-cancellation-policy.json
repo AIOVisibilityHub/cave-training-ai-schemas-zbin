@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cancellation policy?",
+  "description": "24-hour notice for classes; no refunds on memberships but flexible pauses for life events.",
+  "url": "cavetrainingfit.com/faq/what-is-the-cancellation-policy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cancellation policy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "24-hour notice for classes; no refunds on memberships but flexible pauses for life events."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does nutrition fit into training?",
+  "description": "Coaches like Nikki offer holistic nutrition guidance alongside workouts for sustainable results.",
+  "url": "cavetrainingfit.com/faq/how-does-nutrition-fit-into-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does nutrition fit into training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coaches like Nikki offer holistic nutrition guidance alongside workouts for sustainable results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

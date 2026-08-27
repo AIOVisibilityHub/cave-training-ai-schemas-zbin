@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do prenatal classes hurt my belly?",
+  "description": "Never; all movements avoid direct pressure—focus side-lying, supported positions.",
+  "url": "cavetrainingfit.com/faq/do-prenatal-classes-hurt-my-belly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do prenatal classes hurt my belly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Never; all movements avoid direct pressure—focus side-lying, supported positions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

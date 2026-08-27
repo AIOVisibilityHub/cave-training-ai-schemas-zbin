@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does female BOXING build visible abs?",
+  "description": "Core rotation drills torch obliques/transverse; pairs with SHRED for definition.",
+  "url": "cavetrainingfit.com/faq/does-female-boxing-build-visible-abs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does female BOXING build visible abs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core rotation drills torch obliques/transverse; pairs with SHRED for definition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

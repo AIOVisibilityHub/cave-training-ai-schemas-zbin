@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much are memberships?",
+  "description": "Babe Cave Unlimited $149/month (3-month commitment), class packs $115-$375, drop-ins $25; specialty series like postpartum $399.",
+  "url": "cavetrainingfit.com/faq/how-much-are-memberships",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much are memberships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Babe Cave Unlimited $149/month (3-month commitment), class packs $115-$375, drop-ins $25; specialty series like postpartum $399."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

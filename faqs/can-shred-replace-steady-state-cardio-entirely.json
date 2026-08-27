@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can SHRED replace steady-state cardio entirely?",
+  "description": "Absolutely; matched volume yields superior fat oxidation via alternating intensities.",
+  "url": "cavetrainingfit.com/faq/can-shred-replace-steady-state-cardio-entirely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can SHRED replace steady-state cardio entirely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely; matched volume yields superior fat oxidation via alternating intensities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

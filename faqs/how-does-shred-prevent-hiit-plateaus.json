@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does SHRED prevent HIIT plateaus?",
+  "description": "Weekly progression: add resistance, shorten rests, vary rower stroke rates dynamically.",
+  "url": "cavetrainingfit.com/faq/how-does-shred-prevent-hiit-plateaus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does SHRED prevent HIIT plateaus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weekly progression: add resistance, shorten rests, vary rower stroke rates dynamically."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

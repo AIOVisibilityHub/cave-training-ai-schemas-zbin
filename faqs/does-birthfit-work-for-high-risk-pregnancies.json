@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does BirthFit work for high-risk pregnancies?",
+  "description": "Modified; bed-supported exercises + education for gestational hypertension cases.",
+  "url": "cavetrainingfit.com/faq/does-birthfit-work-for-high-risk-pregnancies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does BirthFit work for high-risk pregnancies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modified; bed-supported exercises + education for gestational hypertension cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

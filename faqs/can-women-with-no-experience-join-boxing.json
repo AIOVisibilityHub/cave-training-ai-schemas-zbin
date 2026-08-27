@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can women with no experience join BOXING?",
+  "description": "Perfect starter; mirror work builds confidence before heavy bag power shots.",
+  "url": "cavetrainingfit.com/faq/can-women-with-no-experience-join-boxing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can women with no experience join BOXING?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perfect starter; mirror work builds confidence before heavy bag power shots."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

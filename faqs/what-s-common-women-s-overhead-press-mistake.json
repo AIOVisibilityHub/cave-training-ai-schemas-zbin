@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's common women's overhead press mistake?",
+  "description": "Arch compensation; LIFT drills strict pressing for shoulder stability first.",
+  "url": "cavetrainingfit.com/faq/what-s-common-women-s-overhead-press-mistake",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's common women's overhead press mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arch compensation; LIFT drills strict pressing for shoulder stability first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

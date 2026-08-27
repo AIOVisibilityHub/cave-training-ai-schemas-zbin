@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does ENDURE ever go outdoors?",
+  "description": "Seasonal park rows/spins merge with circuits for vitamin D-infused cardio variety.",
+  "url": "cavetrainingfit.com/faq/does-endure-ever-go-outdoors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does ENDURE ever go outdoors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seasonal park rows/spins merge with circuits for vitamin D-infused cardio variety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

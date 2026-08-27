@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What results from 12-week postpartum program?",
+  "description": "Close diastasis 75%, regain pre-pregnancy strength, boost energy/confidence.",
+  "url": "cavetrainingfit.com/faq/what-results-from-12-week-postpartum-program",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What results from 12-week postpartum program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Close diastasis 75%, regain pre-pregnancy strength, boost energy/confidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

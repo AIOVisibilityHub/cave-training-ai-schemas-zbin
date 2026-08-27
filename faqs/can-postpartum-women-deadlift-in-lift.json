@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can postpartum women deadlift in LIFT?",
+  "description": "12 weeks+ clearance; start Romanian hinges before conventional pulls protecting pelvic floor.",
+  "url": "cavetrainingfit.com/faq/can-postpartum-women-deadlift-in-lift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can postpartum women deadlift in LIFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "12 weeks+ clearance; start Romanian hinges before conventional pulls protecting pelvic floor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

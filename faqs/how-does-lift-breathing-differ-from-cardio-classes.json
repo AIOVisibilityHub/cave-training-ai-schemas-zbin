@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does LIFT breathing differ from cardio classes?",
+  "description": "Valsalva for spinal stability under load vs. nasal breathing in SHRED/ENDURE.",
+  "url": "cavetrainingfit.com/faq/how-does-lift-breathing-differ-from-cardio-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does LIFT breathing differ from cardio classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Valsalva for spinal stability under load vs. nasal breathing in SHRED/ENDURE."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

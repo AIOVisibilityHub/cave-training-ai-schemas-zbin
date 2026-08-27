@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What prenatal mods exist for SHRED HIIT?",
+  "description": "Seated rower variations, wall-supported cardio circuits avoid abdominal pressure.",
+  "url": "cavetrainingfit.com/faq/what-prenatal-mods-exist-for-shred-hiit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What prenatal mods exist for SHRED HIIT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seated rower variations, wall-supported cardio circuits avoid abdominal pressure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

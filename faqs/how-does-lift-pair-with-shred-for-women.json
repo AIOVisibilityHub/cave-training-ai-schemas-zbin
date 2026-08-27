@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does LIFT pair with SHRED for women?",
+  "description": "AM metabolic conditioning, PM barbell strength; optimal fat loss + power combo.",
+  "url": "cavetrainingfit.com/faq/how-does-lift-pair-with-shred-for-women",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does LIFT pair with SHRED for women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AM metabolic conditioning, PM barbell strength; optimal fat loss + power combo."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

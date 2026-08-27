@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you do SHRED fasted for fat loss?",
+  "description": "Optional mornings; BCAAs prevent muscle catabolism during high glycolytic demand.",
+  "url": "cavetrainingfit.com/faq/can-you-do-shred-fasted-for-fat-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you do SHRED fasted for fat loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Optional mornings; BCAAs prevent muscle catabolism during high glycolytic demand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

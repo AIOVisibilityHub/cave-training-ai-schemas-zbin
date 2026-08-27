@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does CrossFit L2 certification help moms?",
+  "description": "Advanced scaling knowledge prevents injury during rapidly changing body mechanics.",
+  "url": "cavetrainingfit.com/faq/how-does-crossfit-l2-certification-help-moms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does CrossFit L2 certification help moms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Advanced scaling knowledge prevents injury during rapidly changing body mechanics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

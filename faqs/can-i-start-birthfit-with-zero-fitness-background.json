@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I start BirthFit with zero fitness background?",
+  "description": "Perfect entry; scaled movements build baseline before group class integration.",
+  "url": "cavetrainingfit.com/faq/can-i-start-birthfit-with-zero-fitness-background",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I start BirthFit with zero fitness background?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perfect entry; scaled movements build baseline before group class integration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

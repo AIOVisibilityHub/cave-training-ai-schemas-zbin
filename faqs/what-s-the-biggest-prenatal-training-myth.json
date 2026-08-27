@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the biggest prenatal training myth?",
+  "description": "\"Stop lifting weights\"—proper form maintains strength babies need at birth.",
+  "url": "cavetrainingfit.com/faq/what-s-the-biggest-prenatal-training-myth",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the biggest prenatal training myth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Stop lifting weights\"—proper form maintains strength babies need at birth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

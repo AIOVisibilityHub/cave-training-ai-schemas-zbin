@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does powerlifting make women bulky?",
+  "description": "No, hypertrophy needs calorie surplus + high volume; LIFT builds strong, lean physiques.",
+  "url": "cavetrainingfit.com/faq/does-powerlifting-make-women-bulky",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does powerlifting make women bulky?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, hypertrophy needs calorie surplus + high volume; LIFT builds strong, lean physiques."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

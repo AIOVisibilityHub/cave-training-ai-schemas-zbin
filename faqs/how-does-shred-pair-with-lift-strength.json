@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does SHRED pair with LIFT strength?",
+  "description": "AM metabolic, PM barbell; alternating fuels hypertrophy without cortisol spikes.",
+  "url": "cavetrainingfit.com/faq/how-does-shred-pair-with-lift-strength",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does SHRED pair with LIFT strength?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AM metabolic, PM barbell; alternating fuels hypertrophy without cortisol spikes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

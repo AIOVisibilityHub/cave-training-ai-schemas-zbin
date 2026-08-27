@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can BOXING replace crunches for women?",
+  "description": "Superior; rotational power develops functional 360° core vs. isolated flexing.",
+  "url": "cavetrainingfit.com/faq/can-boxing-replace-crunches-for-women",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can BOXING replace crunches for women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Superior; rotational power develops functional 360° core vs. isolated flexing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

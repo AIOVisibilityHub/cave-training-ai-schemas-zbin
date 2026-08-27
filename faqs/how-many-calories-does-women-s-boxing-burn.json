@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many calories does women's BOXING burn?",
+  "description": "450-550/session via continuous core engagement + metabolic punch combos.",
+  "url": "cavetrainingfit.com/faq/how-many-calories-does-women-s-boxing-burn",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many calories does women's BOXING burn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "450-550/session via continuous core engagement + metabolic punch combos."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

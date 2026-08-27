@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's hand care for women new to bag work?",
+  "description": "Wrap knuckles properly; ice post-class prevents first-week soreness.",
+  "url": "cavetrainingfit.com/faq/what-s-hand-care-for-women-new-to-bag-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's hand care for women new to bag work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wrap knuckles properly; ice post-class prevents first-week soreness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

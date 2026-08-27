@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How fast do women gain strength in LIFT?",
+  "description": "20-30% squat/bench gains first 8 weeks; linear progression beats cardio plateaus.",
+  "url": "cavetrainingfit.com/faq/how-fast-do-women-gain-strength-in-lift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How fast do women gain strength in LIFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20-30% squat/bench gains first 8 weeks; linear progression beats cardio plateaus."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

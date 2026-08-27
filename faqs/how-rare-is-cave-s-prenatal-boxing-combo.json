@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How rare is Cave's prenatal boxing combo?",
+  "description": "Unique hybrid: light bag work builds endurance safely, unseen in most studios.",
+  "url": "cavetrainingfit.com/faq/how-rare-is-cave-s-prenatal-boxing-combo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How rare is Cave's prenatal boxing combo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unique hybrid: light bag work builds endurance safely, unseen in most studios."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

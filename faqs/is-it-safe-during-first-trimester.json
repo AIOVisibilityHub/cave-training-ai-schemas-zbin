@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe during first trimester?",
+  "description": "Yes, with doctor approval; low-impact mods emphasize stability and breathwork.",
+  "url": "cavetrainingfit.com/faq/is-it-safe-during-first-trimester",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe during first trimester?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with doctor approval; low-impact mods emphasize stability and breathwork."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

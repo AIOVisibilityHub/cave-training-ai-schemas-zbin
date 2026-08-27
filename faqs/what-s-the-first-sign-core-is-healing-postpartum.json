@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the first sign core is healing postpartum?",
+  "description": "Holding plank without belly doming; weekly TVA tests track diastasis closure progress.",
+  "url": "cavetrainingfit.com/faq/what-s-the-first-sign-core-is-healing-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the first sign core is healing postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Holding plank without belly doming; weekly TVA tests track diastasis closure progress."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

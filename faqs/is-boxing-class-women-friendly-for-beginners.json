@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is BOXING class women-friendly for beginners?",
+  "description": "Yes, all-female or mixed small groups; starts with stance/footwork before bag contact.",
+  "url": "cavetrainingfit.com/faq/is-boxing-class-women-friendly-for-beginners",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is BOXING class women-friendly for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all-female or mixed small groups; starts with stance/footwork before bag contact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

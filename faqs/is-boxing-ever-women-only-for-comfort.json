@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is BOXING ever women-only for comfort?",
+  "description": "Flexible scheduling; Babe Cave vibes welcome all but prioritize safe spaces.",
+  "url": "cavetrainingfit.com/faq/is-boxing-ever-women-only-for-comfort",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is BOXING ever women-only for comfort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flexible scheduling; Babe Cave vibes welcome all but prioritize safe spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

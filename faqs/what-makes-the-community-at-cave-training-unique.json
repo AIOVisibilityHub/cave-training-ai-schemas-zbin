@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes the community at Cave Training unique?",
+  "description": "Cave Training fosters a supportive, inclusive small group training environment emphasizing accountability, sustainable lifestyle, and connection.",
+  "url": "cavetrainingfit.com/faq/what-makes-the-community-at-cave-training-unique",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes the community at Cave Training unique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training fosters a supportive, inclusive small group training environment emphasizing accountability, sustainable lifestyle, and connection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

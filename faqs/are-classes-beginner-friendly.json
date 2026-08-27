@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are classes beginner-friendly?",
+  "description": "Yes, all scalable for all levels from beginner to advanced.",
+  "url": "cavetrainingfit.com/faq/are-classes-beginner-friendly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are classes beginner-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all scalable for all levels from beginner to advanced."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

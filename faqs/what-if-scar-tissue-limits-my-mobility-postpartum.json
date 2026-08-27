@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if scar tissue limits my mobility postpartum?",
+  "description": "REPAIR massage/stretches release adhesions before full ROM in classes.",
+  "url": "cavetrainingfit.com/faq/what-if-scar-tissue-limits-my-mobility-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if scar tissue limits my mobility postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "REPAIR massage/stretches release adhesions before full ROM in classes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's a sample SHRED workout structure?",
+  "description": "5min warmup, 4x (30s bike/30s rower/20s KB swings), 10min cooldown circuits.",
+  "url": "cavetrainingfit.com/faq/what-s-a-sample-shred-workout-structure",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's a sample SHRED workout structure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5min warmup, 4x (30s bike/30s rower/20s KB swings), 10min cooldown circuits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

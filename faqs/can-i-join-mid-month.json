@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I join mid-month?",
+  "description": "Yes, pro-rated memberships start anytime with immediate class access.",
+  "url": "cavetrainingfit.com/faq/can-i-join-mid-month",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I join mid-month?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, pro-rated memberships start anytime with immediate class access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

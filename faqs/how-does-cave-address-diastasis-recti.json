@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave address diastasis recti?",
+  "description": "BirthFit progressions rebuild linea alba through TVA activation and spacing.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-address-diastasis-recti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave address diastasis recti?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BirthFit progressions rebuild linea alba through TVA activation and spacing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

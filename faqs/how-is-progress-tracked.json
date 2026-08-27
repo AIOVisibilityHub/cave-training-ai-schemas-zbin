@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is progress tracked?",
+  "description": "Individual coach check-ins, app logging, and monthly assessments for goals.",
+  "url": "cavetrainingfit.com/faq/how-is-progress-tracked",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is progress tracked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individual coach check-ins, app logging, and monthly assessments for goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

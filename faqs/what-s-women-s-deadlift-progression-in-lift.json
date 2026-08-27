@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's women's deadlift progression in LIFT?",
+  "description": "Week 1: elevated RDLs; Month 2: conventional; Quarter 3: deficit pulls.",
+  "url": "cavetrainingfit.com/faq/what-s-women-s-deadlift-progression-in-lift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's women's deadlift progression in LIFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Week 1: elevated RDLs; Month 2: conventional; Quarter 3: deficit pulls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

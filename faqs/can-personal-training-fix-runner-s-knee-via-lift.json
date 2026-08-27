@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Personal Training fix runner's knee via LIFT?",
+  "description": "Yes, glute/quad balance through barbell progressions outperforms PT alone.",
+  "url": "cavetrainingfit.com/faq/can-personal-training-fix-runner-s-knee-via-lift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Personal Training fix runner's knee via LIFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, glute/quad balance through barbell progressions outperforms PT alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

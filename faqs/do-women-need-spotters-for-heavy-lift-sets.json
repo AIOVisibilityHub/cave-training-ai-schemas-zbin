@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do women need spotters for heavy LIFT sets?",
+  "description": "Safety pins set every session; coaches teach auto-regulation over ego lifting.",
+  "url": "cavetrainingfit.com/faq/do-women-need-spotters-for-heavy-lift-sets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do women need spotters for heavy LIFT sets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety pins set every session; coaches teach auto-regulation over ego lifting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

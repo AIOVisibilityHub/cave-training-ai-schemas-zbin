@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can prenatal deadlifts prevent delivery tears?",
+  "description": "Posterior chain strength + proper bracing reduces perineal strain during pushing phase.",
+  "url": "cavetrainingfit.com/faq/can-prenatal-deadlifts-prevent-delivery-tears",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can prenatal deadlifts prevent delivery tears?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Posterior chain strength + proper bracing reduces perineal strain during pushing phase."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

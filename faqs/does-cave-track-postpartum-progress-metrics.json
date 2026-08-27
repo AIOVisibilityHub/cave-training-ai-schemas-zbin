@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Cave track postpartum progress metrics?",
+  "description": "Monthly TVA tests, strength benchmarks, and mood/energy logs with coaches.",
+  "url": "cavetrainingfit.com/faq/does-cave-track-postpartum-progress-metrics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Cave track postpartum progress metrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monthly TVA tests, strength benchmarks, and mood/energy logs with coaches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

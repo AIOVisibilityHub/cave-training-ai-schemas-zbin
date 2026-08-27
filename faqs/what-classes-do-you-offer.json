@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What classes do you offer?",
+  "description": "GPP (functional fitness with weights/gymnastics), SHRED (HIIT circuits), BOXING (bag work/core), ENDURE (cardio toning), LIFT (barbell strength), personal train",
+  "url": "cavetrainingfit.com/faq/what-classes-do-you-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What classes do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GPP (functional fitness with weights/gymnastics), SHRED (HIIT circuits), BOXING (bag work/core), ENDURE (cardio toning), LIFT (barbell strength), personal training, REPAIR/yoga."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

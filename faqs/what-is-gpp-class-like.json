@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GPP class like?",
+  "description": "General Physical Preparedness mixes strength, gymnastics, and metabolic conditioning for well-rounded fitness.",
+  "url": "cavetrainingfit.com/faq/what-is-gpp-class-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GPP class like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General Physical Preparedness mixes strength, gymnastics, and metabolic conditioning for well-rounded fitness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's proper squat stance for women's hips?",
+  "description": "Hip-width with toes 15° out; Ben coaches pelvic positioning to avoid knee cave.",
+  "url": "cavetrainingfit.com/faq/what-s-proper-squat-stance-for-women-s-hips",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's proper squat stance for women's hips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hip-width with toes 15° out; Ben coaches pelvic positioning to avoid knee cave."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

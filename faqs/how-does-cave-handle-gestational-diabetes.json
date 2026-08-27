@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave handle gestational diabetes?",
+  "description": "Modified SHRED carb-burning circuits plus glucose monitoring with coach input.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-handle-gestational-diabetes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave handle gestational diabetes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modified SHRED carb-burning circuits plus glucose monitoring with coach input."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

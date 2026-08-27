@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does LIFT fix \"lower back taking squats\" issue?",
+  "description": "Cue training eliminates lumbar dominance; hip drive first builds glute power safely.",
+  "url": "cavetrainingfit.com/faq/does-lift-fix-lower-back-taking-squats-issue",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does LIFT fix \"lower back taking squats\" issue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cue training eliminates lumbar dominance; hip drive first builds glute power safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

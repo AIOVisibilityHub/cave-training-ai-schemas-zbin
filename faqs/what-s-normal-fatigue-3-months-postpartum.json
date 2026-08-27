@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's normal fatigue 3 months postpartum?",
+  "description": "Expected; ENDURE builds capacity gradually while honoring sleep deprivation.",
+  "url": "cavetrainingfit.com/faq/what-s-normal-fatigue-3-months-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's normal fatigue 3 months postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expected; ENDURE builds capacity gradually while honoring sleep deprivation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

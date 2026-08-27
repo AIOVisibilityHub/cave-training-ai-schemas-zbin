@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's female boxing footwork progression?",
+  "description": "Pivot drills → lateral shuffles → ring movement; builds agility without jumps.",
+  "url": "cavetrainingfit.com/faq/what-s-female-boxing-footwork-progression",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's female boxing footwork progression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pivot drills → lateral shuffles → ring movement; builds agility without jumps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

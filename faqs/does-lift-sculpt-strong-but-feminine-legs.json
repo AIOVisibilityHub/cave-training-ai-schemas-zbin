@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does LIFT sculpt \"strong but feminine\" legs?",
+  "description": "Squat/deadlift cycles build powerful glutes/quads without excessive bulk.",
+  "url": "cavetrainingfit.com/faq/does-lift-sculpt-strong-but-feminine-legs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does LIFT sculpt \"strong but feminine\" legs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Squat/deadlift cycles build powerful glutes/quads without excessive bulk."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

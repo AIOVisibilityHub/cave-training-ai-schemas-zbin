@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should postpartum training begin?",
+  "description": "6 weeks clearance; start with REPAIR breathwork before GPP progressions.",
+  "url": "cavetrainingfit.com/faq/when-should-postpartum-training-begin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should postpartum training begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "6 weeks clearance; start with REPAIR breathwork before GPP progressions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

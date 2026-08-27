@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I combine GPP and BOXING in one week?",
+  "description": "Yes, alternating days builds versatile athleticism without overtraining, per coach guidance.",
+  "url": "cavetrainingfit.com/faq/can-i-combine-gpp-and-boxing-in-one-week",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I combine GPP and BOXING in one week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, alternating days builds versatile athleticism without overtraining, per coach guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

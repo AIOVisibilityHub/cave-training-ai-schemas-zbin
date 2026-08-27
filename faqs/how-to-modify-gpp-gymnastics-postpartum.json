@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to modify GPP gymnastics postpartum?",
+  "description": "Wall walks, seated rings; prioritize shoulder stability over full inversions.",
+  "url": "cavetrainingfit.com/faq/how-to-modify-gpp-gymnastics-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to modify GPP gymnastics postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wall walks, seated rings; prioritize shoulder stability over full inversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BOXING sculpt arms for women?",
+  "description": "High-rep jabs develop shoulder/tricep tone without bulky hypertrophy.",
+  "url": "cavetrainingfit.com/faq/how-does-boxing-sculpt-arms-for-women",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BOXING sculpt arms for women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-rep jabs develop shoulder/tricep tone without bulky hypertrophy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

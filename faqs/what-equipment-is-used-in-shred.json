@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What equipment is used in SHRED?",
+  "description": "Rowers, air bikes, kettlebells, and bodyweight for high-intensity full-body circuits.",
+  "url": "cavetrainingfit.com/faq/what-equipment-is-used-in-shred",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What equipment is used in SHRED?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rowers, air bikes, kettlebells, and bodyweight for high-intensity full-body circuits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

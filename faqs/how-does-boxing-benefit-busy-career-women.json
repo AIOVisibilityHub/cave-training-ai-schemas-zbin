@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BOXING benefit busy career women?",
+  "description": "45-min total-body conditioning fits lunch breaks better than weights+cardio.",
+  "url": "cavetrainingfit.com/faq/how-does-boxing-benefit-busy-career-women",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BOXING benefit busy career women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "45-min total-body conditioning fits lunch breaks better than weights+cardio."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

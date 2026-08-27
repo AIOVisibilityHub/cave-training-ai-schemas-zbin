@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can SHRED help break weight loss stalls?",
+  "description": "Metabolic reset via glycolytic training restarts fat adaptation in 2-4 weeks.",
+  "url": "cavetrainingfit.com/faq/can-shred-help-break-weight-loss-stalls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can SHRED help break weight loss stalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metabolic reset via glycolytic training restarts fat adaptation in 2-4 weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ever had a GPP class turn into impromptu games?",
+  "description": "Yes, gymnastics challenges like partner carries add fun competition to conditioning.",
+  "url": "cavetrainingfit.com/faq/ever-had-a-gpp-class-turn-into-impromptu-games",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ever had a GPP class turn into impromptu games?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, gymnastics challenges like partner carries add fun competition to conditioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the class vibe for women in BOXING?",
+  "description": "Empowering, no ego-lifting; stress relief through primal bag pounding.",
+  "url": "cavetrainingfit.com/faq/what-s-the-class-vibe-for-women-in-boxing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the class vibe for women in BOXING?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Empowering, no ego-lifting; stress relief through primal bag pounding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

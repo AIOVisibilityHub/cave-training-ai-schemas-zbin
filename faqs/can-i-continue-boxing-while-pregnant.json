@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I continue BOXING while pregnant?",
+  "description": "Light bag combos and footwork through 36 weeks; no abdominal impact work.",
+  "url": "cavetrainingfit.com/faq/can-i-continue-boxing-while-pregnant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I continue BOXING while pregnant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light bag combos and footwork through 36 weeks; no abdominal impact work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

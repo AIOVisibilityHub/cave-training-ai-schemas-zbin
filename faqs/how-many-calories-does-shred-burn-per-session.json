@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many calories does SHRED burn per session?",
+  "description": "400-600+ via full-body metabolic activation; post-workout EPOC extends fat loss 24 hours.",
+  "url": "cavetrainingfit.com/faq/how-many-calories-does-shred-burn-per-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many calories does SHRED burn per session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "400-600+ via full-body metabolic activation; post-workout EPOC extends fat loss 24 hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

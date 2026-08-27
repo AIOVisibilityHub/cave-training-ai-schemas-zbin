@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BOXING build mental toughness?",
+  "description": "Pushing through bag rounds cultivates grit, mirroring Cave's overall hard-work philosophy.",
+  "url": "cavetrainingfit.com/faq/how-does-boxing-build-mental-toughness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BOXING build mental toughness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pushing through bag rounds cultivates grit, mirroring Cave's overall hard-work philosophy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the vibe during a GPP workout?",
+  "description": "High-energy small groups cheering PRs, with coaches tweaking gymnastics for your exact mobility level.",
+  "url": "cavetrainingfit.com/faq/what-s-the-vibe-during-a-gpp-workout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the vibe during a GPP workout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-energy small groups cheering PRs, with coaches tweaking gymnastics for your exact mobility level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

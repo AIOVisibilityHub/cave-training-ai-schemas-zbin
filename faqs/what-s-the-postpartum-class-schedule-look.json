@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the postpartum class schedule look?",
+  "description": "Morning REPAIR, midday LIFT, evening GPP; flexible for new mom timing.",
+  "url": "cavetrainingfit.com/faq/what-s-the-postpartum-class-schedule-look",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the postpartum class schedule look?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Morning REPAIR, midday LIFT, evening GPP; flexible for new mom timing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

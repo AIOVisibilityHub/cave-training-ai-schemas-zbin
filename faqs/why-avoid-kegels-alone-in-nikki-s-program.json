@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why avoid Kegels alone in Nikki's program?",
+  "description": "Isolated squeezes create dysfunction; functional integration via squats > isolation.",
+  "url": "cavetrainingfit.com/faq/why-avoid-kegels-alone-in-nikki-s-program",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why avoid Kegels alone in Nikki's program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Isolated squeezes create dysfunction; functional integration via squats > isolation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

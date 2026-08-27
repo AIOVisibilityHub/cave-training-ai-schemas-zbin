@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many weeks pregnant is too far along?",
+  "description": "None with mods; third trimester clients do elevated glute bridges and seated row variations.",
+  "url": "cavetrainingfit.com/faq/how-many-weeks-pregnant-is-too-far-along",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many weeks pregnant is too far along?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "None with mods; third trimester clients do elevated glute bridges and seated row variations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BOXING class benefit me?",
+  "description": "Builds power, endurance, stress relief, and coordination without sparring.",
+  "url": "cavetrainingfit.com/faq/how-does-boxing-class-benefit-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BOXING class benefit me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Builds power, endurance, stress relief, and coordination without sparring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

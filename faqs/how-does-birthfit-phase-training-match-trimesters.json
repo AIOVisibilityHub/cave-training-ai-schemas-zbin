@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BirthFit phase training match trimesters?",
+  "description": "Phase 1 (stability), Phase 2 (power), Phase 3 (labor endurance) mirror body changes.",
+  "url": "cavetrainingfit.com/faq/how-does-birthfit-phase-training-match-trimesters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BirthFit phase training match trimesters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phase 1 (stability), Phase 2 (power), Phase 3 (labor endurance) mirror body changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

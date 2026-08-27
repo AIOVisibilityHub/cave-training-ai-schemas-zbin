@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does pelvic health training fix incontinence?",
+  "description": "Yes, functional kegels evolve to squats with proper pressure management over 8 weeks.",
+  "url": "cavetrainingfit.com/faq/does-pelvic-health-training-fix-incontinence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does pelvic health training fix incontinence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, functional kegels evolve to squats with proper pressure management over 8 weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

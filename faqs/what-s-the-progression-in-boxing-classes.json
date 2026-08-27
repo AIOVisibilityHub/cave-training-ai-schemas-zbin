@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the progression in BOXING classes?",
+  "description": "Beginner bags to combo flows, adding endurance rounds for pro-level stamina over 8 weeks.",
+  "url": "cavetrainingfit.com/faq/what-s-the-progression-in-boxing-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the progression in BOXING classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginner bags to combo flows, adding endurance rounds for pro-level stamina over 8 weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does prenatal training reduce labor pain?",
+  "description": "Core stability and breathwork from Nikki's doula methods ease delivery stages.",
+  "url": "cavetrainingfit.com/faq/does-prenatal-training-reduce-labor-pain",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does prenatal training reduce labor pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core stability and breathwork from Nikki's doula methods ease delivery stages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does BOXING help women with stress eating?",
+  "description": "Cortisol drop + endorphin surge kills cravings; members report better sleep.",
+  "url": "cavetrainingfit.com/faq/does-boxing-help-women-with-stress-eating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does BOXING help women with stress eating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cortisol drop + endorphin surge kills cravings; members report better sleep."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

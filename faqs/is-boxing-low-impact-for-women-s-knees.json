@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is BOXING low-impact for women's knees?",
+  "description": "Floor-based stance work; minimal jumping preserves joints during endurance.",
+  "url": "cavetrainingfit.com/faq/is-boxing-low-impact-for-women-s-knees",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is BOXING low-impact for women's knees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Floor-based stance work; minimal jumping preserves joints during endurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

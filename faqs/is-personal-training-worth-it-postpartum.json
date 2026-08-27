@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is personal training worth it postpartum?",
+  "description": "Essential for custom progressions; prevents injury during group class return.",
+  "url": "cavetrainingfit.com/faq/is-personal-training-worth-it-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is personal training worth it postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential for custom progressions; prevents injury during group class return."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

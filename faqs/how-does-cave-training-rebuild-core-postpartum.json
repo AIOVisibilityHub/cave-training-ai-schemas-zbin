@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave Training rebuild core postpartum?",
+  "description": "BirthFit progressions activate TVA, close diastasis via targeted GPP modifications.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-training-rebuild-core-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave Training rebuild core postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BirthFit progressions activate TVA, close diastasis via targeted GPP modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

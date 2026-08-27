@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is LIFT barbell training prenatal-safe?",
+  "description": "Goblet squats and deadlift hinges with empty bars maintain posterior chain safely.",
+  "url": "cavetrainingfit.com/faq/is-lift-barbell-training-prenatal-safe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is LIFT barbell training prenatal-safe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Goblet squats and deadlift hinges with empty bars maintain posterior chain safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

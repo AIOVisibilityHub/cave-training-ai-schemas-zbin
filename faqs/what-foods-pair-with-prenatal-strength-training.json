@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What foods pair with prenatal strength training?",
+  "description": "Nikki recommends 25g protein/meal + omega-3s for joint health during weight-bearing.",
+  "url": "cavetrainingfit.com/faq/what-foods-pair-with-prenatal-strength-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What foods pair with prenatal strength training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nikki recommends 25g protein/meal + omega-3s for joint health during weight-bearing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

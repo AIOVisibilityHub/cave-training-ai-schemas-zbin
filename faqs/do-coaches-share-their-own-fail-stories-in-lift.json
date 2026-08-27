@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do coaches share their own fail stories in LIFT?",
+  "description": "Constantly—normalizes plateaus, keeps technique humility front and center.",
+  "url": "cavetrainingfit.com/faq/do-coaches-share-their-own-fail-stories-in-lift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do coaches share their own fail stories in LIFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Constantly—normalizes plateaus, keeps technique humility front and center."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

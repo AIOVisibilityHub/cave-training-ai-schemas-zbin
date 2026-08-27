@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can older women (50+) thrive in LIFT?",
+  "description": "Absolutely; progressive overload preserves sarcopenia-fighting muscle mass.",
+  "url": "cavetrainingfit.com/faq/can-older-women-50-thrive-in-lift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can older women (50+) thrive in LIFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely; progressive overload preserves sarcopenia-fighting muscle mass."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

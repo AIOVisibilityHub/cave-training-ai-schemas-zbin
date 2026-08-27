@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's tempo training benefit for female lifters?",
+  "description": "3-sec eccentric builds control; prevents bounce cheating in squat/bench depth.",
+  "url": "cavetrainingfit.com/faq/what-s-tempo-training-benefit-for-female-lifters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's tempo training benefit for female lifters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3-sec eccentric builds control; prevents bounce cheating in squat/bench depth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

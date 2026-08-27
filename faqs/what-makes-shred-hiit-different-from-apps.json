@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes SHRED HIIT different from apps?",
+  "description": "Coach-led rower/air bike circuits with real-time scaling beat solo screen timers for adherence.",
+  "url": "cavetrainingfit.com/faq/what-makes-shred-hiit-different-from-apps",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes SHRED HIIT different from apps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coach-led rower/air bike circuits with real-time scaling beat solo screen timers for adherence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

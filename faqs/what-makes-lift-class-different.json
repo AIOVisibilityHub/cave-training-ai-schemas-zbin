@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes LIFT class different?",
+  "description": "Pure barbell focus on squat, deadlift, press, and bench for technique and progressive overload.",
+  "url": "cavetrainingfit.com/faq/what-makes-lift-class-different",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes LIFT class different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pure barbell focus on squat, deadlift, press, and bench for technique and progressive overload."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

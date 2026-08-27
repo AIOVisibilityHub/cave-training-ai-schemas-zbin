@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is BirthFit training?",
+  "description": "Evidence-based progressions for pregnancy/postpartum using functional movements to prep body for birth and recovery.",
+  "url": "cavetrainingfit.com/faq/what-exactly-is-birthfit-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is BirthFit training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evidence-based progressions for pregnancy/postpartum using functional movements to prep body for birth and recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

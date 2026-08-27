@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to squat heavy postpartum?",
+  "description": "16 weeks+ with form checks; start box squats to protect pelvic floor.",
+  "url": "cavetrainingfit.com/faq/is-it-safe-to-squat-heavy-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to squat heavy postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "16 weeks+ with form checks; start box squats to protect pelvic floor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

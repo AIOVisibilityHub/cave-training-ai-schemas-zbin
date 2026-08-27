@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ENDURE sync to my Spotify playlist?",
+  "description": "Rhythm-based but coach-led beats; request favorites to match your 40-min flow state.",
+  "url": "cavetrainingfit.com/faq/can-endure-sync-to-my-spotify-playlist",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ENDURE sync to my Spotify playlist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rhythm-based but coach-led beats; request favorites to match your 40-min flow state."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

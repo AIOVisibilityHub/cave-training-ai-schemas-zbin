@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How soon after C-section can I join classes?",
+  "description": "8-12 weeks with clearance; gentle LIFT hinges before full group classes.",
+  "url": "cavetrainingfit.com/faq/how-soon-after-c-section-can-i-join-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How soon after C-section can I join classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "8-12 weeks with clearance; gentle LIFT hinges before full group classes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

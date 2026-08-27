@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can SHRED replace my running routine?",
+  "description": "Yes, rower/bike intervals match distance benefits with lower joint impact and added strength.",
+  "url": "cavetrainingfit.com/faq/can-shred-replace-my-running-routine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can SHRED replace my running routine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, rower/bike intervals match distance benefits with lower joint impact and added strength."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

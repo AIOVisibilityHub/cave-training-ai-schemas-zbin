@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does SHRED use air bikes uniquely?",
+  "description": "Assault bike sprints integrated into circuits for unmatched full-body metabolic conditioning.",
+  "url": "cavetrainingfit.com/faq/how-does-shred-use-air-bikes-uniquely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does SHRED use air bikes uniquely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assault bike sprints integrated into circuits for unmatched full-body metabolic conditioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

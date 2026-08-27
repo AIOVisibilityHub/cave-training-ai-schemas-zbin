@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave handle urinary leakage postpartum?",
+  "description": "Pelvic floor integration in every REPAIR class; Kegels evolve to functional lifts.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-handle-urinary-leakage-postpartum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave handle urinary leakage postpartum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pelvic floor integration in every REPAIR class; Kegels evolve to functional lifts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

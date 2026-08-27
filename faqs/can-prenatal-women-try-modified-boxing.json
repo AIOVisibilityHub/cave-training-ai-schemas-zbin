@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can prenatal women try modified BOXING?",
+  "description": "Shadow boxing + light speed bag through 32 weeks; builds birth endurance.",
+  "url": "cavetrainingfit.com/faq/can-prenatal-women-try-modified-boxing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can prenatal women try modified BOXING?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shadow boxing + light speed bag through 32 weeks; builds birth endurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

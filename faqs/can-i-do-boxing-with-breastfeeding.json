@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do BOXING with breastfeeding?",
+  "description": "Yes, quick sessions fit nursing schedules; hydration key for milk supply.",
+  "url": "cavetrainingfit.com/faq/can-i-do-boxing-with-breastfeeding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do BOXING with breastfeeding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, quick sessions fit nursing schedules; hydration key for milk supply."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

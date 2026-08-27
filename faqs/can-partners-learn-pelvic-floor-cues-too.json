@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can partners learn pelvic floor cues too?",
+  "description": "Yes, duo sessions teach bracing spotting for safe home support exercises.",
+  "url": "cavetrainingfit.com/faq/can-partners-learn-pelvic-floor-cues-too",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can partners learn pelvic floor cues too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, duo sessions teach bracing spotting for safe home support exercises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

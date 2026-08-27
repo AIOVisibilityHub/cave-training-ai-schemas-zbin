@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ever seen GPP gymnastics scare off CrossFit vets?",
+  "description": "Rarely; Cave's scaling makes handstands accessible, turning skeptics to fans.",
+  "url": "cavetrainingfit.com/faq/ever-seen-gpp-gymnastics-scare-off-crossfit-vets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ever seen GPP gymnastics scare off CrossFit vets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarely; Cave's scaling makes handstands accessible, turning skeptics to fans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

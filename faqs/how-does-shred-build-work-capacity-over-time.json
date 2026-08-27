@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does SHRED build work capacity over time?",
+  "description": "Interval progression logs track watts/calories; members double output in 8 weeks.",
+  "url": "cavetrainingfit.com/faq/how-does-shred-build-work-capacity-over-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does SHRED build work capacity over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interval progression logs track watts/calories; members double output in 8 weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

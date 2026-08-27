@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What postpartum recovery tips do you give?",
+  "description": "Focus on pelvic floor strength, core reactivation, and gradual return via BirthFit-inspired programming.",
+  "url": "cavetrainingfit.com/faq/what-postpartum-recovery-tips-do-you-give",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What postpartum recovery tips do you give?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus on pelvic floor strength, core reactivation, and gradual return via BirthFit-inspired programming."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

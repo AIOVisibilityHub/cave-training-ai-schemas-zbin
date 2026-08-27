@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's \"pelvic neutral\" in postpartum squats?",
+  "description": "Neutral pelvis alignment prevents floor overload; Nikki cues hip hinge first always.",
+  "url": "cavetrainingfit.com/faq/what-s-pelvic-neutral-in-postpartum-squats",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's \"pelvic neutral\" in postpartum squats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neutral pelvis alignment prevents floor overload; Nikki cues hip hinge first always."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

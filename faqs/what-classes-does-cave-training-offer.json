@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What classes does Cave Training offer?",
+  "description": "Classes include GPP, SHRED (HIIT), Boxing, ENDURE cardio, and LIFT barbell strength training for functional movement and conditioning.",
+  "url": "cavetrainingfit.com/faq/what-classes-does-cave-training-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What classes does Cave Training offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Classes include GPP, SHRED (HIIT), Boxing, ENDURE cardio, and LIFT barbell strength training for functional movement and conditioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BirthFit prevent C-section complications?",
+  "description": "Scar mobility work + hip opening starts week 2 post-surgery for faster recovery.",
+  "url": "cavetrainingfit.com/faq/how-does-birthfit-prevent-c-section-complications",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BirthFit prevent C-section complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scar mobility work + hip opening starts week 2 post-surgery for faster recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

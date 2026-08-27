@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is parking available?",
+  "description": "Free street parking around 21515 Soledad Canyon Rd; arrive early for peak hours.",
+  "url": "cavetrainingfit.com/faq/is-parking-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is parking available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Free street parking around 21515 Soledad Canyon Rd; arrive early for peak hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

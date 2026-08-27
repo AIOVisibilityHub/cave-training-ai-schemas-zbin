@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is LIFT class beginner-friendly for women new to barbells?",
+  "description": "Yes, starts with PVC pipes/empty bars; coaches prioritize form over weight from day 1.",
+  "url": "cavetrainingfit.com/faq/is-lift-class-beginner-friendly-for-women-new-to-barbells",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is LIFT class beginner-friendly for women new to barbells?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, starts with PVC pipes/empty bars; coaches prioritize form over weight from day 1."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

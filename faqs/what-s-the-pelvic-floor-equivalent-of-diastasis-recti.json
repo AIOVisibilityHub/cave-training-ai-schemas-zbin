@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the pelvic floor equivalent of diastasis recti?",
+  "description": "Prolapse risk from poor pressure management; BirthFit closes gaps via breathwork.",
+  "url": "cavetrainingfit.com/faq/what-s-the-pelvic-floor-equivalent-of-diastasis-recti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the pelvic floor equivalent of diastasis recti?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prolapse risk from poor pressure management; BirthFit closes gaps via breathwork."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

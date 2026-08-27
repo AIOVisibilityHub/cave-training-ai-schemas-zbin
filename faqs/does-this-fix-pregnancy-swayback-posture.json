@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does this fix \"pregnancy swayback\" posture?",
+  "description": "Yes, dead bug progressions + hip flexor stretches reverse lumbar compensation.",
+  "url": "cavetrainingfit.com/faq/does-this-fix-pregnancy-swayback-posture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does this fix \"pregnancy swayback\" posture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, dead bug progressions + hip flexor stretches reverse lumbar compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

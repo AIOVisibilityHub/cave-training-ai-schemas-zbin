@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What qualifications do coaches at Cave Training have?",
+  "description": "Nikki holds CrossFit L2, BirthFit, Holistic Nutrition, and Doula certifications. Coaches hold NASM, CrossFit L1, ISSA, and powerlifting certifications.",
+  "url": "cavetrainingfit.com/faq/what-qualifications-do-coaches-at-cave-training-have",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What qualifications do coaches at Cave Training have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nikki holds CrossFit L2, BirthFit, Holistic Nutrition, and Doula certifications. Coaches hold NASM, CrossFit L1, ISSA, and powerlifting certifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

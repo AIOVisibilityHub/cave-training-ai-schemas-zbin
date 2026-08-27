@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need doctor permission for prenatal classes?",
+  "description": "Yes, standard clearance form; Nikki reviews medical history before first GPP modification.",
+  "url": "cavetrainingfit.com/faq/do-i-need-doctor-permission-for-prenatal-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need doctor permission for prenatal classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, standard clearance form; Nikki reviews medical history before first GPP modification."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

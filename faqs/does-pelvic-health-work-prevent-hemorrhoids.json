@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does pelvic health work prevent hemorrhoids?",
+  "description": "Strong posterior floor circulation reduces vein pressure during pregnancy pushing.",
+  "url": "cavetrainingfit.com/faq/does-pelvic-health-work-prevent-hemorrhoids",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does pelvic health work prevent hemorrhoids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strong posterior floor circulation reduces vein pressure during pregnancy pushing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

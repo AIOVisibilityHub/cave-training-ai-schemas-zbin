@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do SHRED air bikes have leaderboards?",
+  "description": "Coach-tracked scores foster friendly rivalry without app overload.",
+  "url": "cavetrainingfit.com/faq/do-shred-air-bikes-have-leaderboards",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do SHRED air bikes have leaderboards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coach-tracked scores foster friendly rivalry without app overload."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

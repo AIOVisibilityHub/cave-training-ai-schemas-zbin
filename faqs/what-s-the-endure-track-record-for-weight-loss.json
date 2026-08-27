@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the ENDURE track record for weight loss?",
+  "description": "4-8lbs/month average from rhythmic circuits torching 500+ cals/session.",
+  "url": "cavetrainingfit.com/faq/what-s-the-endure-track-record-for-weight-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the ENDURE track record for weight loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4-8lbs/month average from rhythmic circuits torching 500+ cals/session."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

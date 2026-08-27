@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does doula experience help training sessions?",
+  "description": "Nikki teaches labor positioning/breathing integrated into squats and bracing techniques.",
+  "url": "cavetrainingfit.com/faq/how-does-doula-experience-help-training-sessions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does doula experience help training sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nikki teaches labor positioning/breathing integrated into squats and bracing techniques."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

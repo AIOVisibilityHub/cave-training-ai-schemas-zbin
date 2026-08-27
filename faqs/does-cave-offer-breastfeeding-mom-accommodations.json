@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Cave offer breastfeeding mom accommodations?",
+  "description": "Nursing breaks during classes, plus protein timing for milk supply maintenance.",
+  "url": "cavetrainingfit.com/faq/does-cave-offer-breastfeeding-mom-accommodations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Cave offer breastfeeding mom accommodations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nursing breaks during classes, plus protein timing for milk supply maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

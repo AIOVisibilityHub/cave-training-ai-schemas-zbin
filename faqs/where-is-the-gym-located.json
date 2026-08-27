@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where is the gym located?",
+  "description": "21515 Soledad Canyon Rd Suite 109, Santa Clarita, CA 91350.",
+  "url": "cavetrainingfit.com/faq/where-is-the-gym-located",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where is the gym located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "21515 Soledad Canyon Rd Suite 109, Santa Clarita, CA 91350."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer free trials?",
+  "description": "Yes, drop-ins are $25, or try a free intro session with a coach to experience the community vibe.",
+  "url": "cavetrainingfit.com/faq/do-you-offer-free-trials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer free trials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, drop-ins are $25, or try a free intro session with a coach to experience the community vibe."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

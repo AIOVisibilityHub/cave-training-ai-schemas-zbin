@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BOXING improve female core endurance?",
+  "description": "3-min rounds develop stamina; anti-rotation stability prevents lower back pain.",
+  "url": "cavetrainingfit.com/faq/how-does-boxing-improve-female-core-endurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BOXING improve female core endurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3-min rounds develop stamina; anti-rotation stability prevents lower back pain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

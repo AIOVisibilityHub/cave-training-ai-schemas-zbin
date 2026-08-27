@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does pelvic health training help multiple pregnancies?",
+  "description": "Critical; prevents cumulative weakness—twins get extra TVA capacity progressions.",
+  "url": "cavetrainingfit.com/faq/does-pelvic-health-training-help-multiple-pregnancies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does pelvic health training help multiple pregnancies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critical; prevents cumulative weakness—twins get extra TVA capacity progressions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

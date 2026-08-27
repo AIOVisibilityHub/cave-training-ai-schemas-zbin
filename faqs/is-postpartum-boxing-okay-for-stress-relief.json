@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is postpartum BOXING okay for stress relief?",
+  "description": "Light bag combos rebuild coordination; coaches monitor prolapse risks closely.",
+  "url": "cavetrainingfit.com/faq/is-postpartum-boxing-okay-for-stress-relief",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is postpartum BOXING okay for stress relief?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light bag combos rebuild coordination; coaches monitor prolapse risks closely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

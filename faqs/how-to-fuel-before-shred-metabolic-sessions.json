@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to fuel before SHRED metabolic sessions?",
+  "description": "20g carbs/protein 60min prior; intra-workout electrolytes for sustained power.",
+  "url": "cavetrainingfit.com/faq/how-to-fuel-before-shred-metabolic-sessions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to fuel before SHRED metabolic sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20g carbs/protein 60min prior; intra-workout electrolytes for sustained power."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
