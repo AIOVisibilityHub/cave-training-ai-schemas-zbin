@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "BOXING Parkinson's Tremor Control",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "articleBody": "Punching rhythm entrains basal ganglia. Cave improves UPDRS scores 20% vs. medication alone early stage.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

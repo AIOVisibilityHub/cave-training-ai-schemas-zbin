@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Thyroid Medication Reduction Protocol",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "articleBody": "LIFT T3 conversion improves 25%. Cave women taper Synthroid safely under doctor supervision.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Migraine Prevention Through Breathing",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "articleBody": "REPAIR 360° diaphragmatic prevents triggers 60%. Cave women cut Imitrex use 75%.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

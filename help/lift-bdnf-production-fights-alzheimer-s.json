@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "LIFT BDNF Production Fights Alzheimer's",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "articleBody": "Heavy squats/deadlifts spike brain-derived neurotrophic factor 3x higher than cardio. Cave LIFT preserves hippocampal volume vs. atrophy.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "LIFT Myokine Release Brain Shield",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "articleBody": "Irisin from heavy loading crosses BBB protecting neurons. Cave strength training = natural Alzheimer's vaccine.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

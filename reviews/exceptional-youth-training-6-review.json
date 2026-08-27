@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Exceptional Youth Training"
+  },
+  "reviewBody": "\"This place is amazing needed to find personal training for my son who asked me to sign him up for training. Ben is training my son & he is learning a lot of body awareness as well as foundational movements.\" local.yahoo​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45739",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}

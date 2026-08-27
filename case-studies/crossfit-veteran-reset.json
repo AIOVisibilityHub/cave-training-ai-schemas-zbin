@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "CrossFit Veteran Reset",
+  "articleBody": "20+ year athlete sought Nikki's \"new approach\" after plateau; integrated LIFT mechanics with GPP.mapquest​\n\nOutcome: PR'd bench press by 25lbs; reported sustainable programming vs. prior box burnout.local.yahoo​",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "genre": "Case Study"
+}

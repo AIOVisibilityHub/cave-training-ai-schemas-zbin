@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Prenatal Strength Maintenance",
+  "articleBody": "High-risk pregnancy client trained with Nikki's BirthFit mods through all trimesters, focusing on pelvic stability and breathwork.babecavetraining​\n\nOutcome: Delivered vaginally at 39 weeks feeling \"strongest ever\"; returned to full GPP classes 10 weeks postpartum without diastasis.mapquest​",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "genre": "Case Study"
+}

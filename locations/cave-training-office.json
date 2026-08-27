@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Cave Training - Cave Training Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "21515 Soledad Canyon Rd Suite 109",
+    "addressLocality": "Santa Clarita",
+    "addressRegion": "CA",
+    "postalCode": "91350"
+  },
+  "telephone": "(661) 674-7162",
+  "url": "cavetrainingfit.com"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Wedding Transformation",
+  "articleBody": "Bride-to-be used personal training + SHRED for body recomposition 4 months pre-wedding.mapquest​\n\nOutcome: Lost 12% body fat while gaining strength; continued unlimited membership post-event for maintenance.mapquest​",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "genre": "Case Study"
+}

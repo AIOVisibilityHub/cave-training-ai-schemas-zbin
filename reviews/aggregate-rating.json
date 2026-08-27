@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cave Training",
+  "url": "cavetrainingfit.com",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "bestRating": 5,
+    "reviewCount": 10
+  }
+}

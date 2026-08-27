@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Postpartum Diastasis Closure",
+  "articleBody": "C-section mom joined REPAIR + personal training after 8 weeks, targeting TVA activation and core pressure management.babecavetraining​\n\nOutcome: Closed 2.5 finger gap in 12 weeks; resumed SHRED HIIT and LIFT deadlifts by month 4 with zero leakage.mapquest​",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "genre": "Case Study"
+}

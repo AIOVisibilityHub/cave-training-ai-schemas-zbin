@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Meet Nikki Herrera-Adams",
+  "datePublished": "45155",
+  "url": "boldjourney.com/meet-nikki-herrera-adams/ boldjourney​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bold Journey Magazine"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}

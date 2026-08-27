@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Perfect Prep for Wedding Shape"
+  },
+  "reviewBody": "\"I am so happy I found Nikki and Cave Training! I started off with personal training sessions with Nikki in early 2021 to get in shape for my wedding and absolutely loved her methods and my...\" mapquest​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2025",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}

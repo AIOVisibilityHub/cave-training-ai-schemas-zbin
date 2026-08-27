@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Perimenopausal Strength Preservation",
+  "articleBody": "48yo woman joined for bone density via LIFT; added pelvic health from BirthFit expertise.cavetrainingfit​\n\nOutcome: Increased deadlift 50lbs in 8 months; DEXA scan showed 3% bone density improvement.babecavetraining​",
+  "author": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "genre": "Case Study"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Cave Training"
+  },
+  "reviewBody": "This place is amazing! Needed personal training for my son who asked me to sign him up for training.",
+  "datePublished": "Briana Y.",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}

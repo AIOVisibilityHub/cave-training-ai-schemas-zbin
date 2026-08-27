@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Life-Changing Prenatal Support"
+  },
+  "reviewBody": "\"Searching for BirthFit led me here—Nikki's program gave me confidence through entire pregnancy. Strongest I've ever felt at delivery.\" mapquest​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2024",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}

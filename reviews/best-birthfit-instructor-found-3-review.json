@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Best BirthFit Instructor Found"
+  },
+  "reviewBody": "\"This is the most wonderful gym!! I had been searching for a birthfit instructor and found so much more when I joined here. I feel very fortunate to be under Nikki's training, I can't believe...\" mapquest​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2025",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}

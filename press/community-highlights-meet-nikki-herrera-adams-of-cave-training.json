@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Community Highlights: Meet Nikki Herrera-Adams of Cave Training",
+  "datePublished": "44861",
+  "url": "voyagela.com/interview/community-highlights-meet-nikki-herrera-adams-of-cave-training/ voyagela​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Voyage LA Magazine"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}

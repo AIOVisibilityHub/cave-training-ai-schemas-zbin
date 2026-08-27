@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nikki Adams- CPT Instagram Profile (Lululemon Ambassador)",
+  "datePublished": "Ongoing 2025",
+  "url": "instagram.com/nikki_thebabewhisperer/ instagram​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Instagram"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  }
+}
