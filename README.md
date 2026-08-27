@@ -24,6 +24,7 @@ Canonical AI Data Package for Cave Training.
 - [canonical] Cave Training — canonical website — https://cavetraining.aiovisibility.net
 - [ai-data-hub] Cave Training — AI Data Hub — https://cavetraining.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/cave-training-ai-schemas-zbin/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
