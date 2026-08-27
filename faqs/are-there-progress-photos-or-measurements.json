@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there progress photos or measurements?",
+  "description": "Monthly caliper/circumference tracking optional; strength PR logs mandatory.",
+  "url": "cavetrainingfit.com/faq/are-there-progress-photos-or-measurements",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there progress photos or measurements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monthly caliper/circumference tracking optional; strength PR logs mandatory."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

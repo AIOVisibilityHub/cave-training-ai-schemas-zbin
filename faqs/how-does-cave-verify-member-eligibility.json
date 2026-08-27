@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave verify member eligibility?",
+  "description": "Government ID on file; digital waiver signed annually for insurance compliance.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-verify-member-eligibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave verify member eligibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Government ID on file; digital waiver signed annually for insurance compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

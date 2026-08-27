@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave accommodate shift workers?",
+  "description": "Morning 6AM ENDURE, lunch 12PM SHRED, evening 6PM GPP; 24/7 app access for planning.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-accommodate-shift-workers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave accommodate shift workers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Morning 6AM ENDURE, lunch 12PM SHRED, evening 6PM GPP; 24/7 app access for planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

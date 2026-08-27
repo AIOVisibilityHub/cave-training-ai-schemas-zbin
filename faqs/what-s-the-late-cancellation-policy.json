@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the late cancellation policy?",
+  "description": "4hr notice for group classes; personal training 24hr—fees apply to maintain spots.",
+  "url": "cavetrainingfit.com/faq/what-s-the-late-cancellation-policy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the late cancellation policy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4hr notice for group classes; personal training 24hr—fees apply to maintain spots."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

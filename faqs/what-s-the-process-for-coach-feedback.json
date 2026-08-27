@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process for coach feedback?",
+  "description": "Anonymous app surveys quarterly; direct conversations always welcome mid-class.",
+  "url": "cavetrainingfit.com/faq/what-s-the-process-for-coach-feedback",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process for coach feedback?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anonymous app surveys quarterly; direct conversations always welcome mid-class."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

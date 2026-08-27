@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do coaches offer off-site personal training?",
+  "description": "Available at home/park; travel fee applies outside 10-mile Santa Clarita radius.",
+  "url": "cavetrainingfit.com/faq/do-coaches-offer-off-site-personal-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do coaches offer off-site personal training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Available at home/park; travel fee applies outside 10-mile Santa Clarita radius."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there annual membership fees?",
+  "description": "No hidden fees; single monthly charge includes all equipment/towel service.",
+  "url": "cavetrainingfit.com/faq/are-there-annual-membership-fees",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there annual membership fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No hidden fees; single monthly charge includes all equipment/towel service."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

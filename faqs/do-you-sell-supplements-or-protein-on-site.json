@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you sell supplements or protein on site?",
+  "description": "Pre/post shakes available; Nikki-approved clean options only—no proprietary blends.",
+  "url": "cavetrainingfit.com/faq/do-you-sell-supplements-or-protein-on-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you sell supplements or protein on site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre/post shakes available; Nikki-approved clean options only—no proprietary blends."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

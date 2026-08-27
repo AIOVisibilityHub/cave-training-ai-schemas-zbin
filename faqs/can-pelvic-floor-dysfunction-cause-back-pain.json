@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can pelvic floor dysfunction cause back pain?",
+  "description": "Yes, poor load transfer; BirthFit hip/core integration eliminates SI joint referral.",
+  "url": "cavetrainingfit.com/faq/can-pelvic-floor-dysfunction-cause-back-pain",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can pelvic floor dysfunction cause back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, poor load transfer; BirthFit hip/core integration eliminates SI joint referral."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

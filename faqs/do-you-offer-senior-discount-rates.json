@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer senior discount rates?",
+  "description": "10% off for 62+; LIFT modifications preserve bone density, joint-friendly scaling.",
+  "url": "cavetrainingfit.com/faq/do-you-offer-senior-discount-rates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer senior discount rates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "10% off for 62+; LIFT modifications preserve bone density, joint-friendly scaling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

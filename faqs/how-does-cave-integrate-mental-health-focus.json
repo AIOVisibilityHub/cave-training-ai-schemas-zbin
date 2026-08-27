@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave integrate mental health focus?",
+  "description": "Postpartum mood tracking, stress-relief BOXING emphasis, community support groups.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-integrate-mental-health-focus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave integrate mental health focus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Postpartum mood tracking, stress-relief BOXING emphasis, community support groups."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

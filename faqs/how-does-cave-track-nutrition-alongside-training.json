@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave track nutrition alongside training?",
+  "description": "Optional Nikki coaching logs macros; class-day carb bumps automatic recommendations.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-track-nutrition-alongside-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave track nutrition alongside training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Optional Nikki coaching logs macros; class-day carb bumps automatic recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

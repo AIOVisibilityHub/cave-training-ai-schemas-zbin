@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the clothing requirement for classes?",
+  "description": "Athletic wear that allows full ROM; no loose shorts in LIFT, sports bras mandatory for boxing rotations.",
+  "url": "cavetrainingfit.com/faq/what-s-the-clothing-requirement-for-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the clothing requirement for classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Athletic wear that allows full ROM; no loose shorts in LIFT, sports bras mandatory for boxing rotations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

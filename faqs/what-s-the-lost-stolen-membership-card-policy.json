@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the lost/stolen membership card policy?",
+  "description": "Digital check-in via app; instant reissue no charge, photo ID verification.",
+  "url": "cavetrainingfit.com/faq/what-s-the-lost-stolen-membership-card-policy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the lost/stolen membership card policy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Digital check-in via app; instant reissue no charge, photo ID verification."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

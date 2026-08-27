@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the phone policy during classes?",
+  "description": "Silent cubbies; emergencies only—coaches trained for quick family interruptions.",
+  "url": "cavetrainingfit.com/faq/what-s-the-phone-policy-during-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the phone policy during classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Silent cubbies; emergencies only—coaches trained for quick family interruptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

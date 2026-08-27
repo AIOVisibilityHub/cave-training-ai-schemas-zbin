@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer family memberships or couples rates?",
+  "description": "Yes, partner discounts 15% off second membership; kids/teens train free with parent supervision.",
+  "url": "cavetrainingfit.com/faq/do-you-offer-family-memberships-or-couples-rates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer family memberships or couples rates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, partner discounts 15% off second membership; kids/teens train free with parent supervision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

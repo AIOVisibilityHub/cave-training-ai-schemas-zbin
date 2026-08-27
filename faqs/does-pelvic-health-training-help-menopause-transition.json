@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does pelvic health training help menopause transition?",
+  "description": "Floor strength prevents atrophy; maintains continence when estrogen drops.",
+  "url": "cavetrainingfit.com/faq/does-pelvic-health-training-help-menopause-transition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does pelvic health training help menopause transition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Floor strength prevents atrophy; maintains continence when estrogen drops."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the locker room/shower situation?",
+  "description": "Boutique setup with private changing; bring your own towel, showers available post-class.",
+  "url": "cavetrainingfit.com/faq/what-s-the-locker-room-shower-situation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the locker room/shower situation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boutique setup with private changing; bring your own towel, showers available post-class."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

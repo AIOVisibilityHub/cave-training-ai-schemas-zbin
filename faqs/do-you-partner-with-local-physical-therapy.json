@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you partner with local physical therapy?",
+  "description": "Referral network for post-rehab transition; Ben collaborates on movement screens.",
+  "url": "cavetrainingfit.com/faq/do-you-partner-with-local-physical-therapy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you partner with local physical therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Referral network for post-rehab transition; Ben collaborates on movement screens."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

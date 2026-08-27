@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why teach partners BirthFit bracing cues?",
+  "description": "Spotting prevents Valsalva mishaps; duo accountability doubles home compliance.",
+  "url": "cavetrainingfit.com/faq/why-teach-partners-birthfit-bracing-cues",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why teach partners BirthFit bracing cues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spotting prevents Valsalva mishaps; duo accountability doubles home compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

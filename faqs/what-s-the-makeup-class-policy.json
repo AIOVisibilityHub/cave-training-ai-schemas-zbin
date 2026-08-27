@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the makeup class policy?",
+  "description": "Roll missed classes to next week; 3x monthly max per unlimited membership.",
+  "url": "cavetrainingfit.com/faq/what-s-the-makeup-class-policy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the makeup class policy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Roll missed classes to next week; 3x monthly max per unlimited membership."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

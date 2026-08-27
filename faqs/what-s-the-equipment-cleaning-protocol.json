@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the equipment cleaning protocol?",
+  "description": "Disinfectant wipes between classes; rowers/bags receive deep clean weekly.",
+  "url": "cavetrainingfit.com/faq/what-s-the-equipment-cleaning-protocol",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the equipment cleaning protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disinfectant wipes between classes; rowers/bags receive deep clean weekly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

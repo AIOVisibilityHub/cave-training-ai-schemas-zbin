@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the injury modification process?",
+  "description": "Coach completes movement screen; custom scaling sheet for 4 weeks before full return.",
+  "url": "cavetrainingfit.com/faq/what-s-the-injury-modification-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the injury modification process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coach completes movement screen; custom scaling sheet for 4 weeks before full return."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's long-term pelvic health benefit for athletes?",
+  "description": "Injury-proof base returns faster post-pregnancy; elite performance sustained.",
+  "url": "cavetrainingfit.com/faq/what-s-long-term-pelvic-health-benefit-for-athletes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's long-term pelvic health benefit for athletes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Injury-proof base returns faster post-pregnancy; elite performance sustained."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

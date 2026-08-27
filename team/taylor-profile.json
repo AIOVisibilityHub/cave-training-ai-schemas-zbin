@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Taylor",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Cave Training",
+    "url": "cavetrainingfit.com"
+  },
+  "description": "D1 soccer player at U Pacific; health exercise degree; internship to certification cavetrainingfit​",
+  "telephone": "(661) 674-7162",
+  "knowsAbout": [
+    "NASM Trainer",
+    "Nutrition Coach"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    }
+  ]
+}

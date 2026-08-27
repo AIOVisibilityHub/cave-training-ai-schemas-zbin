@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What payment methods does Cave accept?",
+  "description": "Credit/debit, ACH bank draft, Venmo; no cash—app handles auto-payments seamlessly.",
+  "url": "cavetrainingfit.com/faq/what-payment-methods-does-cave-accept",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What payment methods does Cave accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Credit/debit, ACH bank draft, Venmo; no cash—app handles auto-payments seamlessly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

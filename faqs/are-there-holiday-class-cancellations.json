@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there holiday class cancellations?",
+  "description": "Major holidays off; reduced \"Santa SHRED\" holiday schedule published early.",
+  "url": "cavetrainingfit.com/faq/are-there-holiday-class-cancellations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there holiday class cancellations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Major holidays off; reduced \"Santa SHRED\" holiday schedule published early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

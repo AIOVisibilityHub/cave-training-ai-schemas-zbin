@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Nikki modify Olympic lifts prenatally?",
+  "description": "Hang power cleans → elevated RDLs protect floor while building explosive power.",
+  "url": "cavetrainingfit.com/faq/how-does-nikki-modify-olympic-lifts-prenatally",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Nikki modify Olympic lifts prenatally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hang power cleans → elevated RDLs protect floor while building explosive power."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

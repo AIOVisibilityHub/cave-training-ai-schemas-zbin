@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave handle peak holiday crowds?",
+  "description": "Caps maintained at 12-15; waitlist priority for consistent members via app.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-handle-peak-holiday-crowds",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave handle peak holiday crowds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Caps maintained at 12-15; waitlist priority for consistent members via app."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

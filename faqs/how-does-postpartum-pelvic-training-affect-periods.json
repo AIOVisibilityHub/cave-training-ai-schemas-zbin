@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does postpartum pelvic training affect periods?",
+  "description": "Hormonal reset via strength reduces PMS; lighter flows after 16 weeks consistent.",
+  "url": "cavetrainingfit.com/faq/how-does-postpartum-pelvic-training-affect-periods",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does postpartum pelvic training affect periods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hormonal reset via strength reduces PMS; lighter flows after 16 weeks consistent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

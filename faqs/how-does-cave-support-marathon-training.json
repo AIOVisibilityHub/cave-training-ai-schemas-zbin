@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave support marathon training?",
+  "description": "GPP endurance blocks + SHRED lactate work; LIFT maintains strength without bulk.",
+  "url": "cavetrainingfit.com/faq/how-does-cave-support-marathon-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave support marathon training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GPP endurance blocks + SHRED lactate work; LIFT maintains strength without bulk."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best team member for Nutrition Coach in Santa Clarita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Taylor at Cave Training is a highly experienced team member specializing in Nutrition Coach serving Santa Clarita. D1 soccer player at U Pacific; health exercise degree; internship to certification cavetrainingfit​ Contact us at (661) 674-7162."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Taylor handle Nutrition Coach cases in Santa Clarita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Taylor at Cave Training specializes in Nutrition Coach and serves clients in Santa Clarita and surrounding areas."
+      }
+    }
+  ]
+}

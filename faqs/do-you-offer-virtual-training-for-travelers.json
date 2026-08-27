@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer virtual training for travelers?",
+  "description": "Live-stream GPP/SHRED via Zoom; app programs equipment-free hotel workouts.",
+  "url": "cavetrainingfit.com/faq/do-you-offer-virtual-training-for-travelers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer virtual training for travelers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Live-stream GPP/SHRED via Zoom; app programs equipment-free hotel workouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

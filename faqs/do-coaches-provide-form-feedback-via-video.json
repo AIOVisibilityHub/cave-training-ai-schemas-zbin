@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do coaches provide form feedback via video?",
+  "description": "Yes, phone analysis during personal training; group class slow-mo reviews weekly.",
+  "url": "cavetrainingfit.com/faq/do-coaches-provide-form-feedback-via-video",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do coaches provide form feedback via video?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, phone analysis during personal training; group class slow-mo reviews weekly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does BirthFit breathing differ from Lamaze?",
+  "description": "360° expansion + floor lift actively stabilizes vs. passive panting techniques.",
+  "url": "cavetrainingfit.com/faq/how-does-birthfit-breathing-differ-from-lamaze",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does BirthFit breathing differ from Lamaze?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "360° expansion + floor lift actively stabilizes vs. passive panting techniques."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
