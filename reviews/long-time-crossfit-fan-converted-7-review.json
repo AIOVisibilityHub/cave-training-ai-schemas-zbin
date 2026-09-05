@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Long-Time CrossFit Fan Converted"
+    "name": "Long-Time CrossFit Fan Converted",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Nikki brings something new and special to SCV fitness. 20+ years experience shines through—perfect blend of grit and technique for women.\" local.yahoo​",
+  "itemReviewed": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "44901",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Cave Training",
-    "url": "cavetrainingfit.com"
-  }
+  "datePublished": "44901"
 }

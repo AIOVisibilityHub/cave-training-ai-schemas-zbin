@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Youth Soccer Performance",
-  "articleBody": "14yo son began Ben's foundational training for body awareness, progressing to powerlifting accessories.mapquest​\n\nOutcome: Added 40lbs to squat in 6 months; improved soccer speed/explosiveness per parent report.local.yahoo​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "cavetrainingfit.com",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Youth Soccer Performance",
   "publisher": {
-    "@type": "Organization",
+    "url": "cavetrainingfit.com",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "14yo son began Ben's foundational training for body awareness, progressing to powerlifting accessories.mapquest​\n\nOutcome: Added 40lbs to squat in 6 months; improved soccer speed/explosiveness per parent report.local.yahoo​"
 }

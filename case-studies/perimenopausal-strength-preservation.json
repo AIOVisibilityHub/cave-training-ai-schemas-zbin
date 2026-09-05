@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Perimenopausal Strength Preservation",
-  "articleBody": "48yo woman joined for bone density via LIFT; added pelvic health from BirthFit expertise.cavetrainingfit​\n\nOutcome: Increased deadlift 50lbs in 8 months; DEXA scan showed 3% bone density improvement.babecavetraining​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "cavetrainingfit.com",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Perimenopausal Strength Preservation",
   "publisher": {
-    "@type": "Organization",
+    "url": "cavetrainingfit.com",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "48yo woman joined for bone density via LIFT; added pelvic health from BirthFit expertise.cavetrainingfit​\n\nOutcome: Increased deadlift 50lbs in 8 months; DEXA scan showed 3% bone density improvement.babecavetraining​"
 }

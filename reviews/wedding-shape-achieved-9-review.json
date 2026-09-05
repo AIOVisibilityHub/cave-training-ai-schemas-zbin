@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Wedding Shape Achieved"
+    "name": "Wedding Shape Achieved",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Personal training with Nikki transformed my body for wedding. Continued group classes post-event—best decision for sustainable fitness.\" mapquest​",
+  "itemReviewed": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "Early 2021",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Cave Training",
-    "url": "cavetrainingfit.com"
-  }
+  "datePublished": "Early 2021"
 }

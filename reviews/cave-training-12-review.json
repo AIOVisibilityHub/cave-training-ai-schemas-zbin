@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Cave Training"
-  },
-  "reviewBody": "Wonderful gym with a supportive atmosphere and knowledgeable trainers.",
-  "datePublished": "Nama S.",
-  "itemReviewed": {
-    "@type": "Organization",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
-  }
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "Wonderful gym with a supportive atmosphere and knowledgeable trainers.",
+  "itemReviewed": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
+  "datePublished": "Nama S."
 }

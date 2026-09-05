@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Nikki Brings Something New and Special"
+    "name": "Nikki Brings Something New and Special",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Yo! Nikki is legit. I have been cross training with weights and isos for most of my adult life, and she brings something new and special. She cares about your results and your personal process...\" mapquest​",
+  "itemReviewed": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "2025",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Cave Training",
-    "url": "cavetrainingfit.com"
-  }
+  "datePublished": "2025"
 }
