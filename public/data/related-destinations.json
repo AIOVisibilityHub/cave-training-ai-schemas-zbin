@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:38:07.596Z",
+  "generatedAt": "2026-09-05T21:38:23.347Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/cave-training-ai-schemas-zbin/ai-data.html"
+      "url": "https://cavetraining.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin",
-      "pagesUrl": "https://aiovisibilityhub.github.io/cave-training-ai-schemas-zbin/",
+      "pagesUrl": "https://cavetraining.aiovisibility.net/",
       "repo": "AIOVisibilityHub/cave-training-ai-schemas-zbin"
     }
   }
