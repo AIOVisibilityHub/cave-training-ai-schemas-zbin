@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T19:09:15.378Z",
+  "generatedAt": "2026-09-05T21:38:07.617Z",
   "client": {
     "name": "Cave Training",
     "canonicalUrl": "https://cavetraining.aiovisibility.net",
@@ -9,12 +9,12 @@
     "phone": "(661) 674-7162",
     "locations": [
       {
-        "name": "Cave Training Office",
-        "address": "21515 Soledad Canyon Rd Suite 109",
-        "city": "Santa Clarita",
-        "state": "CA",
         "zip": "91350",
-        "phone": "(661) 674-7162"
+        "city": "Santa Clarita",
+        "name": "Cave Training Office",
+        "phone": "(661) 674-7162",
+        "state": "CA",
+        "address": "21515 Soledad Canyon Rd Suite 109"
       }
     ],
     "services": [
@@ -25,24 +25,24 @@
     ]
   },
   "package": {
-    "totalFiles": 704,
-    "totalBytes": 1698838,
+    "totalFiles": 1034,
+    "totalBytes": 5064675,
     "stats": {
+      "qna": 0,
       "faqs": 310,
-      "helpArticles": 330,
+      "press": 3,
+      "total": 681,
+      "awards": 0,
+      "reviews": 12,
+      "products": 0,
+      "research": 0,
       "services": 1,
       "webpages": 0,
-      "personnel": 16,
-      "products": 0,
       "locations": 1,
-      "awards": 0,
+      "personnel": 16,
       "caseStudies": 6,
-      "organization": 1,
-      "press": 3,
-      "reviews": 12,
-      "qna": 0,
-      "research": 0,
-      "total": 681
+      "helpArticles": 330,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -3482,47 +3482,1697 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 17908,
+        "bytes": 16545,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 118110,
+        "bytes": 120967,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 19413,
+        "bytes": 22055,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 19944,
+        "bytes": 22535,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10143,
+        "bytes": 12825,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 132897,
+        "bytes": 135599,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 179619,
+        "bytes": 201418,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 16494,
+        "bytes": 19271,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 113765,
+        "bytes": 116419,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/first-trimester-strength-training-safety.html",
+        "bytes": 9655,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-diastasis-recti-self-test.html",
+        "bytes": 9447,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pelvic-floor-kegel-alternatives.html",
+        "bytes": 9239,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-modifications-for-pregnancy.html",
+        "bytes": 9085,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-deadlift-progression-postpartum.html",
+        "bytes": 9076,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/birthfit-breathing-for-labor-prep.html",
+        "bytes": 9077,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-for-postpartum-stress-relief.html",
+        "bytes": 9071,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-class-for-breastfeeding-moms.html",
+        "bytes": 9079,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/glute-activation-for-pregnancy-stability.html",
+        "bytes": 9103,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/nutrition-timing-for-lift-sessions.html",
+        "bytes": 8977,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/c-section-scar-mobility-protocol.html",
+        "bytes": 8980,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/prenatal-squat-form-checklist.html",
+        "bytes": 8815,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-urinary-leakage-fixes.html",
+        "bytes": 8973,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/partner-exercises-for-birth-prep.html",
+        "bytes": 8931,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/metabolic-resistance-training-for-fat-loss.html",
+        "bytes": 9121,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shoulder-safe-boxing-during-pregnancy.html",
+        "bytes": 8969,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/perimenopause-strength-preservation.html",
+        "bytes": 8815,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-yoga-sequence-for-runners.html",
+        "bytes": 8943,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/weekly-gpp-progression-for-beginners.html",
+        "bytes": 9054,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hydration-protocol-for-nursing-athletes.html",
+        "bytes": 9073,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hip-thrusts-vs-glute-bridges-pregnancy.html",
+        "bytes": 9043,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cold-plunge-timing-post-lift.html",
+        "bytes": 8789,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pcos-insulin-sensitivity-training.html",
+        "bytes": 9004,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/toddler-friendly-workout-schedule.html",
+        "bytes": 8886,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/valsalva-maneuver-for-women-s-lifting.html",
+        "bytes": 9048,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-cave-training-right-for-total-beginners.html",
+        "bytes": 9788,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-cave-training-differs-from-regular-gyms.html",
+        "bytes": 9878,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-in-your-first-week-at-cave.html",
+        "bytes": 9635,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/choosing-between-gpp-shred-boxing-endure-and-lift.html",
+        "bytes": 9810,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-cave-training-builds-confidence-in-the-gym.html",
+        "bytes": 9632,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/managing-soreness-with-a-high-intensity-program.html",
+        "bytes": 9601,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-often-should-i-train-at-cave-each-week.html",
+        "bytes": 9509,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-cave-training-warmup.html",
+        "bytes": 9453,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/do-i-need-to-be-in-shape-before-i-join.html",
+        "bytes": 9493,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-progress-is-measured-at-cave-training.html",
+        "bytes": 9324,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/safety-standards-in-high-intensity-classes.html",
+        "bytes": 9429,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-cave-training-supports-women-with-past-injuries.html",
+        "bytes": 9708,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/combining-personal-training-with-group-classes.html",
+        "bytes": 9580,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-makes-cave-s-community-different.html",
+        "bytes": 9388,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-cave-training-helps-with-long-term-weight-maintenance.html",
+        "bytes": 9736,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-cave-s-coaching-philosophy.html",
+        "bytes": 9579,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-cave-training-serves-different-life-stages.html",
+        "bytes": 9474,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-if-i-m-nervous-about-lifting-heavy.html",
+        "bytes": 9512,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cardio-vs-strength-how-cave-blends-both.html",
+        "bytes": 9329,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-talk-to-your-coach-about-your-goals.html",
+        "bytes": 9337,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/navigating-training-during-a-busy-season-of-life.html",
+        "bytes": 9574,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-doms-vs-injury-pain.html",
+        "bytes": 9242,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-cave-training-helps-with-mental-health.html",
+        "bytes": 9430,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-results-to-expect-in-the-first-90-days.html",
+        "bytes": 9448,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-cave-training-works-with-your-healthcare-providers.html",
+        "bytes": 9673,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-exercise-through-pregnancy-prevents-diabetes.html",
+        "bytes": 9755,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/faster-labor-with-prenatal-squat-training.html",
+        "bytes": 9467,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/maintaining-muscle-prevents-postpartum-weight-gain.html",
+        "bytes": 9609,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-core-recovery-8-weeks-faster.html",
+        "bytes": 9385,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/reduced-c-section-recovery-time.html",
+        "bytes": 9241,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/less-back-pain-during-third-trimester.html",
+        "bytes": 9099,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stronger-pelvic-floor-less-incontinence.html",
+        "bytes": 9245,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/better-sleep-during-pregnancy.html",
+        "bytes": 9076,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/reduced-varicose-veins-risk.html",
+        "bytes": 8982,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-depression-risk-cut-40.html",
+        "bytes": 9012,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stronger-push-during-delivery.html",
+        "bytes": 8960,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/easier-breastfeeding-weight-management.html",
+        "bytes": 9258,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/less-pregnancy-constipation.html",
+        "bytes": 8839,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-energy-returns-6-weeks-early.html",
+        "bytes": 9221,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/fewer-pregnancy-related-injuries.html",
+        "bytes": 8911,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/better-posture-through-pregnancy.html",
+        "bytes": 8915,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/higher-milk-supply-stability.html",
+        "bytes": 8969,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/reduced-swelling-in-feet-ankles.html",
+        "bytes": 8891,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-sexual-health-recovery.html",
+        "bytes": 9103,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stronger-immune-function-pregnancy.html",
+        "bytes": 9091,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/less-postpartum-hair-loss.html",
+        "bytes": 8871,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/improved-pregnancy-skin-elasticity.html",
+        "bytes": 9091,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/higher-newborn-birth-weight-healthy-range.html",
+        "bytes": 9252,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-joint-stability-returns-faster.html",
+        "bytes": 9278,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pregnancy-training-improves-partner-bonding.html",
+        "bytes": 9316,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/exercise-cuts-pregnancy-anxiety-35.html",
+        "bytes": 9352,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-fog-clears-4-weeks-faster.html",
+        "bytes": 9430,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/group-classes-halve-mom-isolation.html",
+        "bytes": 9319,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cortisol-control-through-third-trimester.html",
+        "bytes": 9253,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/strength-training-boosts-body-confidence.html",
+        "bytes": 9391,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/routine-prevents-postpartum-overwhelm.html",
+        "bytes": 9250,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endorphin-rush-beats-pregnancy-blues.html",
+        "bytes": 9172,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/community-accountability-stops-quitting.html",
+        "bytes": 9260,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dopamine-from-consistent-prs.html",
+        "bytes": 8970,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/breathwork-reduces-labor-fear.html",
+        "bytes": 9114,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/sleep-quality-improves-25-with-evening-classes.html",
+        "bytes": 9323,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-resilience-through-shared-stories.html",
+        "bytes": 9477,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/serotonin-stability-during-milk-droughts.html",
+        "bytes": 9360,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/partner-training-strengthens-relationship.html",
+        "bytes": 9272,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/oxytocin-release-through-group-high-fives.html",
+        "bytes": 9258,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/structured-movement-prevents-decision-fatigue.html",
+        "bytes": 9418,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/confidence-carries-through-labor.html",
+        "bytes": 9153,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-identity-crisis-prevention.html",
+        "bytes": 9403,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/nervous-system-regulation-through-repair.html",
+        "bytes": 9251,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/seasonal-depression-pregnancy-help.html",
+        "bytes": 9149,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gratitude-practice-during-group-cool-downs.html",
+        "bytes": 9327,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hormonal-migraine-prevention-strategy.html",
+        "bytes": 9188,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/emotional-eating-replacement-protocol.html",
+        "bytes": 9225,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/transition-anxiety-pregnancy-to-mom.html",
+        "bytes": 9304,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-rage-cycle-breaker.html",
+        "bytes": 9060,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/maternal-muscle-mass-bigger-healthy-babies.html",
+        "bytes": 9360,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/better-placental-blood-flow-from-gpp.html",
+        "bytes": 9143,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/insulin-sensitivity-prevents-macrosomia.html",
+        "bytes": 9230,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/core-strength-supports-uterine-position.html",
+        "bytes": 9088,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/enhanced-nutrient-partitioning-to-fetus.html",
+        "bytes": 9256,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/reduced-low-birth-weight-risk-25.html",
+        "bytes": 9092,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stronger-amniotic-fluid-dynamics.html",
+        "bytes": 9130,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hip-mobility-better-cord-blood-flow.html",
+        "bytes": 9140,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mitochondrial-density-for-baby-energy.html",
+        "bytes": 9075,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/optimal-head-circumference-development.html",
+        "bytes": 9239,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lung-maturity-from-maternal-conditioning.html",
+        "bytes": 9169,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/bone-density-transfer-to-newborn.html",
+        "bytes": 9001,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/liver-enzyme-balance-for-detox.html",
+        "bytes": 8941,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/kidney-filtration-efficiency-for-baby.html",
+        "bytes": 9089,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/thyroid-function-optimization.html",
+        "bytes": 9009,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/adrenal-resilience-for-stress-protection.html",
+        "bytes": 9137,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gut-microbiome-seeding-benefit.html",
+        "bytes": 8995,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/optimal-iron-stores-for-baby.html",
+        "bytes": 8985,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/heart-rate-variability-for-fetal-heart.html",
+        "bytes": 9119,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stem-cell-mobilization-benefit.html",
+        "bytes": 9029,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/optimal-length-weight-ratio-at-birth.html",
+        "bytes": 9163,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/enhanced-meconium-passage-predictor.html",
+        "bytes": 9057,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/breast-tissue-development-support.html",
+        "bytes": 9035,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/reduced-nicu-admission-risk.html",
+        "bytes": 9087,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/long-term-neurodevelopmental-benefits.html",
+        "bytes": 9247,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-bag-work-releases-executive-rage.html",
+        "bytes": 9335,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-intervals-stop-mom-toddler-meltdowns.html",
+        "bytes": 9367,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-heavy-mental-load-offload.html",
+        "bytes": 9235,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-rhythm-resets-workday-cortisol.html",
+        "bytes": 9324,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-partner-accountability-ends-isolation-anger.html",
+        "bytes": 9595,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-yoga-stops-premenstrual-rage.html",
+        "bytes": 9310,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/primal-scream-replacement-primal-scream-replacement.html",
+        "bytes": 9460,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-deadline-shred-anger-purge.html",
+        "bytes": 9140,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stay-home-mom-s-6pm-rage-prevention.html",
+        "bytes": 9286,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/valsalva-breathing-for-meeting-interruptions.html",
+        "bytes": 9337,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/carpool-line-fury-endure-flow.html",
+        "bytes": 8955,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-prs-beat-performance-review-anxiety.html",
+        "bytes": 9244,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/laundry-pile-anger-deadlift-therapy.html",
+        "bytes": 9071,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/client-email-trigger-shadow-boxing.html",
+        "bytes": 9065,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/diaper-change-frustration-goblet-squats.html",
+        "bytes": 9155,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/traffic-jam-mental-rehearsal-breathing.html",
+        "bytes": 9125,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/team-conflict-partner-carry-drills.html",
+        "bytes": 9105,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/grocery-store-overwhelm-grocery-store-overwhelm.html",
+        "bytes": 9287,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/performance-review-prep-strict-press.html",
+        "bytes": 9017,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/nap-fight-battle-wall-ball-focus.html",
+        "bytes": 9029,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/zoom-fatigue-rower-sprints.html",
+        "bytes": 8915,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/school-pickup-chaos-box-jump-discipline.html",
+        "bytes": 9059,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/budget-meeting-tension-kettlebell-swings.html",
+        "bytes": 9123,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/playdate-politics-battle-ropes.html",
+        "bytes": 9071,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/year-end-review-dread-front-squat-confidence.html",
+        "bytes": 9279,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/muscle-memory-returns-3x-faster-postpartum.html",
+        "bytes": 9423,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/metabolic-rate-stays-elevated-20-years.html",
+        "bytes": 9323,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/bone-density-peak-preserved-through-menopause.html",
+        "bytes": 9349,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pelvic-floor-strength-prevents-prolapse-age-70.html",
+        "bytes": 9325,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/jeans-fit-same-size-10-years-later.html",
+        "bytes": 9105,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/sarcopenia-delayed-15-years.html",
+        "bytes": 8861,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/heart-disease-risk-halved-lifelong.html",
+        "bytes": 9041,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/faster-recovery-from-future-injuries.html",
+        "bytes": 9023,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/posture-prevents-dowager-s-hump.html",
+        "bytes": 8919,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/sleep-quality-peaks-after-50.html",
+        "bytes": 8896,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/confidence-carries-through-empty-nest.html",
+        "bytes": 9166,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/arthritis-avoided-through-smart-loading.html",
+        "bytes": 9098,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hot-flash-intensity-reduced-40.html",
+        "bytes": 8934,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/balance-prevents-falls-after-70.html",
+        "bytes": 8956,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/faster-grandchild-chasing-stamina.html",
+        "bytes": 8863,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/skin-elasticity-maintained-past-50.html",
+        "bytes": 9161,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/immune-function-stays-robust.html",
+        "bytes": 8898,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dementia-risk-reduced-35.html",
+        "bytes": 8810,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/sexual-function-preserved-past-60.html",
+        "bytes": 8948,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/travel-independence-maintained.html",
+        "bytes": 8858,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gardening-lifting-grandkids-pain-free.html",
+        "bytes": 9105,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/medication-independence-past-70.html",
+        "bytes": 8927,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pre-pregnancy-dress-size-at-reunion.html",
+        "bytes": 9051,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/walking-speed-preserved-for-independence.html",
+        "bytes": 9055,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/legacy-of-strength-for-daughters.html",
+        "bytes": 8963,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pre-pregnancy-pelvic-floor-baseline-strength.html",
+        "bytes": 9371,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/first-trimester-pelvic-floor-protection.html",
+        "bytes": 9107,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/second-trimester-leak-prevention-strategy.html",
+        "bytes": 9183,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/third-trimester-prolapse-prevention.html",
+        "bytes": 9049,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/immediate-postpartum-pelvic-floor-assessment.html",
+        "bytes": 9139,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/6-12-week-postpartum-floor-restoration.html",
+        "bytes": 8995,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/diastasis-pelvic-floor-dual-recovery.html",
+        "bytes": 9009,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/returning-to-heavy-deadlifts-pelvic-safe.html",
+        "bytes": 9098,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/perimenopause-pelvic-floor-decline-prevention.html",
+        "bytes": 9109,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-menopause-prolapse-prevention-routine.html",
+        "bytes": 8987,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cough-laugh-incontinence-elimination.html",
+        "bytes": 9090,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pelvic-floor-posture-connection.html",
+        "bytes": 8935,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/high-impact-running-floor-protection.html",
+        "bytes": 8953,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/sexual-function-floor-restoration.html",
+        "bytes": 8859,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/constipation-prevention-floor-training.html",
+        "bytes": 8983,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pelvic-floor-overactivity-treatment.html",
+        "bytes": 8937,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/multi-child-pelvic-floor-preservation.html",
+        "bytes": 8989,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hysterectomy-floor-preparation.html",
+        "bytes": 8903,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/senior-pelvic-floor-emergency-kit.html",
+        "bytes": 8965,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pelvic-floor-core-pressure-testing.html",
+        "bytes": 8891,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/heavy-lifting-floor-lifespan-prevention.html",
+        "bytes": 8995,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pelvic-floor-breathing-mastery.html",
+        "bytes": 8963,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dance-zumba-floor-protection.html",
+        "bytes": 8887,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/chronic-holding-pattern-correction.html",
+        "bytes": 8837,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pelvic-floor-legacy-for-daughters.html",
+        "bytes": 8975,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pre-pregnancy-gpp-clears-decision-fatigue.html",
+        "bytes": 9365,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/first-trimester-shred-stops-nausea-anxiety.html",
+        "bytes": 9289,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-breathing-calms-second-trimester-worry.html",
+        "bytes": 9376,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-third-trimester-nesting-rage.html",
+        "bytes": 9197,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-rhythm-soothes-labor-fear.html",
+        "bytes": 9027,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/week-1-postpartum-repair-nervous-reset.html",
+        "bytes": 9087,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-partner-work-fills-social-void.html",
+        "bytes": 8970,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-sleep-deprivation-brain-fog-fix.html",
+        "bytes": 9143,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-prs-anchor-identity-during-chaos.html",
+        "bytes": 9171,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-replaces-postpartum-rage-outlet.html",
+        "bytes": 9105,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-routine-survives-toddler-chaos.html",
+        "bytes": 9114,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-perimenopause-mood-swings.html",
+        "bytes": 8951,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-executive-function-through-empty-nest.html",
+        "bytes": 9301,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-menopause-cortisol-management.html",
+        "bytes": 9043,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-confidence-through-retirement.html",
+        "bytes": 9073,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-widowhood-grief-processing.html",
+        "bytes": 8915,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-lifelong-circadian-rhythm.html",
+        "bytes": 8833,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-nervous-system-longevity.html",
+        "bytes": 8855,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-cognitive-reserve-for-dementia.html",
+        "bytes": 8979,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-hot-flash-emotional-override.html",
+        "bytes": 8929,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-legacy-stress-buffer.html",
+        "bytes": 8829,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-social-anxiety-lifelong-antidote.html",
+        "bytes": 9073,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-routine-through-life-transitions.html",
+        "bytes": 9051,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-breathwork-panic-attack-prevention.html",
+        "bytes": 9191,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-lifelong-emotional-resilience-foundation.html",
+        "bytes": 9168,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-bdnf-production-fights-alzheimer-s.html",
+        "bytes": 9386,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-neurogenesis-through-gymnastics.html",
+        "bytes": 9220,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-reduces-brain-inflammation-30.html",
+        "bytes": 9312,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-vo2max-protects-cognitive-reserve.html",
+        "bytes": 9204,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-bilateral-coordination-prevents-decline.html",
+        "bytes": 9272,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-yoga-lowers-alzheimer-s-amyloid.html",
+        "bytes": 9231,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-myokine-release-brain-shield.html",
+        "bytes": 9045,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-white-matter-preservation.html",
+        "bytes": 9043,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-hippocampal-volume-protection.html",
+        "bytes": 9113,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-vascular-dementia-prevention.html",
+        "bytes": 9159,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-parkinson-s-tremor-control.html",
+        "bytes": 8973,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-meditation-brain-thickness.html",
+        "bytes": 9029,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-insulin-resistance-brain-shield.html",
+        "bytes": 9113,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-neuroplasticity-window-extension.html",
+        "bytes": 9037,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-tau-protein-reduction.html",
+        "bytes": 8875,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-fronto-parietal-network-protection.html",
+        "bytes": 9055,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-mirror-neuron-activation.html",
+        "bytes": 8847,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-autonomic-balance-restoration.html",
+        "bytes": 9009,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-igf-1-neuroprotection.html",
+        "bytes": 8861,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-cerebellar-coordination-lifespan.html",
+        "bytes": 8883,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-neurovascular-coupling.html",
+        "bytes": 8777,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-lewy-body-prevention.html",
+        "bytes": 8767,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-reticular-activating-system.html",
+        "bytes": 8977,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-default-mode-network-balance.html",
+        "bytes": 9004,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-lifetime-tauopathy-delay.html",
+        "bytes": 9018,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-lowers-resting-heart-rate-12-bpm.html",
+        "bytes": 9144,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-improves-ejection-fraction-15.html",
+        "bytes": 9050,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-vo2max-gains-outpace-running.html",
+        "bytes": 9064,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-stroke-volume-maximization.html",
+        "bytes": 9038,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-asymmetric-heart-training.html",
+        "bytes": 9027,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-lowers-arterial-stiffness.html",
+        "bytes": 8956,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-diastolic-function-preservation.html",
+        "bytes": 9108,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-reduces-cardiac-troponin-leakage.html",
+        "bytes": 9084,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-triglyceride-clearance-40-faster.html",
+        "bytes": 9124,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-prevents-peripartum-cardiomyopathy.html",
+        "bytes": 9154,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-improves-endothelial-function.html",
+        "bytes": 9108,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-vagal-tone-heart-rate-variability.html",
+        "bytes": 9069,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-prevents-abdominal-aortic-aneurysm.html",
+        "bytes": 9087,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-mitral-valve-regurgitation-protection.html",
+        "bytes": 9141,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-ldl-particle-size-improvement.html",
+        "bytes": 9069,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-coronary-collateral-development.html",
+        "bytes": 9103,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-baroreceptor-sensitivity.html",
+        "bytes": 8979,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-prevents-takotsubo-cardiomyopathy.html",
+        "bytes": 9149,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-reduces-homocysteine-heart-risk.html",
+        "bytes": 9007,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gpp-cardiac-autonomic-neuropathy-prevention.html",
+        "bytes": 9171,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/shred-apolipoprotein-b-reduction.html",
+        "bytes": 9005,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/endure-prevents-hypertrophic-cardiomyopathy.html",
+        "bytes": 9165,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/boxing-improves-qt-interval-stability.html",
+        "bytes": 9089,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/repair-atrial-natriuretic-peptide-balance.html",
+        "bytes": 9185,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lift-long-term-cardiac-remodeling-prevention.html",
+        "bytes": 9211,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/sleep-optimization-through-evening-endure.html",
+        "bytes": 9225,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/perimenopause-hot-flash-protocol.html",
+        "bytes": 9077,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/teenage-daughter-strength-foundation.html",
+        "bytes": 9145,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/corporate-ladder-climb-endurance.html",
+        "bytes": 9003,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/grocery-shopping-core-stability.html",
+        "bytes": 8873,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-hysterectomy-strength-restoration.html",
+        "bytes": 9071,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/ski-vacation-injury-prevention.html",
+        "bytes": 8963,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/wedding-dress-back-strength.html",
+        "bytes": 8817,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/menopause-sleep-architecture-repair.html",
+        "bytes": 8953,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/airport-travel-functional-capacity.html",
+        "bytes": 8933,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pcos-cycle-regularity-training.html",
+        "bytes": 8873,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/daughter-s-sports-performance-edge.html",
+        "bytes": 8987,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-running-base-building.html",
+        "bytes": 8865,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/executive-presentation-voice-training.html",
+        "bytes": 9025,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gardening-season-back-protection.html",
+        "bytes": 8889,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/thyroid-medication-reduction-protocol.html",
+        "bytes": 8931,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/beach-vacation-body-confidence.html",
+        "bytes": 8843,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/senior-living-independence-maintenance.html",
+        "bytes": 8921,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-divorce-body-reclamation.html",
+        "bytes": 8805,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/nursing-school-clinical-endurance.html",
+        "bytes": 8729,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/holiday-weight-maintenance-strategy.html",
+        "bytes": 8907,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/violin-performance-posture-training.html",
+        "bytes": 8923,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-cancer-fatigue-reversal.html",
+        "bytes": 8785,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/real-estate-agent-daily-stamina.html",
+        "bytes": 8709,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/wedding-dance-floor-readiness.html",
+        "bytes": 8669,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-stroke-hemiparesis-training.html",
+        "bytes": 8869,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/server-12-hour-shift-survival.html",
+        "bytes": 8759,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/granddaughter-carrying-capacity.html",
+        "bytes": 8917,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-meniscus-surgery-return.html",
+        "bytes": 8801,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/choir-performance-breath-control.html",
+        "bytes": 8839,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/protein-timing-around-prenatal-lift-sessions.html",
+        "bytes": 9473,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/carb-cycling-for-shred-fat-loss-phases.html",
+        "bytes": 9205,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/magnesium-for-sleep-muscle-recovery.html",
+        "bytes": 9138,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gut-microbiome-diversity-through-fermented-foods.html",
+        "bytes": 9464,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/omega-3s-prevent-postpartum-depression.html",
+        "bytes": 9102,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/flexibility-progression-couch-to-crow-pose.html",
+        "bytes": 9160,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cancer-risk-reduction-through-strength-training.html",
+        "bytes": 9358,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/immune-system-boost-during-flu-season.html",
+        "bytes": 9014,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-vacation-recomposition-reset.html",
+        "bytes": 8969,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hashimoto-s-thyroid-training-adaptation.html",
+        "bytes": 9143,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/desk-job-posture-reprogramming.html",
+        "bytes": 8899,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pre-competition-cut-for-women-s-physique.html",
+        "bytes": 9033,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/chemotherapy-fatigue-reversal-protocol.html",
+        "bytes": 8977,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/high-heels-ankle-stability-training.html",
+        "bytes": 8903,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/perimenopause-libido-restoration.html",
+        "bytes": 8897,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/toddler-wrestling-core-training.html",
+        "bytes": 8785,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/postpartum-hair-restoration-nutrition.html",
+        "bytes": 9031,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/migraine-prevention-through-breathing.html",
+        "bytes": 8843,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/tennis-serve-power-development.html",
+        "bytes": 8827,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/seasonal-allergy-immune-modulation.html",
+        "bytes": 8941,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-surgical-scar-tissue-mobility.html",
+        "bytes": 8877,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/high-stress-job-cortisol-patterning.html",
+        "bytes": 8907,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/daughter-s-dance-team-conditioning.html",
+        "bytes": 8701,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/raynaud-s-circulation-improvement.html",
+        "bytes": 8663,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/post-menopause-vaginal-dryness-prevention.html",
+        "bytes": 8655,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3559,17 +5209,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 265546,
+        "bytes": 390478,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 71931,
+        "bytes": 110920,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 71931,
+        "bytes": 110920,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -3579,17 +5229,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 83452,
+        "bytes": 127438,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 78317,
+        "bytes": 114664,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1036,
+        "bytes": 37383,
         "purpose": "Standard sitemap"
       }
     ]
