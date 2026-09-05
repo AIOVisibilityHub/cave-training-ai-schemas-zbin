@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the wildest PR someone hit in SHRED?",
-  "description": "Members report 500m rower sprints under 1:40 post-8 weeks, blending cardio with unexpected strength gains.",
   "url": "cavetrainingfit.com/faq/what-s-the-wildest-pr-someone-hit-in-shred",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the wildest PR someone hit in SHRED?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Members report 500m rower sprints under 1:40 post-8 weeks, blending cardio with unexpected strength gains."
-      }
-    }
-  ],
+  "name": "What's the wildest PR someone hit in SHRED?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the wildest PR someone hit in SHRED?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Members report 500m rower sprints under 1:40 post-8 weeks, blending cardio with unexpected strength gains.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Members report 500m rower sprints under 1:40 post-8 weeks, blending cardio with unexpected strength gains."
 }

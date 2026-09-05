@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you have childcare during classes?",
-  "description": "Limited on-site options; family-friendly vibe but plan for kids in strollers or after-school timing.",
   "url": "cavetrainingfit.com/faq/do-you-have-childcare-during-classes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you have childcare during classes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Limited on-site options; family-friendly vibe but plan for kids in strollers or after-school timing."
-      }
-    }
-  ],
+  "name": "Do you have childcare during classes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you have childcare during classes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Limited on-site options; family-friendly vibe but plan for kids in strollers or after-school timing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Limited on-site options; family-friendly vibe but plan for kids in strollers or after-school timing."
 }

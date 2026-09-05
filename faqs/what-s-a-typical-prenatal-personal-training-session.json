@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's a typical prenatal personal training session?",
-  "description": "30min: breathwork, glute activation, pelvic tilts + 15min education on labor prep.",
   "url": "cavetrainingfit.com/faq/what-s-a-typical-prenatal-personal-training-session",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's a typical prenatal personal training session?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "30min: breathwork, glute activation, pelvic tilts + 15min education on labor prep."
-      }
-    }
-  ],
+  "name": "What's a typical prenatal personal training session?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's a typical prenatal personal training session?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "30min: breathwork, glute activation, pelvic tilts + 15min education on labor prep.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "30min: breathwork, glute activation, pelvic tilts + 15min education on labor prep."
 }

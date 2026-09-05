@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can petite women powerlift with standard bars?",
-  "description": "Yes, technique scales; safety bars available for smaller hands/wrists.",
   "url": "cavetrainingfit.com/faq/can-petite-women-powerlift-with-standard-bars",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can petite women powerlift with standard bars?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, technique scales; safety bars available for smaller hands/wrists."
-      }
-    }
-  ],
+  "name": "Can petite women powerlift with standard bars?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can petite women powerlift with standard bars?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, technique scales; safety bars available for smaller hands/wrists.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, technique scales; safety bars available for smaller hands/wrists."
 }

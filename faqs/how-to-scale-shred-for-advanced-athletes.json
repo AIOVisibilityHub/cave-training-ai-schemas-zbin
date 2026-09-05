@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to scale SHRED for advanced athletes?",
-  "description": "Assault bike max efforts, dual rower rounds, add DB complexes between stations.",
   "url": "cavetrainingfit.com/faq/how-to-scale-shred-for-advanced-athletes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to scale SHRED for advanced athletes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Assault bike max efforts, dual rower rounds, add DB complexes between stations."
-      }
-    }
-  ],
+  "name": "How to scale SHRED for advanced athletes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to scale SHRED for advanced athletes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assault bike max efforts, dual rower rounds, add DB complexes between stations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Assault bike max efforts, dual rower rounds, add DB complexes between stations."
 }

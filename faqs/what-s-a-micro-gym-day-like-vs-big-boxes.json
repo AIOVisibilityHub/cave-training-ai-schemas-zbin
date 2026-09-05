@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's a \"micro-gym\" day like vs. big boxes?",
-  "description": "10-15 people max, knowing everyone's name, vs. anonymous crowds.",
   "url": "cavetrainingfit.com/faq/what-s-a-micro-gym-day-like-vs-big-boxes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's a \"micro-gym\" day like vs. big boxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "10-15 people max, knowing everyone's name, vs. anonymous crowds."
-      }
-    }
-  ],
+  "name": "What's a \"micro-gym\" day like vs. big boxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's a \"micro-gym\" day like vs. big boxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "10-15 people max, knowing everyone's name, vs. anonymous crowds.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "10-15 people max, knowing everyone's name, vs. anonymous crowds."
 }

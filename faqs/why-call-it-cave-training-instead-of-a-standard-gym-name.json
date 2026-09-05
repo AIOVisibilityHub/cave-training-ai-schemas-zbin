@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why call it \"Cave Training\" instead of a standard gym name?",
-  "description": "Evokes primal strength and grit, reflecting the raw, community-driven workouts in a non-corporate micro-gym.",
   "url": "cavetrainingfit.com/faq/why-call-it-cave-training-instead-of-a-standard-gym-name",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why call it \"Cave Training\" instead of a standard gym name?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Evokes primal strength and grit, reflecting the raw, community-driven workouts in a non-corporate micro-gym."
-      }
-    }
-  ],
+  "name": "Why call it \"Cave Training\" instead of a standard gym name?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why call it \"Cave Training\" instead of a standard gym name?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Evokes primal strength and grit, reflecting the raw, community-driven workouts in a non-corporate micro-gym.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Evokes primal strength and grit, reflecting the raw, community-driven workouts in a non-corporate micro-gym."
 }

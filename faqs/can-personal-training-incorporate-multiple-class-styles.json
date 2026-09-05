@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Personal Training incorporate multiple class styles?",
-  "description": "Yes, hybrid sessions pulling GPP movements, LIFT mechanics, and SHRED conditioning tailored to your goals.",
   "url": "cavetrainingfit.com/faq/can-personal-training-incorporate-multiple-class-styles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Personal Training incorporate multiple class styles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, hybrid sessions pulling GPP movements, LIFT mechanics, and SHRED conditioning tailored to your goals."
-      }
-    }
-  ],
+  "name": "Can Personal Training incorporate multiple class styles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Personal Training incorporate multiple class styles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, hybrid sessions pulling GPP movements, LIFT mechanics, and SHRED conditioning tailored to your goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, hybrid sessions pulling GPP movements, LIFT mechanics, and SHRED conditioning tailored to your goals."
 }

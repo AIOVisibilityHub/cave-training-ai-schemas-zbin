@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does Cave offer mom-baby classes postpartum?",
-  "description": "Partner workouts welcome babies in carriers; builds routine with support.",
   "url": "cavetrainingfit.com/faq/does-cave-offer-mom-baby-classes-postpartum",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Cave offer mom-baby classes postpartum?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Partner workouts welcome babies in carriers; builds routine with support."
-      }
-    }
-  ],
+  "name": "Does Cave offer mom-baby classes postpartum?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does Cave offer mom-baby classes postpartum?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partner workouts welcome babies in carriers; builds routine with support.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Partner workouts welcome babies in carriers; builds routine with support."
 }

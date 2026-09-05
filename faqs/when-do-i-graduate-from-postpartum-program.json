@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I graduate from postpartum program?",
-  "description": "6 months: full GPP access, LIFT return, sustained pelvic floor integrity test passed.",
   "url": "cavetrainingfit.com/faq/when-do-i-graduate-from-postpartum-program",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I graduate from postpartum program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "6 months: full GPP access, LIFT return, sustained pelvic floor integrity test passed."
-      }
-    }
-  ],
+  "name": "When do I graduate from postpartum program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I graduate from postpartum program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "6 months: full GPP access, LIFT return, sustained pelvic floor integrity test passed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "6 months: full GPP access, LIFT return, sustained pelvic floor integrity test passed."
 }

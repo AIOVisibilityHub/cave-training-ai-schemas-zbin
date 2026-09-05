@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does yoga in REPAIR aid recovery?",
-  "description": "Hip openers and spinal twists release tension from pregnancy posture shifts.",
   "url": "cavetrainingfit.com/faq/how-does-yoga-in-repair-aid-recovery",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does yoga in REPAIR aid recovery?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hip openers and spinal twists release tension from pregnancy posture shifts."
-      }
-    }
-  ],
+  "name": "How does yoga in REPAIR aid recovery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does yoga in REPAIR aid recovery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hip openers and spinal twists release tension from pregnancy posture shifts.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hip openers and spinal twists release tension from pregnancy posture shifts."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does REPAIR yoga complement intense classes?",
-  "description": "Active recovery focusing on mobility, breathwork, and pelvic restoration post-GPP or SHRED sessions.",
   "url": "cavetrainingfit.com/faq/how-does-repair-yoga-complement-intense-classes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does REPAIR yoga complement intense classes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Active recovery focusing on mobility, breathwork, and pelvic restoration post-GPP or SHRED sessions."
-      }
-    }
-  ],
+  "name": "How does REPAIR yoga complement intense classes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does REPAIR yoga complement intense classes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Active recovery focusing on mobility, breathwork, and pelvic restoration post-GPP or SHRED sessions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Active recovery focusing on mobility, breathwork, and pelvic restoration post-GPP or SHRED sessions."
 }

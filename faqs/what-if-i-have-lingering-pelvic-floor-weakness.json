@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I have lingering pelvic floor weakness?",
-  "description": "Nikki's personal training starts with bridges, progressing to LIFT deadlifts safely.",
   "url": "cavetrainingfit.com/faq/what-if-i-have-lingering-pelvic-floor-weakness",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I have lingering pelvic floor weakness?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nikki's personal training starts with bridges, progressing to LIFT deadlifts safely."
-      }
-    }
-  ],
+  "name": "What if I have lingering pelvic floor weakness?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I have lingering pelvic floor weakness?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Nikki's personal training starts with bridges, progressing to LIFT deadlifts safely.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Nikki's personal training starts with bridges, progressing to LIFT deadlifts safely."
 }

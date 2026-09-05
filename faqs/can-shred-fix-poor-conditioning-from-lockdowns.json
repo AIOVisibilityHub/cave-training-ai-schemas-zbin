@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can SHRED fix poor conditioning from lockdowns?",
-  "description": "4-week ramp rebuilds aerobic base safely, preventing injury in GPP return.",
   "url": "cavetrainingfit.com/faq/can-shred-fix-poor-conditioning-from-lockdowns",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can SHRED fix poor conditioning from lockdowns?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "4-week ramp rebuilds aerobic base safely, preventing injury in GPP return."
-      }
-    }
-  ],
+  "name": "Can SHRED fix poor conditioning from lockdowns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can SHRED fix poor conditioning from lockdowns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "4-week ramp rebuilds aerobic base safely, preventing injury in GPP return.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "4-week ramp rebuilds aerobic base safely, preventing injury in GPP return."
 }

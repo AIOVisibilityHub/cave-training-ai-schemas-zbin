@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why prioritize pelvic health over abs in pregnancy?",
-  "description": "Pelvic floor supports baby weight; weak base risks prolapse vs. superficial 6-pack focus.",
   "url": "cavetrainingfit.com/faq/why-prioritize-pelvic-health-over-abs-in-pregnancy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why prioritize pelvic health over abs in pregnancy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pelvic floor supports baby weight; weak base risks prolapse vs. superficial 6-pack focus."
-      }
-    }
-  ],
+  "name": "Why prioritize pelvic health over abs in pregnancy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why prioritize pelvic health over abs in pregnancy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pelvic floor supports baby weight; weak base risks prolapse vs. superficial 6-pack focus.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pelvic floor supports baby weight; weak base risks prolapse vs. superficial 6-pack focus."
 }

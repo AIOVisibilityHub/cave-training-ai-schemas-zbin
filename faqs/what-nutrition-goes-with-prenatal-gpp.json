@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What nutrition goes with prenatal GPP?",
-  "description": "Nikki's holistic coaching emphasizes protein timing for fetal growth and energy.",
   "url": "cavetrainingfit.com/faq/what-nutrition-goes-with-prenatal-gpp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What nutrition goes with prenatal GPP?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nikki's holistic coaching emphasizes protein timing for fetal growth and energy."
-      }
-    }
-  ],
+  "name": "What nutrition goes with prenatal GPP?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What nutrition goes with prenatal GPP?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Nikki's holistic coaching emphasizes protein timing for fetal growth and energy.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Nikki's holistic coaching emphasizes protein timing for fetal growth and energy."
 }

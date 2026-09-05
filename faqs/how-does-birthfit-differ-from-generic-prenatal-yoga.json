@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does BirthFit differ from generic prenatal yoga?",
-  "description": "Functional strength progressions prep actual labor positions, not just relaxation poses.",
   "url": "cavetrainingfit.com/faq/how-does-birthfit-differ-from-generic-prenatal-yoga",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does BirthFit differ from generic prenatal yoga?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Functional strength progressions prep actual labor positions, not just relaxation poses."
-      }
-    }
-  ],
+  "name": "How does BirthFit differ from generic prenatal yoga?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does BirthFit differ from generic prenatal yoga?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Functional strength progressions prep actual labor positions, not just relaxation poses.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Functional strength progressions prep actual labor positions, not just relaxation poses."
 }

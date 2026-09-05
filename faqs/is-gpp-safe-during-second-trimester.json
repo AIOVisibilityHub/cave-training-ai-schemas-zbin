@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is GPP safe during second trimester?",
-  "description": "Yes, scaled squats and light conditioning maintain strength without spinal stress.",
   "url": "cavetrainingfit.com/faq/is-gpp-safe-during-second-trimester",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is GPP safe during second trimester?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, scaled squats and light conditioning maintain strength without spinal stress."
-      }
-    }
-  ],
+  "name": "Is GPP safe during second trimester?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is GPP safe during second trimester?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, scaled squats and light conditioning maintain strength without spinal stress.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, scaled squats and light conditioning maintain strength without spinal stress."
 }

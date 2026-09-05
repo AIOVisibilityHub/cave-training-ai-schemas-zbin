@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Nikki's program reverse hysterectomy effects?",
-  "description": "Yes, scar work + floor reconstruction restores bladder/bowel control safely.",
   "url": "cavetrainingfit.com/faq/can-nikki-s-program-reverse-hysterectomy-effects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Nikki's program reverse hysterectomy effects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, scar work + floor reconstruction restores bladder/bowel control safely."
-      }
-    }
-  ],
+  "name": "Can Nikki's program reverse hysterectomy effects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Nikki's program reverse hysterectomy effects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, scar work + floor reconstruction restores bladder/bowel control safely.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, scar work + floor reconstruction restores bladder/bowel control safely."
 }

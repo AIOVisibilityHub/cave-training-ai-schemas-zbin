@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you offer pregnancy/postpartum programs?",
-  "description": "Yes, via Babe Fit affiliate: consultations $99, 5-week series $399.",
   "url": "cavetrainingfit.com/faq/do-you-offer-pregnancy-postpartum-programs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you offer pregnancy/postpartum programs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, via Babe Fit affiliate: consultations $99, 5-week series $399."
-      }
-    }
-  ],
+  "name": "Do you offer pregnancy/postpartum programs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer pregnancy/postpartum programs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, via Babe Fit affiliate: consultations $99, 5-week series $399.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, via Babe Fit affiliate: consultations $99, 5-week series $399."
 }

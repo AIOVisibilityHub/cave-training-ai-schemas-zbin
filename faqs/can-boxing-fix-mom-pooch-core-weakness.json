@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can BOXING fix \"mom pooch\" core weakness?",
-  "description": "Rotational stability closes diastasis faster than planks alone.",
   "url": "cavetrainingfit.com/faq/can-boxing-fix-mom-pooch-core-weakness",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can BOXING fix \"mom pooch\" core weakness?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rotational stability closes diastasis faster than planks alone."
-      }
-    }
-  ],
+  "name": "Can BOXING fix \"mom pooch\" core weakness?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can BOXING fix \"mom pooch\" core weakness?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rotational stability closes diastasis faster than planks alone.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rotational stability closes diastasis faster than planks alone."
 }

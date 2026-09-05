@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why combine CrossFit with BirthFit methodology?",
-  "description": "Scalable movements maintain fitness base while BirthFit protects changing anatomy.",
   "url": "cavetrainingfit.com/faq/why-combine-crossfit-with-birthfit-methodology",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why combine CrossFit with BirthFit methodology?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Scalable movements maintain fitness base while BirthFit protects changing anatomy."
-      }
-    }
-  ],
+  "name": "Why combine CrossFit with BirthFit methodology?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why combine CrossFit with BirthFit methodology?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Scalable movements maintain fitness base while BirthFit protects changing anatomy.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Scalable movements maintain fitness base while BirthFit protects changing anatomy."
 }

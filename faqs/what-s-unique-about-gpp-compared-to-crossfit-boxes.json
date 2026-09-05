@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's unique about GPP compared to CrossFit boxes?",
-  "description": "Blends weightlifting, gymnastics, and conditioning with Cave's small-group coaching for personalized scaling, not massive classes.",
   "url": "cavetrainingfit.com/faq/what-s-unique-about-gpp-compared-to-crossfit-boxes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's unique about GPP compared to CrossFit boxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Blends weightlifting, gymnastics, and conditioning with Cave's small-group coaching for personalized scaling, not massive classes."
-      }
-    }
-  ],
+  "name": "What's unique about GPP compared to CrossFit boxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's unique about GPP compared to CrossFit boxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Blends weightlifting, gymnastics, and conditioning with Cave's small-group coaching for personalized scaling, not massive classes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Blends weightlifting, gymnastics, and conditioning with Cave's small-group coaching for personalized scaling, not massive classes."
 }

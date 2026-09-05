@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's nutrition timing for women's LIFT sessions?",
-  "description": "30g protein pre/post; carb cycling matches high barbell demand days.",
   "url": "cavetrainingfit.com/faq/what-s-nutrition-timing-for-women-s-lift-sessions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's nutrition timing for women's LIFT sessions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "30g protein pre/post; carb cycling matches high barbell demand days."
-      }
-    }
-  ],
+  "name": "What's nutrition timing for women's LIFT sessions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's nutrition timing for women's LIFT sessions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "30g protein pre/post; carb cycling matches high barbell demand days.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "30g protein pre/post; carb cycling matches high barbell demand days."
 }

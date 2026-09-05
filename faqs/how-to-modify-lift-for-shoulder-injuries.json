@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to modify LIFT for shoulder injuries?",
-  "description": "Floor press, landmine variations restore mobility before full overhead return.",
   "url": "cavetrainingfit.com/faq/how-to-modify-lift-for-shoulder-injuries",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to modify LIFT for shoulder injuries?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Floor press, landmine variations restore mobility before full overhead return."
-      }
-    }
-  ],
+  "name": "How to modify LIFT for shoulder injuries?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to modify LIFT for shoulder injuries?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor press, landmine variations restore mobility before full overhead return.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Floor press, landmine variations restore mobility before full overhead return."
 }

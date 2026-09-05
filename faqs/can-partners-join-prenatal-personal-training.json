@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can partners join prenatal personal training?",
-  "description": "Yes, duo sessions teach support techniques and shared postpartum recovery.",
   "url": "cavetrainingfit.com/faq/can-partners-join-prenatal-personal-training",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can partners join prenatal personal training?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, duo sessions teach support techniques and shared postpartum recovery."
-      }
-    }
-  ],
+  "name": "Can partners join prenatal personal training?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can partners join prenatal personal training?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, duo sessions teach support techniques and shared postpartum recovery.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, duo sessions teach support techniques and shared postpartum recovery."
 }

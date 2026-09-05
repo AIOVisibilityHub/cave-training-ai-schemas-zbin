@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I join SHRED HIIT 8 weeks postpartum?",
-  "description": "Yes, scaled rower circuits avoiding intra-abdominal pressure for gradual intensity.",
   "url": "cavetrainingfit.com/faq/can-i-join-shred-hiit-8-weeks-postpartum",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I join SHRED HIIT 8 weeks postpartum?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, scaled rower circuits avoiding intra-abdominal pressure for gradual intensity."
-      }
-    }
-  ],
+  "name": "Can I join SHRED HIIT 8 weeks postpartum?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I join SHRED HIIT 8 weeks postpartum?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, scaled rower circuits avoiding intra-abdominal pressure for gradual intensity.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, scaled rower circuits avoiding intra-abdominal pressure for gradual intensity."
 }

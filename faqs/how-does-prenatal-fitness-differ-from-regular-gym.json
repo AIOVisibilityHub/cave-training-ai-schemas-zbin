@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does prenatal fitness differ from regular gym?",
-  "description": "No crunches/planks; emphasizes hip stability, breathing patterns, and posterior chain instead.",
   "url": "cavetrainingfit.com/faq/how-does-prenatal-fitness-differ-from-regular-gym",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does prenatal fitness differ from regular gym?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No crunches/planks; emphasizes hip stability, breathing patterns, and posterior chain instead."
-      }
-    }
-  ],
+  "name": "How does prenatal fitness differ from regular gym?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does prenatal fitness differ from regular gym?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No crunches/planks; emphasizes hip stability, breathing patterns, and posterior chain instead.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No crunches/planks; emphasizes hip stability, breathing patterns, and posterior chain instead."
 }

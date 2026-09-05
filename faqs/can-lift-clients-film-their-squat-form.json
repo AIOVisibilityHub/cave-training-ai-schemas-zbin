@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can LIFT clients film their squat form?",
-  "description": "Absolutely; coaches review side-by-side for technique tweaks mid-cycle.",
   "url": "cavetrainingfit.com/faq/can-lift-clients-film-their-squat-form",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can LIFT clients film their squat form?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely; coaches review side-by-side for technique tweaks mid-cycle."
-      }
-    }
-  ],
+  "name": "Can LIFT clients film their squat form?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can LIFT clients film their squat form?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely; coaches review side-by-side for technique tweaks mid-cycle.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Absolutely; coaches review side-by-side for technique tweaks mid-cycle."
 }

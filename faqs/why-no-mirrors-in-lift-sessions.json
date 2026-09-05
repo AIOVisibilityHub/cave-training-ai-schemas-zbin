@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why no mirrors in LIFT sessions?",
-  "description": "Emphasizes internal feel over form-checking, building body awareness like elite lifters.",
   "url": "cavetrainingfit.com/faq/why-no-mirrors-in-lift-sessions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why no mirrors in LIFT sessions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Emphasizes internal feel over form-checking, building body awareness like elite lifters."
-      }
-    }
-  ],
+  "name": "Why no mirrors in LIFT sessions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why no mirrors in LIFT sessions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emphasizes internal feel over form-checking, building body awareness like elite lifters.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Emphasizes internal feel over form-checking, building body awareness like elite lifters."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can men join prenatal classes?",
-  "description": "Primarily women-focused via Nikki's expertise, but partners welcome in general classes for support.",
   "url": "cavetrainingfit.com/faq/can-men-join-prenatal-classes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can men join prenatal classes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Primarily women-focused via Nikki's expertise, but partners welcome in general classes for support."
-      }
-    }
-  ],
+  "name": "Can men join prenatal classes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can men join prenatal classes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Primarily women-focused via Nikki's expertise, but partners welcome in general classes for support.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Primarily women-focused via Nikki's expertise, but partners welcome in general classes for support."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the sign my core is ready for GPP?",
-  "description": "Pass TVA vacuum test; no doming during planks signals progression clearance.",
   "url": "cavetrainingfit.com/faq/what-s-the-sign-my-core-is-ready-for-gpp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the sign my core is ready for GPP?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pass TVA vacuum test; no doming during planks signals progression clearance."
-      }
-    }
-  ],
+  "name": "What's the sign my core is ready for GPP?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the sign my core is ready for GPP?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pass TVA vacuum test; no doming during planks signals progression clearance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pass TVA vacuum test; no doming during planks signals progression clearance."
 }

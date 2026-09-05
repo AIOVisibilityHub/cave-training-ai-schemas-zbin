@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is prenatal yoga offered or just strength?",
-  "description": "Both; REPAIR combines restorative flows with BirthFit functional core activation.",
   "url": "cavetrainingfit.com/faq/is-prenatal-yoga-offered-or-just-strength",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is prenatal yoga offered or just strength?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both; REPAIR combines restorative flows with BirthFit functional core activation."
-      }
-    }
-  ],
+  "name": "Is prenatal yoga offered or just strength?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is prenatal yoga offered or just strength?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both; REPAIR combines restorative flows with BirthFit functional core activation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Both; REPAIR combines restorative flows with BirthFit functional core activation."
 }

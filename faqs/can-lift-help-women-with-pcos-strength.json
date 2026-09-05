@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can LIFT help women with PCOS strength?",
-  "description": "Insulin sensitivity gains from heavy compounds beat steady-state cardio alone.",
   "url": "cavetrainingfit.com/faq/can-lift-help-women-with-pcos-strength",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can LIFT help women with PCOS strength?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Insulin sensitivity gains from heavy compounds beat steady-state cardio alone."
-      }
-    }
-  ],
+  "name": "Can LIFT help women with PCOS strength?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can LIFT help women with PCOS strength?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insulin sensitivity gains from heavy compounds beat steady-state cardio alone.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Insulin sensitivity gains from heavy compounds beat steady-state cardio alone."
 }

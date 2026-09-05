@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How soon after miscarriage can I restart?",
-  "description": "2-week emotional check-in; gentle walking progressions before full classes return.",
   "url": "cavetrainingfit.com/faq/how-soon-after-miscarriage-can-i-restart",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How soon after miscarriage can I restart?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "2-week emotional check-in; gentle walking progressions before full classes return."
-      }
-    }
-  ],
+  "name": "How soon after miscarriage can I restart?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after miscarriage can I restart?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "2-week emotional check-in; gentle walking progressions before full classes return.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "2-week emotional check-in; gentle walking progressions before full classes return."
 }

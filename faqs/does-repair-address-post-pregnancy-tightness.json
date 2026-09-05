@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does REPAIR address post-pregnancy tightness?",
-  "description": "Targeted stretches and core reactivation drawing from Nikki's BirthFit expertise for safe recovery.",
   "url": "cavetrainingfit.com/faq/does-repair-address-post-pregnancy-tightness",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does REPAIR address post-pregnancy tightness?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Targeted stretches and core reactivation drawing from Nikki's BirthFit expertise for safe recovery."
-      }
-    }
-  ],
+  "name": "Does REPAIR address post-pregnancy tightness?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does REPAIR address post-pregnancy tightness?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Targeted stretches and core reactivation drawing from Nikki's BirthFit expertise for safe recovery.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Targeted stretches and core reactivation drawing from Nikki's BirthFit expertise for safe recovery."
 }

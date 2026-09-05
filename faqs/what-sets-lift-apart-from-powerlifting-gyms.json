@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What sets LIFT apart from powerlifting gyms?",
-  "description": "Technique-first barbell cycles (squat/press/deadlift) in a functional fitness space, building balanced aesthetics safely.",
   "url": "cavetrainingfit.com/faq/what-sets-lift-apart-from-powerlifting-gyms",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What sets LIFT apart from powerlifting gyms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Technique-first barbell cycles (squat/press/deadlift) in a functional fitness space, building balanced aesthetics safely."
-      }
-    }
-  ],
+  "name": "What sets LIFT apart from powerlifting gyms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What sets LIFT apart from powerlifting gyms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Technique-first barbell cycles (squat/press/deadlift) in a functional fitness space, building balanced aesthetics safely.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Technique-first barbell cycles (squat/press/deadlift) in a functional fitness space, building balanced aesthetics safely."
 }

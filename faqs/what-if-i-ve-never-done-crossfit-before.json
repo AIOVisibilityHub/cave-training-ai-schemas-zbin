@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I've never done CrossFit before?",
-  "description": "L2 coaching scales everything; prenatal GPP = bodyweight squats + wall pushups max.",
   "url": "cavetrainingfit.com/faq/what-if-i-ve-never-done-crossfit-before",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I've never done CrossFit before?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "L2 coaching scales everything; prenatal GPP = bodyweight squats + wall pushups max."
-      }
-    }
-  ],
+  "name": "What if I've never done CrossFit before?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I've never done CrossFit before?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "L2 coaching scales everything; prenatal GPP = bodyweight squats + wall pushups max.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "L2 coaching scales everything; prenatal GPP = bodyweight squats + wall pushups max."
 }

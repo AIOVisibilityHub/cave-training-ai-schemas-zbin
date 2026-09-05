@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if prenatal training causes round ligament pain?",
-  "description": "Immediate modification to side-lying; ultrasound-guided progressions if persistent.",
   "url": "cavetrainingfit.com/faq/what-if-prenatal-training-causes-round-ligament-pain",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if prenatal training causes round ligament pain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Immediate modification to side-lying; ultrasound-guided progressions if persistent."
-      }
-    }
-  ],
+  "name": "What if prenatal training causes round ligament pain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if prenatal training causes round ligament pain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediate modification to side-lying; ultrasound-guided progressions if persistent.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Immediate modification to side-lying; ultrasound-guided progressions if persistent."
 }

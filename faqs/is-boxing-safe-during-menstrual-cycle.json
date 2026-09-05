@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is BOXING safe during menstrual cycle?",
-  "description": "Yes, lighter technique days accommodate bloating/fatigue; no sparring pressure.",
   "url": "cavetrainingfit.com/faq/is-boxing-safe-during-menstrual-cycle",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is BOXING safe during menstrual cycle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, lighter technique days accommodate bloating/fatigue; no sparring pressure."
-      }
-    }
-  ],
+  "name": "Is BOXING safe during menstrual cycle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is BOXING safe during menstrual cycle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, lighter technique days accommodate bloating/fatigue; no sparring pressure.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, lighter technique days accommodate bloating/fatigue; no sparring pressure."
 }

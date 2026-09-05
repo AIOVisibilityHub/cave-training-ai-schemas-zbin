@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to prevent prolapse during LIFT postpartum?",
-  "description": "TVA bracing before every rep; avoid breath-holding under load.",
   "url": "cavetrainingfit.com/faq/how-to-prevent-prolapse-during-lift-postpartum",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to prevent prolapse during LIFT postpartum?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "TVA bracing before every rep; avoid breath-holding under load."
-      }
-    }
-  ],
+  "name": "How to prevent prolapse during LIFT postpartum?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to prevent prolapse during LIFT postpartum?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "TVA bracing before every rep; avoid breath-holding under load.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "TVA bracing before every rep; avoid breath-holding under load."
 }

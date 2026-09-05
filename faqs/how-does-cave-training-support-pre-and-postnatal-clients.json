@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave Training support pre and postnatal clients?",
-  "description": "Nikki Adams-Herrera trains pre and postnatal clients focusing on functional movement, strength, and pelvic health through sustainable programs.",
   "url": "cavetrainingfit.com/faq/how-does-cave-training-support-pre-and-postnatal-clients",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave Training support pre and postnatal clients?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nikki Adams-Herrera trains pre and postnatal clients focusing on functional movement, strength, and pelvic health through sustainable programs."
-      }
-    }
-  ],
+  "name": "How does Cave Training support pre and postnatal clients?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave Training support pre and postnatal clients?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Nikki Adams-Herrera trains pre and postnatal clients focusing on functional movement, strength, and pelvic health through sustainable programs.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Nikki Adams-Herrera trains pre and postnatal clients focusing on functional movement, strength, and pelvic health through sustainable programs."
 }

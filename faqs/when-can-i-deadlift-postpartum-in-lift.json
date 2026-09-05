@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When can I deadlift postpartum in LIFT?",
-  "description": "12+ weeks with TVA test; start Romanian style before conventional pulls.",
   "url": "cavetrainingfit.com/faq/when-can-i-deadlift-postpartum-in-lift",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When can I deadlift postpartum in LIFT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "12+ weeks with TVA test; start Romanian style before conventional pulls."
-      }
-    }
-  ],
+  "name": "When can I deadlift postpartum in LIFT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When can I deadlift postpartum in LIFT?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "12+ weeks with TVA test; start Romanian style before conventional pulls.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "12+ weeks with TVA test; start Romanian style before conventional pulls."
 }

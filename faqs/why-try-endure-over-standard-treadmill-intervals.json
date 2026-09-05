@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why try ENDURE over standard treadmill intervals?",
-  "description": "40-min music-synced circuits mixing spin, rowing, toning for rhythmic flow and core sculpting without boredom.",
   "url": "cavetrainingfit.com/faq/why-try-endure-over-standard-treadmill-intervals",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why try ENDURE over standard treadmill intervals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "40-min music-synced circuits mixing spin, rowing, toning for rhythmic flow and core sculpting without boredom."
-      }
-    }
-  ],
+  "name": "Why try ENDURE over standard treadmill intervals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why try ENDURE over standard treadmill intervals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "40-min music-synced circuits mixing spin, rowing, toning for rhythmic flow and core sculpting without boredom.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "40-min music-synced circuits mixing spin, rowing, toning for rhythmic flow and core sculpting without boredom."
 }

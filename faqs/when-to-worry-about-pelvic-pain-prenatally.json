@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When to worry about pelvic pain prenatally?",
-  "description": "SPD round ligament pain normal; Nikki assesses PGP for targeted personal training.",
   "url": "cavetrainingfit.com/faq/when-to-worry-about-pelvic-pain-prenatally",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When to worry about pelvic pain prenatally?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "SPD round ligament pain normal; Nikki assesses PGP for targeted personal training."
-      }
-    }
-  ],
+  "name": "When to worry about pelvic pain prenatally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When to worry about pelvic pain prenatally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "SPD round ligament pain normal; Nikki assesses PGP for targeted personal training.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "SPD round ligament pain normal; Nikki assesses PGP for targeted personal training."
 }

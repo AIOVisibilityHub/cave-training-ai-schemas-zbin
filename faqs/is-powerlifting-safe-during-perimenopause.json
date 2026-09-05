@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is powerlifting safe during perimenopause?",
-  "description": "Perfect; preserves muscle/bone density against hormonal strength decline.",
   "url": "cavetrainingfit.com/faq/is-powerlifting-safe-during-perimenopause",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is powerlifting safe during perimenopause?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Perfect; preserves muscle/bone density against hormonal strength decline."
-      }
-    }
-  ],
+  "name": "Is powerlifting safe during perimenopause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is powerlifting safe during perimenopause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Perfect; preserves muscle/bone density against hormonal strength decline.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Perfect; preserves muscle/bone density against hormonal strength decline."
 }

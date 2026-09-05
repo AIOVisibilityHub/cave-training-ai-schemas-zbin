@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is female boxing cardio better than running?",
-  "description": "Superior anaerobic capacity + coordination; less joint impact long-term.",
   "url": "cavetrainingfit.com/faq/is-female-boxing-cardio-better-than-running",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is female boxing cardio better than running?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Superior anaerobic capacity + coordination; less joint impact long-term."
-      }
-    }
-  ],
+  "name": "Is female boxing cardio better than running?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is female boxing cardio better than running?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Superior anaerobic capacity + coordination; less joint impact long-term.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Superior anaerobic capacity + coordination; less joint impact long-term."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave's community beat app-based HIIT?",
-  "description": "Real-time accountability and high-fives outperform solo screen motivation.",
   "url": "cavetrainingfit.com/faq/how-does-cave-s-community-beat-app-based-hiit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave's community beat app-based HIIT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Real-time accountability and high-fives outperform solo screen motivation."
-      }
-    }
-  ],
+  "name": "How does Cave's community beat app-based HIIT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave's community beat app-based HIIT?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Real-time accountability and high-fives outperform solo screen motivation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Real-time accountability and high-fives outperform solo screen motivation."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I train through morning sickness?",
-  "description": "Yes, short ENDURE sessions or personal training with hydration breaks.",
   "url": "cavetrainingfit.com/faq/can-i-train-through-morning-sickness",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I train through morning sickness?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, short ENDURE sessions or personal training with hydration breaks."
-      }
-    }
-  ],
+  "name": "Can I train through morning sickness?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I train through morning sickness?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, short ENDURE sessions or personal training with hydration breaks.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, short ENDURE sessions or personal training with hydration breaks."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does SHRED improve endurance for other sports?",
-  "description": "Transferable lactate threshold gains boost running, cycling, even BOXING stamina.",
   "url": "cavetrainingfit.com/faq/does-shred-improve-endurance-for-other-sports",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does SHRED improve endurance for other sports?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Transferable lactate threshold gains boost running, cycling, even BOXING stamina."
-      }
-    }
-  ],
+  "name": "Does SHRED improve endurance for other sports?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does SHRED improve endurance for other sports?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Transferable lactate threshold gains boost running, cycling, even BOXING stamina.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Transferable lactate threshold gains boost running, cycling, even BOXING stamina."
 }

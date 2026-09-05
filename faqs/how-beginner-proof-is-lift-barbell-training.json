@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How beginner-proof is LIFT barbell training?",
-  "description": "Starts with PVC pipes/empty bars; coaches prioritize form over weight for lifelong strength gains.",
   "url": "cavetrainingfit.com/faq/how-beginner-proof-is-lift-barbell-training",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How beginner-proof is LIFT barbell training?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Starts with PVC pipes/empty bars; coaches prioritize form over weight for lifelong strength gains."
-      }
-    }
-  ],
+  "name": "How beginner-proof is LIFT barbell training?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How beginner-proof is LIFT barbell training?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starts with PVC pipes/empty bars; coaches prioritize form over weight for lifelong strength gains.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Starts with PVC pipes/empty bars; coaches prioritize form over weight for lifelong strength gains."
 }

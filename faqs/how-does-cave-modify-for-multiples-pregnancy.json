@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave modify for multiples pregnancy?",
-  "description": "Extra stability focus, shorter sessions, twin-specific pelvic load management.",
   "url": "cavetrainingfit.com/faq/how-does-cave-modify-for-multiples-pregnancy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave modify for multiples pregnancy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Extra stability focus, shorter sessions, twin-specific pelvic load management."
-      }
-    }
-  ],
+  "name": "How does Cave modify for multiples pregnancy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave modify for multiples pregnancy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Extra stability focus, shorter sessions, twin-specific pelvic load management.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Extra stability focus, shorter sessions, twin-specific pelvic load management."
 }

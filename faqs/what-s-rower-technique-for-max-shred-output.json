@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's rower technique for max SHRED output?",
-  "description": "500m pace under 1:50 average; leg drive first, crisp pulls minimize drag.",
   "url": "cavetrainingfit.com/faq/what-s-rower-technique-for-max-shred-output",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's rower technique for max SHRED output?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "500m pace under 1:50 average; leg drive first, crisp pulls minimize drag."
-      }
-    }
-  ],
+  "name": "What's rower technique for max SHRED output?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's rower technique for max SHRED output?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "500m pace under 1:50 average; leg drive first, crisp pulls minimize drag.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "500m pace under 1:50 average; leg drive first, crisp pulls minimize drag."
 }

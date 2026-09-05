@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's SHRED's afterburn compared to weights?",
-  "description": "15-20% higher EPOC from anaerobic bursts sustains calorie burn through dinner.",
   "url": "cavetrainingfit.com/faq/what-s-shred-s-afterburn-compared-to-weights",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's SHRED's afterburn compared to weights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "15-20% higher EPOC from anaerobic bursts sustains calorie burn through dinner."
-      }
-    }
-  ],
+  "name": "What's SHRED's afterburn compared to weights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's SHRED's afterburn compared to weights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "15-20% higher EPOC from anaerobic bursts sustains calorie burn through dinner.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "15-20% higher EPOC from anaerobic bursts sustains calorie burn through dinner."
 }

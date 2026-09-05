@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does BOXING boost confidence for women?",
-  "description": "Mastering combos → stress mastery; visible posture/core gains amplify effect.",
   "url": "cavetrainingfit.com/faq/does-boxing-boost-confidence-for-women",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does BOXING boost confidence for women?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Mastering combos → stress mastery; visible posture/core gains amplify effect."
-      }
-    }
-  ],
+  "name": "Does BOXING boost confidence for women?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does BOXING boost confidence for women?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mastering combos → stress mastery; visible posture/core gains amplify effect.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Mastering combos → stress mastery; visible posture/core gains amplify effect."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What pelvic floor exercises are in REPAIR?",
-  "description": "Kegels, bridges, bird-dogs integrated into yoga flows for functional strength.",
   "url": "cavetrainingfit.com/faq/what-pelvic-floor-exercises-are-in-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What pelvic floor exercises are in REPAIR?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Kegels, bridges, bird-dogs integrated into yoga flows for functional strength."
-      }
-    }
-  ],
+  "name": "What pelvic floor exercises are in REPAIR?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What pelvic floor exercises are in REPAIR?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kegels, bridges, bird-dogs integrated into yoga flows for functional strength.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kegels, bridges, bird-dogs integrated into yoga flows for functional strength."
 }

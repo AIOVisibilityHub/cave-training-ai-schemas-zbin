@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How personalized is Personal Training really?",
-  "description": "Fully custom—blends your favorite class elements with injury history and schedule constraints.",
   "url": "cavetrainingfit.com/faq/how-personalized-is-personal-training-really",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How personalized is Personal Training really?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fully custom—blends your favorite class elements with injury history and schedule constraints."
-      }
-    }
-  ],
+  "name": "How personalized is Personal Training really?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How personalized is Personal Training really?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fully custom—blends your favorite class elements with injury history and schedule constraints.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Fully custom—blends your favorite class elements with injury history and schedule constraints."
 }

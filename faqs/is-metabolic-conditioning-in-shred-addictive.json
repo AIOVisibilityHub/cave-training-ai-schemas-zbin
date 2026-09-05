@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is metabolic conditioning in SHRED addictive?",
-  "description": "Endorphin rush + visible PRs create habit loop stronger than steady cardio.",
   "url": "cavetrainingfit.com/faq/is-metabolic-conditioning-in-shred-addictive",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is metabolic conditioning in SHRED addictive?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Endorphin rush + visible PRs create habit loop stronger than steady cardio."
-      }
-    }
-  ],
+  "name": "Is metabolic conditioning in SHRED addictive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is metabolic conditioning in SHRED addictive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Endorphin rush + visible PRs create habit loop stronger than steady cardio.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Endorphin rush + visible PRs create habit loop stronger than steady cardio."
 }

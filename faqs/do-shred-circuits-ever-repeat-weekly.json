@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do SHRED circuits ever repeat weekly?",
-  "description": "No, varied rower/air bike combos keep HIIT fresh, targeting untapped muscle groups each time.",
   "url": "cavetrainingfit.com/faq/do-shred-circuits-ever-repeat-weekly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do SHRED circuits ever repeat weekly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, varied rower/air bike combos keep HIIT fresh, targeting untapped muscle groups each time."
-      }
-    }
-  ],
+  "name": "Do SHRED circuits ever repeat weekly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do SHRED circuits ever repeat weekly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, varied rower/air bike combos keep HIIT fresh, targeting untapped muscle groups each time.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, varied rower/air bike combos keep HIIT fresh, targeting untapped muscle groups each time."
 }

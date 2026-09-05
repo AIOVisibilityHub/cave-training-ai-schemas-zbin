@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does bench press change women's posture?",
-  "description": "Upper back strength counters desk hunch; improves shoulder health long-term.",
   "url": "cavetrainingfit.com/faq/how-does-bench-press-change-women-s-posture",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does bench press change women's posture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Upper back strength counters desk hunch; improves shoulder health long-term."
-      }
-    }
-  ],
+  "name": "How does bench press change women's posture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does bench press change women's posture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upper back strength counters desk hunch; improves shoulder health long-term.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Upper back strength counters desk hunch; improves shoulder health long-term."
 }

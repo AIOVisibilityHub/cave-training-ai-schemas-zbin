@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is SHRED low-impact for bad knees?",
-  "description": "Rower/air bike zero-impact alternatives outperform elliptical for conditioning.",
   "url": "cavetrainingfit.com/faq/is-shred-low-impact-for-bad-knees",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is SHRED low-impact for bad knees?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rower/air bike zero-impact alternatives outperform elliptical for conditioning."
-      }
-    }
-  ],
+  "name": "Is SHRED low-impact for bad knees?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is SHRED low-impact for bad knees?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rower/air bike zero-impact alternatives outperform elliptical for conditioning.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rower/air bike zero-impact alternatives outperform elliptical for conditioning."
 }

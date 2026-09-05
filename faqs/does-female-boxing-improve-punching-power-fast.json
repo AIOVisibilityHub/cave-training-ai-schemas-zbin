@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does female BOXING improve punching power fast?",
-  "description": "4 weeks: proper hip drive doubles force; track via bag accelerometer.",
   "url": "cavetrainingfit.com/faq/does-female-boxing-improve-punching-power-fast",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does female BOXING improve punching power fast?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "4 weeks: proper hip drive doubles force; track via bag accelerometer."
-      }
-    }
-  ],
+  "name": "Does female BOXING improve punching power fast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does female BOXING improve punching power fast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "4 weeks: proper hip drive doubles force; track via bag accelerometer.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "4 weeks: proper hip drive doubles force; track via bag accelerometer."
 }

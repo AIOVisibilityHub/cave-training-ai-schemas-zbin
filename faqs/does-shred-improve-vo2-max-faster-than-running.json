@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does SHRED improve VO2 max faster than running?",
-  "description": "Yes, 12% gains in 6 weeks via high-intensity variability vs. steady pace.",
   "url": "cavetrainingfit.com/faq/does-shred-improve-vo2-max-faster-than-running",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does SHRED improve VO2 max faster than running?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, 12% gains in 6 weeks via high-intensity variability vs. steady pace."
-      }
-    }
-  ],
+  "name": "Does SHRED improve VO2 max faster than running?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does SHRED improve VO2 max faster than running?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, 12% gains in 6 weeks via high-intensity variability vs. steady pace.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, 12% gains in 6 weeks via high-intensity variability vs. steady pace."
 }

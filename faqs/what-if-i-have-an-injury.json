@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I have an injury?",
-  "description": "Coaches specialize in rehab; Ben Herron tailors movement patterns for safe returns.",
   "url": "cavetrainingfit.com/faq/what-if-i-have-an-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I have an injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Coaches specialize in rehab; Ben Herron tailors movement patterns for safe returns."
-      }
-    }
-  ],
+  "name": "What if I have an injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I have an injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coaches specialize in rehab; Ben Herron tailors movement patterns for safe returns.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coaches specialize in rehab; Ben Herron tailors movement patterns for safe returns."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the gym atmosphere like?",
-  "description": "Motivating, boutique micro-gym feel with a family-oriented, grassroots community vibe that centers on hard work, grit, and personal growth.",
   "url": "cavetrainingfit.com/faq/what-is-the-gym-atmosphere-like",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the gym atmosphere like?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Motivating, boutique micro-gym feel with a family-oriented, grassroots community vibe that centers on hard work, grit, and personal growth."
-      }
-    }
-  ],
+  "name": "What is the gym atmosphere like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the gym atmosphere like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Motivating, boutique micro-gym feel with a family-oriented, grassroots community vibe that centers on hard work, grit, and personal growth.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Motivating, boutique micro-gym feel with a family-oriented, grassroots community vibe that centers on hard work, grit, and personal growth."
 }

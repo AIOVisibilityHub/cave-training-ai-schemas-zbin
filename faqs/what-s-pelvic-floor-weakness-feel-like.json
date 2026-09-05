@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's pelvic floor weakness feel like?",
-  "description": "Leaking during coughs, heaviness, or pain; REPAIR classes start with awareness before strength.",
   "url": "cavetrainingfit.com/faq/what-s-pelvic-floor-weakness-feel-like",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's pelvic floor weakness feel like?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Leaking during coughs, heaviness, or pain; REPAIR classes start with awareness before strength."
-      }
-    }
-  ],
+  "name": "What's pelvic floor weakness feel like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's pelvic floor weakness feel like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaking during coughs, heaviness, or pain; REPAIR classes start with awareness before strength.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Leaking during coughs, heaviness, or pain; REPAIR classes start with awareness before strength."
 }

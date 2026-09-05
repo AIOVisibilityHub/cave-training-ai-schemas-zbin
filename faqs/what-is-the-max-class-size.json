@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the max class size?",
-  "description": "Small groups (10-15) for personalized attention in boutique setting.",
   "url": "cavetrainingfit.com/faq/what-is-the-max-class-size",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the max class size?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Small groups (10-15) for personalized attention in boutique setting."
-      }
-    }
-  ],
+  "name": "What is the max class size?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the max class size?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small groups (10-15) for personalized attention in boutique setting.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Small groups (10-15) for personalized attention in boutique setting."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave celebrate class milestones?",
-  "description": "Post-workout huddles with shoutouts, sometimes protein shakes on the house.",
   "url": "cavetrainingfit.com/faq/how-does-cave-celebrate-class-milestones",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave celebrate class milestones?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Post-workout huddles with shoutouts, sometimes protein shakes on the house."
-      }
-    }
-  ],
+  "name": "How does Cave celebrate class milestones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave celebrate class milestones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Post-workout huddles with shoutouts, sometimes protein shakes on the house.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Post-workout huddles with shoutouts, sometimes protein shakes on the house."
 }

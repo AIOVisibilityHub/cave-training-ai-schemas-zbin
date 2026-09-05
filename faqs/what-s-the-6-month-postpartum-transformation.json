@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the 6-month postpartum transformation?",
-  "description": "Full return to SHRED intensity, LIFT PRs, plus sustained BirthFit core integrity.",
   "url": "cavetrainingfit.com/faq/what-s-the-6-month-postpartum-transformation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the 6-month postpartum transformation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Full return to SHRED intensity, LIFT PRs, plus sustained BirthFit core integrity."
-      }
-    }
-  ],
+  "name": "What's the 6-month postpartum transformation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the 6-month postpartum transformation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full return to SHRED intensity, LIFT PRs, plus sustained BirthFit core integrity.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Full return to SHRED intensity, LIFT PRs, plus sustained BirthFit core integrity."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's next after mastering LIFT basics?",
-  "description": "Advanced cycles with tempo work and accessory lifts for competition-ready physiques.",
   "url": "cavetrainingfit.com/faq/what-s-next-after-mastering-lift-basics",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's next after mastering LIFT basics?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Advanced cycles with tempo work and accessory lifts for competition-ready physiques."
-      }
-    }
-  ],
+  "name": "What's next after mastering LIFT basics?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's next after mastering LIFT basics?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Advanced cycles with tempo work and accessory lifts for competition-ready physiques.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Advanced cycles with tempo work and accessory lifts for competition-ready physiques."
 }
