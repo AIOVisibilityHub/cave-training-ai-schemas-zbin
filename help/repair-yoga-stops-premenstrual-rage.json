@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "REPAIR Yoga Stops Premenstrual Rage",
   "author": {
-    "@type": "Organization",
-    "name": "Cave Training"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
-  "articleBody": "Hip-opening flows reduce PMS irritability 50%. Cave women time REPAIR week before period when executive sharpness + mom patience crash.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Santa Clarita"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "REPAIR Yoga Stops Premenstrual Rage",
+  "publisher": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Santa Clarita",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hip-opening flows reduce PMS irritability 50%. Cave women time REPAIR week before period when executive sharpness + mom patience crash.",
+  "datePublished": "2026-08-27"
 }

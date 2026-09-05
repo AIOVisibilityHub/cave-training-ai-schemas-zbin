@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Prenatal Squat Form Checklist",
   "author": {
-    "@type": "Organization",
-    "name": "Cave Training"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
-  "articleBody": "Knees track toes, neutral pelvis, exhale bottom position. Avoid butt wink as ligaments loosen.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Santa Clarita"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Prenatal Squat Form Checklist",
+  "publisher": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -27,5 +19,13 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Santa Clarita",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knees track toes, neutral pelvis, exhale bottom position. Avoid butt wink as ligaments loosen.",
+  "datePublished": "2026-08-27"
 }

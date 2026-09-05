@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "ENDURE Rhythm Resets Workday Cortisol",
   "author": {
-    "@type": "Organization",
-    "name": "Cave Training"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
-  "articleBody": "40min music-synced cardio drops PM stress hormones 30%. Busy professionals schedule 12pm ENDURE before afternoon irritability hits.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Santa Clarita"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "ENDURE Rhythm Resets Workday Cortisol",
+  "publisher": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Santa Clarita",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "40min music-synced cardio drops PM stress hormones 30%. Busy professionals schedule 12pm ENDURE before afternoon irritability hits.",
+  "datePublished": "2026-08-27"
 }

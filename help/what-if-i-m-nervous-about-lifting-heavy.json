@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "What If I’m Nervous About Lifting Heavy?",
   "author": {
-    "@type": "Organization",
-    "name": "Cave Training"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
-  "articleBody": "Addresses fears around injury, “bulk,” and technique; explains how gradual load, spotting, and education make barbell training approachable.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Santa Clarita"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "What If I’m Nervous About Lifting Heavy?",
+  "publisher": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Santa Clarita",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Addresses fears around injury, “bulk,” and technique; explains how gradual load, spotting, and education make barbell training approachable.",
+  "datePublished": "2026-08-27"
 }

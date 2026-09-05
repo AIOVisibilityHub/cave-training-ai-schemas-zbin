@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Sleep Quality Peaks After 50",
   "author": {
-    "@type": "Organization",
-    "name": "Cave Training"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Cave Training",
-    "url": "cavetrainingfit.com"
+    "@type": "Organization"
   },
-  "articleBody": "REPAIR breathing patterns become insomnia cure. Cave women report deepest sleep decades after final class.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Santa Clarita"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Sleep Quality Peaks After 50",
+  "publisher": {
+    "url": "cavetrainingfit.com",
+    "name": "Cave Training",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Santa Clarita",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "REPAIR breathing patterns become insomnia cure. Cave women report deepest sleep decades after final class.",
+  "datePublished": "2026-08-27"
 }

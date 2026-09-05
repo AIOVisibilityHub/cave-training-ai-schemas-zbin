@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave handle member disputes?",
-  "description": "Coach mediation first; owner Nikki final authority—family vibe resolves 95% internally.",
   "url": "cavetrainingfit.com/faq/how-does-cave-handle-member-disputes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave handle member disputes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Coach mediation first; owner Nikki final authority—family vibe resolves 95% internally."
-      }
-    }
-  ],
+  "name": "How does Cave handle member disputes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave handle member disputes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coach mediation first; owner Nikki final authority—family vibe resolves 95% internally.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coach mediation first; owner Nikki final authority—family vibe resolves 95% internally."
 }

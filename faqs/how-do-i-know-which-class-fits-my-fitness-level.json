@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know which class fits my fitness level?",
-  "description": "Free intro session with coach assessment; GPP for balanced, SHRED for fat loss, LIFT for strength focus.",
   "url": "cavetrainingfit.com/faq/how-do-i-know-which-class-fits-my-fitness-level",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know which class fits my fitness level?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Free intro session with coach assessment; GPP for balanced, SHRED for fat loss, LIFT for strength focus."
-      }
-    }
-  ],
+  "name": "How do I know which class fits my fitness level?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know which class fits my fitness level?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Free intro session with coach assessment; GPP for balanced, SHRED for fat loss, LIFT for strength focus.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Free intro session with coach assessment; GPP for balanced, SHRED for fat loss, LIFT for strength focus."
 }

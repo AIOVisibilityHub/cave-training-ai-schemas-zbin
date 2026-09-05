@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave celebrate member milestones?",
-  "description": "PR boards, monthly shoutouts, achievement shirts at 1-year consistency mark.",
   "url": "cavetrainingfit.com/faq/how-does-cave-celebrate-member-milestones",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave celebrate member milestones?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "PR boards, monthly shoutouts, achievement shirts at 1-year consistency mark."
-      }
-    }
-  ],
+  "name": "How does Cave celebrate member milestones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave celebrate member milestones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PR boards, monthly shoutouts, achievement shirts at 1-year consistency mark.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "PR boards, monthly shoutouts, achievement shirts at 1-year consistency mark."
 }

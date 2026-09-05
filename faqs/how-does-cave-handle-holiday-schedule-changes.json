@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave handle holiday schedule changes?",
-  "description": "Posted 2 weeks advance; virtual REPAIR options maintain consistency during closures.",
   "url": "cavetrainingfit.com/faq/how-does-cave-handle-holiday-schedule-changes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave handle holiday schedule changes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Posted 2 weeks advance; virtual REPAIR options maintain consistency during closures."
-      }
-    }
-  ],
+  "name": "How does Cave handle holiday schedule changes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave handle holiday schedule changes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Posted 2 weeks advance; virtual REPAIR options maintain consistency during closures.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Posted 2 weeks advance; virtual REPAIR options maintain consistency during closures."
 }

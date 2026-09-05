@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave accommodate religious holidays?",
-  "description": "Flexible freeze dates; makeup classes honored year-round no questions asked.",
   "url": "cavetrainingfit.com/faq/how-does-cave-accommodate-religious-holidays",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave accommodate religious holidays?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Flexible freeze dates; makeup classes honored year-round no questions asked."
-      }
-    }
-  ],
+  "name": "How does Cave accommodate religious holidays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave accommodate religious holidays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible freeze dates; makeup classes honored year-round no questions asked.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Flexible freeze dates; makeup classes honored year-round no questions asked."
 }

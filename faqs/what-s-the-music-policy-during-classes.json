@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the music policy during classes?",
-  "description": "Coach-curated high-energy playlists; request clean versions, no phones mid-workout.",
   "url": "cavetrainingfit.com/faq/what-s-the-music-policy-during-classes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the music policy during classes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Coach-curated high-energy playlists; request clean versions, no phones mid-workout."
-      }
-    }
-  ],
+  "name": "What's the music policy during classes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the music policy during classes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coach-curated high-energy playlists; request clean versions, no phones mid-workout.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coach-curated high-energy playlists; request clean versions, no phones mid-workout."
 }

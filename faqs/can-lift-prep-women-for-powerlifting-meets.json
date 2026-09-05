@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can LIFT prep women for powerlifting meets?",
-  "description": "Yes, Ben coaches full meet simulation; plate ratios, commands, 8-week peaking.",
   "url": "cavetrainingfit.com/faq/can-lift-prep-women-for-powerlifting-meets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can LIFT prep women for powerlifting meets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Ben coaches full meet simulation; plate ratios, commands, 8-week peaking."
-      }
-    }
-  ],
+  "name": "Can LIFT prep women for powerlifting meets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can LIFT prep women for powerlifting meets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Ben coaches full meet simulation; plate ratios, commands, 8-week peaking.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, Ben coaches full meet simulation; plate ratios, commands, 8-week peaking."
 }

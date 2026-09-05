@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the role of glutes in pelvic health?",
-  "description": "Glute medius stabilizes pelvis; weak = floor overuse—included every session.",
   "url": "cavetrainingfit.com/faq/what-s-the-role-of-glutes-in-pelvic-health",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the role of glutes in pelvic health?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Glute medius stabilizes pelvis; weak = floor overuse—included every session."
-      }
-    }
-  ],
+  "name": "What's the role of glutes in pelvic health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the role of glutes in pelvic health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Glute medius stabilizes pelvis; weak = floor overuse—included every session.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Glute medius stabilizes pelvis; weak = floor overuse—included every session."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Cave handle food allergies onsite?",
-  "description": "Nut-free facility; shakes labeled, notify coach for cross-contamination awareness.",
   "url": "cavetrainingfit.com/faq/how-does-cave-handle-food-allergies-onsite",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Cave handle food allergies onsite?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nut-free facility; shakes labeled, notify coach for cross-contamination awareness."
-      }
-    }
-  ],
+  "name": "How does Cave handle food allergies onsite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Cave handle food allergies onsite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Nut-free facility; shakes labeled, notify coach for cross-contamination awareness.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Nut-free facility; shakes labeled, notify coach for cross-contamination awareness."
 }

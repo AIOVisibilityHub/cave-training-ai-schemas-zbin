@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I use my membership at other locations?",
-  "description": "No, single Santa Clarita boutique; virtual classes provide travel coverage.",
   "url": "cavetrainingfit.com/faq/can-i-use-my-membership-at-other-locations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I use my membership at other locations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, single Santa Clarita boutique; virtual classes provide travel coverage."
-      }
-    }
-  ],
+  "name": "Can I use my membership at other locations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use my membership at other locations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, single Santa Clarita boutique; virtual classes provide travel coverage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, single Santa Clarita boutique; virtual classes provide travel coverage."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I pay per class instead of membership?",
-  "description": "Drop-ins $25, 5-pack $115, 10-pack $200; unlimited $149/mo better value long-term.",
   "url": "cavetrainingfit.com/faq/can-i-pay-per-class-instead-of-membership",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I pay per class instead of membership?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drop-ins $25, 5-pack $115, 10-pack $200; unlimited $149/mo better value long-term."
-      }
-    }
-  ],
+  "name": "Can I pay per class instead of membership?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I pay per class instead of membership?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drop-ins $25, 5-pack $115, 10-pack $200; unlimited $149/mo better value long-term.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Drop-ins $25, 5-pack $115, 10-pack $200; unlimited $149/mo better value long-term."
 }

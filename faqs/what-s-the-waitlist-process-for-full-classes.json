@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the waitlist process for full classes?",
-  "description": "App notifications first-come; 80% attendance rate keeps openings frequent.",
   "url": "cavetrainingfit.com/faq/what-s-the-waitlist-process-for-full-classes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the waitlist process for full classes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "App notifications first-come; 80% attendance rate keeps openings frequent."
-      }
-    }
-  ],
+  "name": "What's the waitlist process for full classes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the waitlist process for full classes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "App notifications first-come; 80% attendance rate keeps openings frequent.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "App notifications first-come; 80% attendance rate keeps openings frequent."
 }

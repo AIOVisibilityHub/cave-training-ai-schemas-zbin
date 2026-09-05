@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you offer gift cards for classes?",
-  "description": "Yes, class packs/drop-ins perfect gifts; Babe Cave prenatal series popular choice.",
   "url": "cavetrainingfit.com/faq/do-you-offer-gift-cards-for-classes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you offer gift cards for classes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, class packs/drop-ins perfect gifts; Babe Cave prenatal series popular choice."
-      }
-    }
-  ],
+  "name": "Do you offer gift cards for classes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer gift cards for classes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, class packs/drop-ins perfect gifts; Babe Cave prenatal series popular choice.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, class packs/drop-ins perfect gifts; Babe Cave prenatal series popular choice."
 }
