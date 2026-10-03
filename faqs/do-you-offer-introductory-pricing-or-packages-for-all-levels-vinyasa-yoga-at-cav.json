@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer introductory pricing or packages for All-Levels Vinyasa Yoga at Cave Training?",
+  "description": "Cave Training offers introductory pricing and packages for new members. Check our website or contact us for current promotions.",
+  "url": "cavetrainingfit.com/faq/do-you-offer-introductory-pricing-or-packages-for-all-levels-vinyasa-yoga-at-cav",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer introductory pricing or packages for All-Levels Vinyasa Yoga at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Cave Training often offers introductory pricing or package deals for new members interested in exploring our functional fitness and yoga classes, including All-Levels Vinyasa. It's best to check our website or contact our front desk directly for the most current promotions and membership options. This allows you to evaluate if our approach aligns with your fitness journey without a long-term commitment.",
+        "description": "Cave Training offers introductory pricing and packages for new members. Check our website or contact us for current promotions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can breathwork help improve sleep quality?",
+  "description": "Yes, breathwork can improve sleep by engaging the parasympathetic nervous system and reducing anxiety, making it easier to fall and stay asleep.",
+  "url": "cavetrainingfit.com/faq/can-breathwork-help-improve-sleep-quality",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can breathwork help improve sleep quality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, breathwork can significantly improve sleep quality by engaging the parasympathetic nervous system, which promotes relaxation. Techniques like slow, deep breathing before bed can calm the mind and body, making it easier to fall asleep and achieve deeper rest. Regular practice helps reduce anxiety and mental chatter that often interfere with sleep. We can teach specific patterns designed to downregulate your system, preparing you for a more restorative night.",
+        "description": "Yes, breathwork can improve sleep by engaging the parasympathetic nervous system and reducing anxiety, making it easier to fall and stay asleep."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

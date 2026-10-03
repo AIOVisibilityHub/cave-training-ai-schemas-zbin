@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of All-Levels Vinyasa Yoga for functional fitness?",
+  "description": "Vinyasa Yoga enhances mobility, core strength, balance, and body awareness, supporting functional fitness and aiding recovery.",
+  "url": "cavetrainingfit.com/faq/what-are-the-benefits-of-all-levels-vinyasa-yoga-for-functional-fitness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of All-Levels Vinyasa Yoga for functional fitness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All-Levels Vinyasa Yoga complements functional fitness by improving mobility, core strength, balance, and body awareness—all critical components for daily activities and injury prevention. The flowing sequences enhance muscular endurance and flexibility, which can directly translate to better performance in other functional exercises. Incorporating yoga into your routine can help address muscle imbalances and improve recovery, supporting your overall fitness goals at Cave Training.",
+        "description": "Vinyasa Yoga enhances mobility, core strength, balance, and body awareness, supporting functional fitness and aiding recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where can I find Restorative Yoga classes in the Santa Clarita Valley area?",
+  "description": "Cave Training offers Restorative Yoga classes in the Santa Clarita Valley, including Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Check our onl",
+  "url": "cavetrainingfit.com/faq/where-can-i-find-restorative-yoga-classes-in-the-santa-clarita-valley-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I find Restorative Yoga classes in the Santa Clarita Valley area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training offers Restorative Yoga classes conveniently located for residents across the Santa Clarita Valley, including Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Our studio provides a dedicated space equipped with all necessary props to support your practice. We aim to make accessible high-quality instruction within your local community, ensuring you don't have to travel far for a beneficial and relaxing experience. Check our schedule online or contact us directly for class times and availability. We are committed to serving the local functional-fitness community with holistic wellness options.",
+        "description": "Cave Training offers Restorative Yoga classes in the Santa Clarita Valley, including Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Check our online schedule for times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

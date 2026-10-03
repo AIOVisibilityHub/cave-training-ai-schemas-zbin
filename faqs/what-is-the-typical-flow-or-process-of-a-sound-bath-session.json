@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical flow or process of a sound bath session?",
+  "description": "The process involves participants relaxing while the practitioner plays instruments. No action is required, and sessions conclude with a gradual return to aware",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-flow-or-process-of-a-sound-bath-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical flow or process of a sound bath session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sound bath session usually begins with participants settling comfortably into a reclined position, often with eyes closed. The practitioner then introduces various instruments sequentially, allowing their sounds and vibrations to wash over the group. There's no specific action required from participants other than to relax and receive the sounds. The session concludes with a gradual return to awareness, often followed by a few moments of quiet integration before gently standing up. This process is designed to guide participants into and out of a deep state of relaxation smoothly.",
+        "description": "The process involves participants relaxing while the practitioner plays instruments. No action is required, and sessions conclude with a gradual return to awareness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

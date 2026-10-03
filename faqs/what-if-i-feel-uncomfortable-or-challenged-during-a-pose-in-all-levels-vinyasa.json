@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I feel uncomfortable or challenged during a pose in All-Levels Vinyasa?",
+  "description": "Listen to your body; never push into sharp pain. Modify, rest, or communicate with the instructor for alternatives.",
+  "url": "cavetrainingfit.com/faq/what-if-i-feel-uncomfortable-or-challenged-during-a-pose-in-all-levels-vinyasa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I feel uncomfortable or challenged during a pose in All-Levels Vinyasa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is common to feel challenged in yoga, but you should never feel sharp pain. If a pose causes discomfort, listen to your body and adjust. Instructors provide modifications, and you can always rest in a child's pose or another comfortable position. Communicating with your instructor is key; they can offer alternative movements or adjustments. The process encourages self-awareness and respecting your body's current capabilities.",
+        "description": "Listen to your body; never push into sharp pain. Modify, rest, or communicate with the instructor for alternatives."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be a member of Cave Training to receive holistic nutrition coaching?",
+  "description": "No, you don't typically need to be a gym member to receive holistic nutrition coaching, though it complements functional fitness well.",
+  "url": "cavetrainingfit.com/faq/do-i-need-to-be-a-member-of-cave-training-to-receive-holistic-nutrition-coaching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be a member of Cave Training to receive holistic nutrition coaching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While holistic nutrition coaching can be a powerful complement to our functional fitness programs, you typically do not need to be an existing gym member to receive coaching services. We offer standalone nutrition coaching options designed to support a wide range of individuals, regardless of their current fitness routine or gym affiliation. However, for those who are members, the integrated approach can significantly enhance both your workout performance and recovery, making it a valuable addition to your training.",
+        "description": "No, you don't typically need to be a gym member to receive holistic nutrition coaching, though it complements functional fitness well."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

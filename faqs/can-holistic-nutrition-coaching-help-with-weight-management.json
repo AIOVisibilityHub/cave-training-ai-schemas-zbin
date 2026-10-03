@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can holistic nutrition coaching help with weight management?",
+  "description": "Holistic nutrition coaching supports weight management by addressing underlying factors and creating sustainable, balanced eating plans.",
+  "url": "cavetrainingfit.com/faq/can-holistic-nutrition-coaching-help-with-weight-management",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can holistic nutrition coaching help with weight management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, holistic nutrition coaching can be very effective for weight management by focusing on sustainable changes rather than restrictive diets. It addresses underlying factors contributing to weight gain, such as hormonal imbalances, stress, poor sleep, and inflammatory foods. By optimizing these areas, alongside creating a balanced eating plan, clients often experience healthier weight loss and maintenance. For our clients, we ensure that nutritional strategies support the energy demands of functional fitness training while promoting healthy body composition.",
+        "description": "Holistic nutrition coaching supports weight management by addressing underlying factors and creating sustainable, balanced eating plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

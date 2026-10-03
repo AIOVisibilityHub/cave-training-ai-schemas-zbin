@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to have prior experience with meditation or yoga to attend a sound bath at Cave Training?",
+  "description": "No prior experience with meditation or yoga is needed. Sound baths are accessible to everyone, requiring only the ability to lie down comfortably.",
+  "url": "cavetrainingfit.com/faq/do-i-need-to-have-prior-experience-with-meditation-or-yoga-to-attend-a-sound-bat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to have prior experience with meditation or yoga to attend a sound bath at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you do not need any prior experience with meditation or yoga to attend a sound bath session. Sound baths are designed to be accessible to everyone, regardless of their background in mindfulness practices. The primary requirement is the ability to lie down comfortably and be open to the experience. This low barrier to entry makes sound baths an excellent starting point for those looking to explore relaxation and stress reduction techniques without needing specific physical postures or advanced meditative skills.",
+        "description": "No prior experience with meditation or yoga is needed. Sound baths are accessible to everyone, requiring only the ability to lie down comfortably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

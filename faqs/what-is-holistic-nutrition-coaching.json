@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is holistic nutrition coaching?",
+  "description": "Holistic nutrition coaching considers diet, lifestyle, and individual needs to create personalized plans for overall well-being and sustainable health.",
+  "url": "cavetrainingfit.com/faq/what-is-holistic-nutrition-coaching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is holistic nutrition coaching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Holistic nutrition coaching focuses on the whole person, considering not just diet but also lifestyle factors like stress, sleep, and physical activity. It aims to identify root causes of health issues and create sustainable, personalized plans for overall well-being rather than just addressing symptoms. This approach emphasizes understanding how different aspects of your life impact your nutritional needs and health goals, such as improving athletic performance or managing daily energy levels, which can be particularly relevant for individuals engaged in functional fitness.",
+        "description": "Holistic nutrition coaching considers diet, lifestyle, and individual needs to create personalized plans for overall well-being and sustainable health."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

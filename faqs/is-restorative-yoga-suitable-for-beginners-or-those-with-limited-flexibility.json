@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Restorative Yoga suitable for beginners or those with limited flexibility?",
+  "description": "Yes, Restorative Yoga is ideal for beginners and those with limited flexibility because it uses props to fully support the body in gentle, accessible poses.",
+  "url": "cavetrainingfit.com/faq/is-restorative-yoga-suitable-for-beginners-or-those-with-limited-flexibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Restorative Yoga suitable for beginners or those with limited flexibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Restorative Yoga is highly suitable for beginners and individuals with limited flexibility, as well as those recovering from injuries or experiencing chronic pain. The practice emphasizes supporting the body with props, meaning you don't need to force yourself into challenging positions. Instead, the props bring the ground up to you, making the poses accessible and comfortable for almost everyone. It focuses on gentle release and relaxation rather than deep stretching or strength. This makes it an excellent entry point into yoga for those new to the practice or seeking a less physically demanding form. It is often recommended at Cave Training as a foundational practice for improving body awareness and reducing stiffness.",
+        "description": "Yes, Restorative Yoga is ideal for beginners and those with limited flexibility because it uses props to fully support the body in gentle, accessible poses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

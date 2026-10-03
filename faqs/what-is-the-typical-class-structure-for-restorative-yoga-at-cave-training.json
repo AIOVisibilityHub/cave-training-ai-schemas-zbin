@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical class structure for Restorative Yoga at Cave Training?",
+  "description": "Classes involve centering, 4-6 long-held, prop-supported floor poses, and end with Savasana, focusing on deep relaxation and recovery.",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-class-structure-for-restorative-yoga-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical class structure for Restorative Yoga at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical Restorative Yoga class at Cave Training begins with a brief centering or mindfulness exercise to help you arrive and settle in. The instructor then guides you through a series of 4-6 gentle, floor-based poses, such as supported forward folds, gentle backbends, or reclined twists. Each pose is held for an extended period, usually between 5 to 20 minutes, with the aid of props like bolsters, blankets, blocks, and straps to ensure maximum comfort and support. The class concludes with a final relaxation, or Savasana, allowing for integration of the practice. The focus throughout is on quiet contemplation and deep rest. It's a structured session designed for profound relaxation and recovery.",
+        "description": "Classes involve centering, 4-6 long-held, prop-supported floor poses, and end with Savasana, focusing on deep relaxation and recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is 'All-Levels Vinyasa Yoga'?",
+  "description": "All-Levels Vinyasa Yoga is a dynamic practice linking breath to movement, suitable for various experience levels with modifications and advancements.",
+  "url": "cavetrainingfit.com/faq/what-is-all-levels-vinyasa-yoga",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is 'All-Levels Vinyasa Yoga'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All-Levels Vinyasa Yoga is a dynamic style of yoga that links breath to movement, creating a flowing sequence of postures. It's designed to accommodate practitioners of various experience levels, offering modifications and advancements for poses. At Cave Training, our instructors guide participants through sequences that build strength, flexibility, and balance, allowing individuals to progress at their own pace.",
+        "description": "All-Levels Vinyasa Yoga is a dynamic practice linking breath to movement, suitable for various experience levels with modifications and advancements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of breathwork techniques are commonly taught at a functional fitness gym?",
+  "description": "Common breathwork techniques taught include diaphragmatic, box, and tactical breathing, focused on optimizing lung capacity, oxygen uptake, and nervous system r",
+  "url": "cavetrainingfit.com/faq/what-types-of-breathwork-techniques-are-commonly-taught-at-a-functional-fitness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of breathwork techniques are commonly taught at a functional fitness gym?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At a functional fitness gym like Cave Training, you'll typically learn techniques such as diaphragmatic breathing, box breathing, and tactical breathing. These methods focus on optimizing lung capacity, improving oxygen uptake, and regulating the nervous system. We incorporate these to enhance performance during workouts, aid in recovery, and develop mental resilience. The choice of technique often depends on whether the goal is to energize, calm, or prepare for physical exertion.",
+        "description": "Common breathwork techniques taught include diaphragmatic, box, and tactical breathing, focused on optimizing lung capacity, oxygen uptake, and nervous system regulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

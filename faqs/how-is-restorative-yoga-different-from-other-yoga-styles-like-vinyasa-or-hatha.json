@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is Restorative Yoga different from other yoga styles like Vinyasa or Hatha?",
+  "description": "Restorative Yoga uses props for passive support and deep relaxation, unlike Vinyasa's dynamic flow or Hatha's active poses, which focus on movement and strength",
+  "url": "cavetrainingfit.com/faq/how-is-restorative-yoga-different-from-other-yoga-styles-like-vinyasa-or-hatha",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is Restorative Yoga different from other yoga styles like Vinyasa or Hatha?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restorative Yoga differs significantly from active styles like Vinyasa or Hatha by prioritizing relaxation and passive stretching over dynamic movement or muscle engagement. While Vinyasa focuses on flowing sequences and Hatha on holding active poses to build strength and flexibility, Restorative Yoga uses props such as bolsters, blankets, and blocks to fully support the body, allowing for deep release without effort. This makes it ideal for recovery, stress reduction, and calming the nervous system, whereas other styles might be more focused on physical conditioning. When choosing a class at Cave Training, consider your current energy levels and wellness goals; Restorative Yoga is perfect for days you need to recharge.",
+        "description": "Restorative Yoga uses props for passive support and deep relaxation, unlike Vinyasa's dynamic flow or Hatha's active poses, which focus on movement and strength."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

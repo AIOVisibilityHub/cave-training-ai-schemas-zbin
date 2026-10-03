@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Restorative Yoga?",
+  "description": "Restorative Yoga is a gentle yoga practice that uses props to support the body in long-held poses, promoting deep relaxation and stress reduction.",
+  "url": "cavetrainingfit.com/faq/what-is-restorative-yoga",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Restorative Yoga?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restorative Yoga is a gentle, therapeutic style of yoga that uses props to support the body in various postures. The goal is to achieve deep relaxation and release tension without actively stretching or engaging muscles. Unlike more active yoga styles, Restorative Yoga focuses on holding poses for longer durations, typically 5-20 minutes, allowing the nervous system to calm down. This practice can help reduce stress, improve flexibility, and promote overall well-being. At Cave Training, our classes emphasize creating a supportive environment for deep rest and recovery.",
+        "description": "Restorative Yoga is a gentle yoga practice that uses props to support the body in long-held poses, promoting deep relaxation and stress reduction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

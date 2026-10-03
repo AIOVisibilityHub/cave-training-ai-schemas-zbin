@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where can I find All-Levels Vinyasa Yoga classes in the Santa Clarita Valley?",
+  "description": "Cave Training offers All-Levels Vinyasa Yoga in the Santa Clarita Valley, serving Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Check our websit",
+  "url": "cavetrainingfit.com/faq/where-can-i-find-all-levels-vinyasa-yoga-classes-in-the-santa-clarita-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I find All-Levels Vinyasa Yoga classes in the Santa Clarita Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training offers All-Levels Vinyasa Yoga classes at our functional-fitness gym located in the Santa Clarita Valley, serving areas like Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Our facility provides a dedicated space for yoga within a broader functional fitness environment. You can find our current class schedule and location details on our website, ensuring you choose a convenient class time that fits your local schedule.",
+        "description": "Cave Training offers All-Levels Vinyasa Yoga in the Santa Clarita Valley, serving Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Check our website for schedule and location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

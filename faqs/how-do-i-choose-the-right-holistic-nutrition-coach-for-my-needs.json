@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right holistic nutrition coach for my needs?",
+  "description": "Choose a coach based on their philosophy, experience, specialization, and whether their communication style suits your needs and goals.",
+  "url": "cavetrainingfit.com/faq/how-do-i-choose-the-right-holistic-nutrition-coach-for-my-needs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right holistic nutrition coach for my needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a holistic nutrition coach, look for someone whose philosophy aligns with your health goals and who possesses relevant certifications or experience. Consider if they specialize in areas that are important to you, such as sports nutrition, digestive health, or stress management. It's also beneficial to have an initial consultation to assess their communication style and ensure you feel comfortable and understood. At Cave Training, our coaches are experienced in supporting functional fitness goals, which can be a key decision factor for active individuals.",
+        "description": "Choose a coach based on their philosophy, experience, specialization, and whether their communication style suits your needs and goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare or consider before my first holistic nutrition coaching session?",
+  "description": "Before your first session, consider your health history, diet, lifestyle, and goals, and perhaps keep a short food diary.",
+  "url": "cavetrainingfit.com/faq/what-should-i-prepare-or-consider-before-my-first-holistic-nutrition-coaching-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare or consider before my first holistic nutrition coaching session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your first session, it's helpful to reflect on your health history, current dietary habits, lifestyle routines (sleep, stress, activity), and specific health or fitness goals. You might also consider keeping a food diary for a few days to give your coach insight into your typical intake. Be ready to discuss any challenges you've faced with past diets or health programs. This preparation allows your coach to gain a comprehensive understanding of your needs and tailor a highly personalized plan for you.",
+        "description": "Before your first session, consider your health history, diet, lifestyle, and goals, and perhaps keep a short food diary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

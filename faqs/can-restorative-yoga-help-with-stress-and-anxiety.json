@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Restorative Yoga help with stress and anxiety?",
+  "description": "Yes, Restorative Yoga effectively reduces stress and anxiety by activating the body's 'rest and digest' system, lowering cortisol, and promoting deep relaxation",
+  "url": "cavetrainingfit.com/faq/can-restorative-yoga-help-with-stress-and-anxiety",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Restorative Yoga help with stress and anxiety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Restorative Yoga is particularly effective in alleviating stress and anxiety. The practice is designed to activate the parasympathetic nervous system, often referred to as the 'rest and digest' system, which counteracts the body's 'fight or flight' response. By holding supported poses for extended periods, the body and mind are given permission to completely relax, leading to a decrease in cortisol levels (the stress hormone) and promoting a profound sense of calm. This deliberate slowing down can help interrupt anxiety cycles and build resilience against future stressors. Many Cave Training members find it an essential tool for mental clarity.",
+        "description": "Yes, Restorative Yoga effectively reduces stress and anxiety by activating the body's 'rest and digest' system, lowering cortisol, and promoting deep relaxation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

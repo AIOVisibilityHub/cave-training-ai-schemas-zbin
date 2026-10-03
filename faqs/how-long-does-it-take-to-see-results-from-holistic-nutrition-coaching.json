@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from holistic nutrition coaching?",
+  "description": "Results vary, with subtle changes often appearing in weeks and significant improvements over several months, depending on consistency and individual goals.",
+  "url": "cavetrainingfit.com/faq/how-long-does-it-take-to-see-results-from-holistic-nutrition-coaching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from holistic nutrition coaching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results varies greatly depending on individual goals, consistency, and starting point. Some clients may notice subtle changes in energy or digestion within a few weeks, while more significant body composition changes or chronic condition improvements can take several months. Commitment to implementing the recommended changes and regular check-ins with your coach are key factors. At Cave Training, we emphasize sustainable progress over quick fixes, aligning nutritional changes with long-term fitness and health objectives.",
+        "description": "Results vary, with subtle changes often appearing in weeks and significant improvements over several months, depending on consistency and individual goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there modifications available in All-Levels Vinyasa for injuries or physical limitations?",
+  "description": "Yes, instructors offer modifications for injuries or limitations. Inform them before class for safe, effective participation.",
+  "url": "cavetrainingfit.com/faq/are-there-modifications-available-in-all-levels-vinyasa-for-injuries-or-physical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there modifications available in All-Levels Vinyasa for injuries or physical limitations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, instructors in All-Levels Vinyasa Yoga classes routinely offer modifications for poses to accommodate injuries, physical limitations, or varying levels of flexibility. It is essential to inform your instructor about any conditions before class begins so they can provide appropriate guidance and alternatives. This preparation ensures you can participate safely and effectively, adapting the practice to your body's specific needs.",
+        "description": "Yes, instructors offer modifications for injuries or limitations. Inform them before class for safe, effective participation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

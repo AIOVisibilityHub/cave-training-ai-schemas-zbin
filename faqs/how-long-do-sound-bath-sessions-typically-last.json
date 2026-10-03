@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do sound bath sessions typically last?",
+  "description": "Sound bath sessions typically last 45 to 75 minutes, structured to fit within our wellness schedule for optimal relaxation and re-entry.",
+  "url": "cavetrainingfit.com/faq/how-long-do-sound-bath-sessions-typically-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do sound bath sessions typically last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sound bath sessions usually last between 45 to 75 minutes, though the exact duration can vary based on the specific session and practitioner. At Cave Training, our sessions are typically structured to fit within our broader wellness schedule, allowing ample time for both the sound experience and a gentle re-entry afterwards. This duration is generally found to be effective for achieving a deeply relaxed state without feeling rushed.",
+        "description": "Sound bath sessions typically last 45 to 75 minutes, structured to fit within our wellness schedule for optimal relaxation and re-entry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

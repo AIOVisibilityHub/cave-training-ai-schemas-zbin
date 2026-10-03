@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where can I find sound bath sessions offered in the Santa Clarita Valley?",
+  "description": "Cave Training offers regular sound bath sessions in the Santa Clarita Valley. Check our website or contact us for schedules and sign-up information.",
+  "url": "cavetrainingfit.com/faq/where-can-i-find-sound-bath-sessions-offered-in-the-santa-clarita-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I find sound bath sessions offered in the Santa Clarita Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training offers regular sound bath sessions as part of our holistic wellness programs right here in the Santa Clarita Valley. You can find our current schedule and sign-up information on our website or by contacting our front desk. We specifically serve areas including Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Choosing a local provider like us ensures convenience and integration with your broader fitness goals, allowing you to easily incorporate these restorative practices into your routine.",
+        "description": "Cave Training offers regular sound bath sessions in the Santa Clarita Valley. Check our website or contact us for schedules and sign-up information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

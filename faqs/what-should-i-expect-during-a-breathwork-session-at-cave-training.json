@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect during a breathwork session at Cave Training?",
+  "description": "Expect guided instruction on breathing techniques, including warm-up, active breathing, and cool-down, with instructors demonstrating form and providing cues.",
+  "url": "cavetrainingfit.com/faq/what-should-i-expect-during-a-breathwork-session-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect during a breathwork session at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a breathwork session at Cave Training, you can expect guided instruction on various breathing techniques, typically performed while seated or lying down. Our instructors will demonstrate proper form and provide verbal cues to help you engage your diaphragm and control your breath. The session usually includes a warm-up, active breathing, and a cool-down period to integrate the experience. You might feel a range of sensations, from relaxation to increased energy, as your body responds to the controlled breathing.",
+        "description": "Expect guided instruction on breathing techniques, including warm-up, active breathing, and cool-down, with instructors demonstrating form and providing cues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

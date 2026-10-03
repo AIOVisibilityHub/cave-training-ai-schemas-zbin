@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does holistic nutrition coaching differ from a standard dietitian or nutritionist?",
+  "description": "Holistic coaching considers broader lifestyle factors beyond just diet, integrating with overall wellness and fitness goals.",
+  "url": "cavetrainingfit.com/faq/how-does-holistic-nutrition-coaching-differ-from-a-standard-dietitian-or-nutriti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does holistic nutrition coaching differ from a standard dietitian or nutritionist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While dietitians and nutritionists often focus on specific dietary recommendations or medical nutrition therapy, holistic nutrition coaching takes a broader view. A holistic coach considers your entire lifestyle, including stress levels, sleep patterns, and exercise routines, alongside your diet. At Cave Training, our coaches integrate this nutritional guidance with your functional fitness goals, ensuring that your eating habits support your physical activity and overall performance, providing a more comprehensive approach to your health journey.",
+        "description": "Holistic coaching considers broader lifestyle factors beyond just diet, integrating with overall wellness and fitness goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

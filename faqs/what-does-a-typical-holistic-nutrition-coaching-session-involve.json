@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a typical holistic nutrition coaching session involve?",
+  "description": "Sessions involve discussing health, diet, and lifestyle to develop personalized dietary and lifestyle recommendations, often integrated with fitness goals.",
+  "url": "cavetrainingfit.com/faq/what-does-a-typical-holistic-nutrition-coaching-session-involve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a typical holistic nutrition coaching session involve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical session usually begins with a discussion of your current health concerns, dietary habits, lifestyle, and specific goals. Your coach will assess various aspects of your well-being, such as sleep quality, stress management, and physical activity. Based on this comprehensive assessment, you'll work together to develop actionable steps, which might include dietary adjustments, mindful eating practices, or strategies to improve sleep. The process at Cave Training integrates your nutrition plan with your functional fitness program, ensuring synergy between your diet and exercise.",
+        "description": "Sessions involve discussing health, diet, and lifestyle to develop personalized dietary and lifestyle recommendations, often integrated with fitness goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

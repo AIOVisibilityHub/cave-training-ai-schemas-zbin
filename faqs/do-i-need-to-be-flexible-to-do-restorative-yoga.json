@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be flexible to do Restorative Yoga?",
+  "description": "No, flexibility is not required for Restorative Yoga. Props support your body in comfortable positions, allowing passive relaxation regardless of your current f",
+  "url": "cavetrainingfit.com/faq/do-i-need-to-be-flexible-to-do-restorative-yoga",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be flexible to do Restorative Yoga?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you do not need to be flexible to practice Restorative Yoga. This style of yoga is not about achieving deep stretches or advanced poses; it's about supporting your body in comfortable positions using props to promote deep relaxation and release tension passively. The props (bolsters, blankets, blocks) are used to bring the ground up to your body, ensuring you are fully supported and can relax completely without effort. This approach means that individuals of all flexibility levels, including those with very limited range of motion, can comfortably participate and benefit from the practice. At Cave Training, our instructors focus on individual adjustments to ensure every student feels supported.",
+        "description": "No, flexibility is not required for Restorative Yoga. Props support your body in comfortable positions, allowing passive relaxation regardless of your current flexibility level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

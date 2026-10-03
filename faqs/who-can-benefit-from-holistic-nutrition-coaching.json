@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who can benefit from holistic nutrition coaching?",
+  "description": "Individuals seeking to improve health, energy, body composition, or athletic performance, especially those engaged in functional fitness, can benefit.",
+  "url": "cavetrainingfit.com/faq/who-can-benefit-from-holistic-nutrition-coaching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who can benefit from holistic nutrition coaching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anyone looking to improve their overall health, energy, body composition, or athletic performance can benefit from holistic nutrition coaching. It's particularly helpful for individuals who feel traditional diets haven't worked, or those dealing with chronic fatigue, digestive issues, or difficulty optimizing their fitness results. For Cave Training members, it offers a way to enhance functional fitness outcomes by ensuring proper fuel for workouts and effective recovery, addressing the unique demands of high-intensity training.",
+        "description": "Individuals seeking to improve health, energy, body composition, or athletic performance, especially those engaged in functional fitness, can benefit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

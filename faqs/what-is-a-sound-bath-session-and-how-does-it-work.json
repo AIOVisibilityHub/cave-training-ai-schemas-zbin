@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a sound bath session and how does it work?",
+  "description": "A sound bath uses resonant vibrations from instruments like singing bowls to induce deep relaxation and reduce stress, often complementing physical training.",
+  "url": "cavetrainingfit.com/faq/what-is-a-sound-bath-session-and-how-does-it-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a sound bath session and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sound bath session involves participants lying down comfortably while a practitioner uses various instruments like singing bowls, gongs, and chimes to create resonant vibrations. The sounds and vibrations are intended to promote a state of deep relaxation, reduce stress, and help calm the nervous system. At Cave Training, our sound baths are designed to complement physical training by aiding recovery and mental clarity, often integrated into a holistic wellness approach to enhance overall performance and well-being.",
+        "description": "A sound bath uses resonant vibrations from instruments like singing bowls to induce deep relaxation and reduce stress, often complementing physical training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

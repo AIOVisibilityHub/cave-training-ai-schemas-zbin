@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I wear or bring to a Restorative Yoga class at Cave Training?",
+  "description": "Wear comfortable, layered clothing. All props are provided at Cave Training, but you can bring your own mat if preferred. Arrive early and bring water.",
+  "url": "cavetrainingfit.com/faq/what-should-i-wear-or-bring-to-a-restorative-yoga-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I wear or bring to a Restorative Yoga class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a Restorative Yoga class, wear comfortable, loose-fitting clothing that allows for ease of movement and relaxation. Layers are recommended as body temperature can drop during deep relaxation. You might also want to bring warm socks or a light sweater. While Cave Training provides all necessary props like bolsters, blankets, and blocks, you are welcome to bring your own mat if you prefer. We encourage you to arrive a few minutes early to settle in, set up your space, and mentally prepare for relaxation. Hydration before and after class is also beneficial. Bringing a water bottle is a good idea.",
+        "description": "Wear comfortable, layered clothing. All props are provided at Cave Training, but you can bring your own mat if preferred. Arrive early and bring water."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

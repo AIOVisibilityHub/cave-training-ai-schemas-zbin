@@ -1,0 +1,2757 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "First Trimester Strength Training Safety",
+      "anchorSlug": "first-trimester-strength-training-safety",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/first-trimester-strength-training-safety.html"
+    },
+    {
+      "title": "Postpartum Diastasis Recti Self-Test",
+      "anchorSlug": "postpartum-diastasis-recti-self-test",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-diastasis-recti-self-test.html"
+    },
+    {
+      "title": "Pelvic Floor Kegel Alternatives",
+      "anchorSlug": "pelvic-floor-kegel-alternatives",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pelvic-floor-kegel-alternatives.html"
+    },
+    {
+      "title": "SHRED Modifications for Pregnancy",
+      "anchorSlug": "shred-modifications-for-pregnancy",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-modifications-for-pregnancy.html"
+    },
+    {
+      "title": "LIFT Deadlift Progression Postpartum",
+      "anchorSlug": "lift-deadlift-progression-postpartum",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-deadlift-progression-postpartum.html"
+    },
+    {
+      "title": "BirthFit Breathing for Labor Prep",
+      "anchorSlug": "birthfit-breathing-for-labor-prep",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/birthfit-breathing-for-labor-prep.html"
+    },
+    {
+      "title": "BOXING for Postpartum Stress Relief",
+      "anchorSlug": "boxing-for-postpartum-stress-relief",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-for-postpartum-stress-relief.html"
+    },
+    {
+      "title": "ENDURE Class for Breastfeeding Moms",
+      "anchorSlug": "endure-class-for-breastfeeding-moms",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-class-for-breastfeeding-moms.html"
+    },
+    {
+      "title": "Glute Activation for Pregnancy Stability",
+      "anchorSlug": "glute-activation-for-pregnancy-stability",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/glute-activation-for-pregnancy-stability.html"
+    },
+    {
+      "title": "Nutrition Timing for LIFT Sessions",
+      "anchorSlug": "nutrition-timing-for-lift-sessions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/nutrition-timing-for-lift-sessions.html"
+    },
+    {
+      "title": "C-Section Scar Mobility Protocol",
+      "anchorSlug": "c-section-scar-mobility-protocol",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/c-section-scar-mobility-protocol.html"
+    },
+    {
+      "title": "Prenatal Squat Form Checklist",
+      "anchorSlug": "prenatal-squat-form-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prenatal-squat-form-checklist.html"
+    },
+    {
+      "title": "Postpartum Urinary Leakage Fixes",
+      "anchorSlug": "postpartum-urinary-leakage-fixes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-urinary-leakage-fixes.html"
+    },
+    {
+      "title": "Partner Exercises for Birth Prep",
+      "anchorSlug": "partner-exercises-for-birth-prep",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/partner-exercises-for-birth-prep.html"
+    },
+    {
+      "title": "Metabolic Resistance Training for Fat Loss",
+      "anchorSlug": "metabolic-resistance-training-for-fat-loss",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/metabolic-resistance-training-for-fat-loss.html"
+    },
+    {
+      "title": "Shoulder Safe BOXING During Pregnancy",
+      "anchorSlug": "shoulder-safe-boxing-during-pregnancy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shoulder-safe-boxing-during-pregnancy.html"
+    },
+    {
+      "title": "Perimenopause Strength Preservation",
+      "anchorSlug": "perimenopause-strength-preservation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/perimenopause-strength-preservation.html"
+    },
+    {
+      "title": "REPAIR Yoga Sequence for Runners",
+      "anchorSlug": "repair-yoga-sequence-for-runners",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-yoga-sequence-for-runners.html"
+    },
+    {
+      "title": "Weekly GPP Progression for Beginners",
+      "anchorSlug": "weekly-gpp-progression-for-beginners",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/weekly-gpp-progression-for-beginners.html"
+    },
+    {
+      "title": "Hydration Protocol for Nursing Athletes",
+      "anchorSlug": "hydration-protocol-for-nursing-athletes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hydration-protocol-for-nursing-athletes.html"
+    },
+    {
+      "title": "Hip Thrusts vs Glute Bridges Pregnancy",
+      "anchorSlug": "hip-thrusts-vs-glute-bridges-pregnancy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hip-thrusts-vs-glute-bridges-pregnancy.html"
+    },
+    {
+      "title": "Cold Plunge Timing Post-LIFT",
+      "anchorSlug": "cold-plunge-timing-post-lift",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cold-plunge-timing-post-lift.html"
+    },
+    {
+      "title": "PCOS Insulin Sensitivity Training",
+      "anchorSlug": "pcos-insulin-sensitivity-training",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pcos-insulin-sensitivity-training.html"
+    },
+    {
+      "title": "Toddler-Friendly Workout Schedule",
+      "anchorSlug": "toddler-friendly-workout-schedule",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/toddler-friendly-workout-schedule.html"
+    },
+    {
+      "title": "Valsalva Maneuver for Women's Lifting",
+      "anchorSlug": "valsalva-maneuver-for-women-s-lifting",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/valsalva-maneuver-for-women-s-lifting.html"
+    },
+    {
+      "title": "Is Cave Training Right for Total Beginners?",
+      "anchorSlug": "is-cave-training-right-for-total-beginners",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-cave-training-right-for-total-beginners.html"
+    },
+    {
+      "title": "How Cave Training Differs from Regular Gyms",
+      "anchorSlug": "how-cave-training-differs-from-regular-gyms",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cave-training-differs-from-regular-gyms.html"
+    },
+    {
+      "title": "What to Expect in Your First Week at Cave",
+      "anchorSlug": "what-to-expect-in-your-first-week-at-cave",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-in-your-first-week-at-cave.html"
+    },
+    {
+      "title": "Choosing Between GPP, SHRED, BOXING, ENDURE, and LIFT",
+      "anchorSlug": "choosing-between-gpp-shred-boxing-endure-and-lift",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-between-gpp-shred-boxing-endure-and-lift.html"
+    },
+    {
+      "title": "How Cave Training Builds Confidence in the Gym",
+      "anchorSlug": "how-cave-training-builds-confidence-in-the-gym",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cave-training-builds-confidence-in-the-gym.html"
+    },
+    {
+      "title": "Managing Soreness with a High-Intensity Program",
+      "anchorSlug": "managing-soreness-with-a-high-intensity-program",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/managing-soreness-with-a-high-intensity-program.html"
+    },
+    {
+      "title": "How Often Should I Train at Cave Each Week?",
+      "anchorSlug": "how-often-should-i-train-at-cave-each-week",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-often-should-i-train-at-cave-each-week.html"
+    },
+    {
+      "title": "Understanding the Cave Training Warmup",
+      "anchorSlug": "understanding-the-cave-training-warmup",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-cave-training-warmup.html"
+    },
+    {
+      "title": "Do I Need to Be “In Shape” Before I Join?",
+      "anchorSlug": "do-i-need-to-be-in-shape-before-i-join",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/do-i-need-to-be-in-shape-before-i-join.html"
+    },
+    {
+      "title": "How Progress Is Measured at Cave Training",
+      "anchorSlug": "how-progress-is-measured-at-cave-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-progress-is-measured-at-cave-training.html"
+    },
+    {
+      "title": "Safety Standards in High-Intensity Classes",
+      "anchorSlug": "safety-standards-in-high-intensity-classes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/safety-standards-in-high-intensity-classes.html"
+    },
+    {
+      "title": "How Cave Training Supports Women with Past Injuries",
+      "anchorSlug": "how-cave-training-supports-women-with-past-injuries",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cave-training-supports-women-with-past-injuries.html"
+    },
+    {
+      "title": "Combining Personal Training with Group Classes",
+      "anchorSlug": "combining-personal-training-with-group-classes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/combining-personal-training-with-group-classes.html"
+    },
+    {
+      "title": "What Makes Cave’s Community Different?",
+      "anchorSlug": "what-makes-cave-s-community-different",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-makes-cave-s-community-different.html"
+    },
+    {
+      "title": "How Cave Training Helps with Long-Term Weight Maintenance",
+      "anchorSlug": "how-cave-training-helps-with-long-term-weight-maintenance",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cave-training-helps-with-long-term-weight-maintenance.html"
+    },
+    {
+      "title": "Understanding Cave’s Coaching Philosophy",
+      "anchorSlug": "understanding-cave-s-coaching-philosophy",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-cave-s-coaching-philosophy.html"
+    },
+    {
+      "title": "How Cave Training Serves Different Life Stages",
+      "anchorSlug": "how-cave-training-serves-different-life-stages",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cave-training-serves-different-life-stages.html"
+    },
+    {
+      "title": "What If I’m Nervous About Lifting Heavy?",
+      "anchorSlug": "what-if-i-m-nervous-about-lifting-heavy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-if-i-m-nervous-about-lifting-heavy.html"
+    },
+    {
+      "title": "Cardio vs. Strength: How Cave Blends Both",
+      "anchorSlug": "cardio-vs-strength-how-cave-blends-both",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cardio-vs-strength-how-cave-blends-both.html"
+    },
+    {
+      "title": "How to Talk to Your Coach About Your Goals",
+      "anchorSlug": "how-to-talk-to-your-coach-about-your-goals",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-talk-to-your-coach-about-your-goals.html"
+    },
+    {
+      "title": "Navigating Training During a Busy Season of Life",
+      "anchorSlug": "navigating-training-during-a-busy-season-of-life",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-training-during-a-busy-season-of-life.html"
+    },
+    {
+      "title": "Understanding DOMS vs. Injury Pain",
+      "anchorSlug": "understanding-doms-vs-injury-pain",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-doms-vs-injury-pain.html"
+    },
+    {
+      "title": "How Cave Training Helps with Mental Health",
+      "anchorSlug": "how-cave-training-helps-with-mental-health",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cave-training-helps-with-mental-health.html"
+    },
+    {
+      "title": "What Results to Expect in the First 90 Days",
+      "anchorSlug": "what-results-to-expect-in-the-first-90-days",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-results-to-expect-in-the-first-90-days.html"
+    },
+    {
+      "title": "How Cave Training Works with Your Healthcare Providers",
+      "anchorSlug": "how-cave-training-works-with-your-healthcare-providers",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cave-training-works-with-your-healthcare-providers.html"
+    },
+    {
+      "title": "Why Exercise Through Pregnancy Prevents Diabetes",
+      "anchorSlug": "why-exercise-through-pregnancy-prevents-diabetes",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-exercise-through-pregnancy-prevents-diabetes.html"
+    },
+    {
+      "title": "Faster Labor with Prenatal Squat Training",
+      "anchorSlug": "faster-labor-with-prenatal-squat-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/faster-labor-with-prenatal-squat-training.html"
+    },
+    {
+      "title": "Maintaining Muscle Prevents Postpartum Weight Gain",
+      "anchorSlug": "maintaining-muscle-prevents-postpartum-weight-gain",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maintaining-muscle-prevents-postpartum-weight-gain.html"
+    },
+    {
+      "title": "Postpartum Core Recovery 8 Weeks Faster",
+      "anchorSlug": "postpartum-core-recovery-8-weeks-faster",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-core-recovery-8-weeks-faster.html"
+    },
+    {
+      "title": "Reduced C-Section Recovery Time",
+      "anchorSlug": "reduced-c-section-recovery-time",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/reduced-c-section-recovery-time.html"
+    },
+    {
+      "title": "Less Back Pain During Third Trimester",
+      "anchorSlug": "less-back-pain-during-third-trimester",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/less-back-pain-during-third-trimester.html"
+    },
+    {
+      "title": "Stronger Pelvic Floor = Less Incontinence",
+      "anchorSlug": "stronger-pelvic-floor-less-incontinence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stronger-pelvic-floor-less-incontinence.html"
+    },
+    {
+      "title": "Better Sleep During Pregnancy",
+      "anchorSlug": "better-sleep-during-pregnancy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/better-sleep-during-pregnancy.html"
+    },
+    {
+      "title": "Reduced Varicose Veins Risk",
+      "anchorSlug": "reduced-varicose-veins-risk",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/reduced-varicose-veins-risk.html"
+    },
+    {
+      "title": "Postpartum Depression Risk Cut 40%",
+      "anchorSlug": "postpartum-depression-risk-cut-40",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-depression-risk-cut-40.html"
+    },
+    {
+      "title": "Stronger Push During Delivery",
+      "anchorSlug": "stronger-push-during-delivery",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stronger-push-during-delivery.html"
+    },
+    {
+      "title": "Easier Breastfeeding Weight Management",
+      "anchorSlug": "easier-breastfeeding-weight-management",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/easier-breastfeeding-weight-management.html"
+    },
+    {
+      "title": "Less Pregnancy Constipation",
+      "anchorSlug": "less-pregnancy-constipation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/less-pregnancy-constipation.html"
+    },
+    {
+      "title": "Postpartum Energy Returns 6 Weeks Early",
+      "anchorSlug": "postpartum-energy-returns-6-weeks-early",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-energy-returns-6-weeks-early.html"
+    },
+    {
+      "title": "Fewer Pregnancy-Related Injuries",
+      "anchorSlug": "fewer-pregnancy-related-injuries",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fewer-pregnancy-related-injuries.html"
+    },
+    {
+      "title": "Better Posture Through Pregnancy",
+      "anchorSlug": "better-posture-through-pregnancy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/better-posture-through-pregnancy.html"
+    },
+    {
+      "title": "Higher Milk Supply Stability",
+      "anchorSlug": "higher-milk-supply-stability",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/higher-milk-supply-stability.html"
+    },
+    {
+      "title": "Reduced Swelling in Feet/Ankles",
+      "anchorSlug": "reduced-swelling-in-feet-ankles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/reduced-swelling-in-feet-ankles.html"
+    },
+    {
+      "title": "Postpartum Sexual Health Recovery",
+      "anchorSlug": "postpartum-sexual-health-recovery",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-sexual-health-recovery.html"
+    },
+    {
+      "title": "Stronger Immune Function Pregnancy",
+      "anchorSlug": "stronger-immune-function-pregnancy",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stronger-immune-function-pregnancy.html"
+    },
+    {
+      "title": "Less Postpartum Hair Loss",
+      "anchorSlug": "less-postpartum-hair-loss",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/less-postpartum-hair-loss.html"
+    },
+    {
+      "title": "Improved Pregnancy Skin Elasticity",
+      "anchorSlug": "improved-pregnancy-skin-elasticity",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/improved-pregnancy-skin-elasticity.html"
+    },
+    {
+      "title": "Higher Newborn Birth Weight (Healthy Range)",
+      "anchorSlug": "higher-newborn-birth-weight-healthy-range",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/higher-newborn-birth-weight-healthy-range.html"
+    },
+    {
+      "title": "Postpartum Joint Stability Returns Faster",
+      "anchorSlug": "postpartum-joint-stability-returns-faster",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-joint-stability-returns-faster.html"
+    },
+    {
+      "title": "Pregnancy Training Improves Partner Bonding",
+      "anchorSlug": "pregnancy-training-improves-partner-bonding",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pregnancy-training-improves-partner-bonding.html"
+    },
+    {
+      "title": "Exercise Cuts Pregnancy Anxiety 35%",
+      "anchorSlug": "exercise-cuts-pregnancy-anxiety-35",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/exercise-cuts-pregnancy-anxiety-35.html"
+    },
+    {
+      "title": "Postpartum \"Fog\" Clears 4 Weeks Faster",
+      "anchorSlug": "postpartum-fog-clears-4-weeks-faster",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-fog-clears-4-weeks-faster.html"
+    },
+    {
+      "title": "Group Classes Halve Mom Isolation",
+      "anchorSlug": "group-classes-halve-mom-isolation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/group-classes-halve-mom-isolation.html"
+    },
+    {
+      "title": "Cortisol Control Through Third Trimester",
+      "anchorSlug": "cortisol-control-through-third-trimester",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cortisol-control-through-third-trimester.html"
+    },
+    {
+      "title": "Strength Training Boosts Body Confidence",
+      "anchorSlug": "strength-training-boosts-body-confidence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/strength-training-boosts-body-confidence.html"
+    },
+    {
+      "title": "Routine Prevents Postpartum Overwhelm",
+      "anchorSlug": "routine-prevents-postpartum-overwhelm",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/routine-prevents-postpartum-overwhelm.html"
+    },
+    {
+      "title": "Endorphin Rush Beats Pregnancy Blues",
+      "anchorSlug": "endorphin-rush-beats-pregnancy-blues",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endorphin-rush-beats-pregnancy-blues.html"
+    },
+    {
+      "title": "Community Accountability Stops Quitting",
+      "anchorSlug": "community-accountability-stops-quitting",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/community-accountability-stops-quitting.html"
+    },
+    {
+      "title": "Dopamine from Consistent PRs",
+      "anchorSlug": "dopamine-from-consistent-prs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dopamine-from-consistent-prs.html"
+    },
+    {
+      "title": "Breathwork Reduces Labor Fear",
+      "anchorSlug": "breathwork-reduces-labor-fear",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/breathwork-reduces-labor-fear.html"
+    },
+    {
+      "title": "Sleep Quality Improves 25% with Evening Classes",
+      "anchorSlug": "sleep-quality-improves-25-with-evening-classes",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sleep-quality-improves-25-with-evening-classes.html"
+    },
+    {
+      "title": "Postpartum Resilience Through Shared Stories",
+      "anchorSlug": "postpartum-resilience-through-shared-stories",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-resilience-through-shared-stories.html"
+    },
+    {
+      "title": "Serotonin Stability During Milk Droughts",
+      "anchorSlug": "serotonin-stability-during-milk-droughts",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/serotonin-stability-during-milk-droughts.html"
+    },
+    {
+      "title": "Partner Training Strengthens Relationship",
+      "anchorSlug": "partner-training-strengthens-relationship",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/partner-training-strengthens-relationship.html"
+    },
+    {
+      "title": "Oxytocin Release Through Group High-Fives",
+      "anchorSlug": "oxytocin-release-through-group-high-fives",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/oxytocin-release-through-group-high-fives.html"
+    },
+    {
+      "title": "Structured Movement Prevents Decision Fatigue",
+      "anchorSlug": "structured-movement-prevents-decision-fatigue",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/structured-movement-prevents-decision-fatigue.html"
+    },
+    {
+      "title": "Confidence Carries Through Labor",
+      "anchorSlug": "confidence-carries-through-labor",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/confidence-carries-through-labor.html"
+    },
+    {
+      "title": "Postpartum Identity Crisis Prevention",
+      "anchorSlug": "postpartum-identity-crisis-prevention",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-identity-crisis-prevention.html"
+    },
+    {
+      "title": "Nervous System Regulation Through REPAIR",
+      "anchorSlug": "nervous-system-regulation-through-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/nervous-system-regulation-through-repair.html"
+    },
+    {
+      "title": "Seasonal Depression + Pregnancy Help",
+      "anchorSlug": "seasonal-depression-pregnancy-help",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seasonal-depression-pregnancy-help.html"
+    },
+    {
+      "title": "Gratitude Practice During Group Cool-Downs",
+      "anchorSlug": "gratitude-practice-during-group-cool-downs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gratitude-practice-during-group-cool-downs.html"
+    },
+    {
+      "title": "Hormonal Migraine Prevention Strategy",
+      "anchorSlug": "hormonal-migraine-prevention-strategy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hormonal-migraine-prevention-strategy.html"
+    },
+    {
+      "title": "Emotional Eating Replacement Protocol",
+      "anchorSlug": "emotional-eating-replacement-protocol",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/emotional-eating-replacement-protocol.html"
+    },
+    {
+      "title": "Transition Anxiety: Pregnancy to Mom",
+      "anchorSlug": "transition-anxiety-pregnancy-to-mom",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/transition-anxiety-pregnancy-to-mom.html"
+    },
+    {
+      "title": "Postpartum Rage Cycle Breaker",
+      "anchorSlug": "postpartum-rage-cycle-breaker",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-rage-cycle-breaker.html"
+    },
+    {
+      "title": "Maternal Muscle Mass = Bigger Healthy Babies",
+      "anchorSlug": "maternal-muscle-mass-bigger-healthy-babies",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maternal-muscle-mass-bigger-healthy-babies.html"
+    },
+    {
+      "title": "Better Placental Blood Flow from GPP",
+      "anchorSlug": "better-placental-blood-flow-from-gpp",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/better-placental-blood-flow-from-gpp.html"
+    },
+    {
+      "title": "Insulin Sensitivity Prevents Macrosomia",
+      "anchorSlug": "insulin-sensitivity-prevents-macrosomia",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/insulin-sensitivity-prevents-macrosomia.html"
+    },
+    {
+      "title": "Core Strength Supports Uterine Position",
+      "anchorSlug": "core-strength-supports-uterine-position",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/core-strength-supports-uterine-position.html"
+    },
+    {
+      "title": "Enhanced Nutrient Partitioning to Fetus",
+      "anchorSlug": "enhanced-nutrient-partitioning-to-fetus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/enhanced-nutrient-partitioning-to-fetus.html"
+    },
+    {
+      "title": "Reduced Low Birth Weight Risk 25%",
+      "anchorSlug": "reduced-low-birth-weight-risk-25",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/reduced-low-birth-weight-risk-25.html"
+    },
+    {
+      "title": "Stronger Amniotic Fluid Dynamics",
+      "anchorSlug": "stronger-amniotic-fluid-dynamics",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stronger-amniotic-fluid-dynamics.html"
+    },
+    {
+      "title": "Hip Mobility = Better Cord Blood Flow",
+      "anchorSlug": "hip-mobility-better-cord-blood-flow",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hip-mobility-better-cord-blood-flow.html"
+    },
+    {
+      "title": "Mitochondrial Density for Baby Energy",
+      "anchorSlug": "mitochondrial-density-for-baby-energy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mitochondrial-density-for-baby-energy.html"
+    },
+    {
+      "title": "Optimal Head Circumference Development",
+      "anchorSlug": "optimal-head-circumference-development",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/optimal-head-circumference-development.html"
+    },
+    {
+      "title": "Lung Maturity from Maternal Conditioning",
+      "anchorSlug": "lung-maturity-from-maternal-conditioning",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lung-maturity-from-maternal-conditioning.html"
+    },
+    {
+      "title": "Bone Density Transfer to Newborn",
+      "anchorSlug": "bone-density-transfer-to-newborn",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bone-density-transfer-to-newborn.html"
+    },
+    {
+      "title": "Liver Enzyme Balance for Detox",
+      "anchorSlug": "liver-enzyme-balance-for-detox",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/liver-enzyme-balance-for-detox.html"
+    },
+    {
+      "title": "Kidney Filtration Efficiency for Baby",
+      "anchorSlug": "kidney-filtration-efficiency-for-baby",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kidney-filtration-efficiency-for-baby.html"
+    },
+    {
+      "title": "Thyroid Function Optimization",
+      "anchorSlug": "thyroid-function-optimization",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thyroid-function-optimization.html"
+    },
+    {
+      "title": "Adrenal Resilience for Stress Protection",
+      "anchorSlug": "adrenal-resilience-for-stress-protection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adrenal-resilience-for-stress-protection.html"
+    },
+    {
+      "title": "Gut Microbiome Seeding Benefit",
+      "anchorSlug": "gut-microbiome-seeding-benefit",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gut-microbiome-seeding-benefit.html"
+    },
+    {
+      "title": "Optimal Iron Stores for Baby",
+      "anchorSlug": "optimal-iron-stores-for-baby",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/optimal-iron-stores-for-baby.html"
+    },
+    {
+      "title": "Heart Rate Variability for Fetal Heart",
+      "anchorSlug": "heart-rate-variability-for-fetal-heart",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/heart-rate-variability-for-fetal-heart.html"
+    },
+    {
+      "title": "Stem Cell Mobilization Benefit",
+      "anchorSlug": "stem-cell-mobilization-benefit",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stem-cell-mobilization-benefit.html"
+    },
+    {
+      "title": "Optimal Length/Weight Ratio at Birth",
+      "anchorSlug": "optimal-length-weight-ratio-at-birth",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/optimal-length-weight-ratio-at-birth.html"
+    },
+    {
+      "title": "Enhanced Meconium Passage Predictor",
+      "anchorSlug": "enhanced-meconium-passage-predictor",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/enhanced-meconium-passage-predictor.html"
+    },
+    {
+      "title": "Breast Tissue Development Support",
+      "anchorSlug": "breast-tissue-development-support",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/breast-tissue-development-support.html"
+    },
+    {
+      "title": "Reduced NICU Admission Risk",
+      "anchorSlug": "reduced-nicu-admission-risk",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/reduced-nicu-admission-risk.html"
+    },
+    {
+      "title": "Long-Term Neurodevelopmental Benefits",
+      "anchorSlug": "long-term-neurodevelopmental-benefits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/long-term-neurodevelopmental-benefits.html"
+    },
+    {
+      "title": "BOXING Bag Work Releases Executive Rage",
+      "anchorSlug": "boxing-bag-work-releases-executive-rage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-bag-work-releases-executive-rage.html"
+    },
+    {
+      "title": "SHRED Intervals Stop Mom Toddler Meltdowns",
+      "anchorSlug": "shred-intervals-stop-mom-toddler-meltdowns",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-intervals-stop-mom-toddler-meltdowns.html"
+    },
+    {
+      "title": "LIFT Heavy = Mental Load Offload",
+      "anchorSlug": "lift-heavy-mental-load-offload",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-heavy-mental-load-offload.html"
+    },
+    {
+      "title": "ENDURE Rhythm Resets Workday Cortisol",
+      "anchorSlug": "endure-rhythm-resets-workday-cortisol",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-rhythm-resets-workday-cortisol.html"
+    },
+    {
+      "title": "GPP Partner Accountability Ends Isolation Anger",
+      "anchorSlug": "gpp-partner-accountability-ends-isolation-anger",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-partner-accountability-ends-isolation-anger.html"
+    },
+    {
+      "title": "REPAIR Yoga Stops Premenstrual Rage",
+      "anchorSlug": "repair-yoga-stops-premenstrual-rage",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-yoga-stops-premenstrual-rage.html"
+    },
+    {
+      "title": "Primal Scream Replacement: Primal Scream Replacement",
+      "anchorSlug": "primal-scream-replacement-primal-scream-replacement",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/primal-scream-replacement-primal-scream-replacement.html"
+    },
+    {
+      "title": "Post-Deadline SHRED Anger Purge",
+      "anchorSlug": "post-deadline-shred-anger-purge",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-deadline-shred-anger-purge.html"
+    },
+    {
+      "title": "Stay-Home Mom's 6pm Rage Prevention",
+      "anchorSlug": "stay-home-mom-s-6pm-rage-prevention",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stay-home-mom-s-6pm-rage-prevention.html"
+    },
+    {
+      "title": "Valsalva Breathing for Meeting Interruptions",
+      "anchorSlug": "valsalva-breathing-for-meeting-interruptions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/valsalva-breathing-for-meeting-interruptions.html"
+    },
+    {
+      "title": "Carpool Line Fury → ENDURE Flow",
+      "anchorSlug": "carpool-line-fury-endure-flow",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/carpool-line-fury-endure-flow.html"
+    },
+    {
+      "title": "LIFT PRs Beat Performance Review Anxiety",
+      "anchorSlug": "lift-prs-beat-performance-review-anxiety",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-prs-beat-performance-review-anxiety.html"
+    },
+    {
+      "title": "Laundry Pile Anger → Deadlift Therapy",
+      "anchorSlug": "laundry-pile-anger-deadlift-therapy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/laundry-pile-anger-deadlift-therapy.html"
+    },
+    {
+      "title": "Client Email Trigger → Shadow Boxing",
+      "anchorSlug": "client-email-trigger-shadow-boxing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/client-email-trigger-shadow-boxing.html"
+    },
+    {
+      "title": "Diaper Change Frustration → Goblet Squats",
+      "anchorSlug": "diaper-change-frustration-goblet-squats",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/diaper-change-frustration-goblet-squats.html"
+    },
+    {
+      "title": "Traffic Jam → Mental Rehearsal Breathing",
+      "anchorSlug": "traffic-jam-mental-rehearsal-breathing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/traffic-jam-mental-rehearsal-breathing.html"
+    },
+    {
+      "title": "Team Conflict → Partner Carry Drills",
+      "anchorSlug": "team-conflict-partner-carry-drills",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/team-conflict-partner-carry-drills.html"
+    },
+    {
+      "title": "Grocery Store Overwhelm → Grocery Store Overwhelm",
+      "anchorSlug": "grocery-store-overwhelm-grocery-store-overwhelm",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/grocery-store-overwhelm-grocery-store-overwhelm.html"
+    },
+    {
+      "title": "Performance Review Prep → Strict Press",
+      "anchorSlug": "performance-review-prep-strict-press",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/performance-review-prep-strict-press.html"
+    },
+    {
+      "title": "Nap Fight Battle → Wall Ball Focus",
+      "anchorSlug": "nap-fight-battle-wall-ball-focus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/nap-fight-battle-wall-ball-focus.html"
+    },
+    {
+      "title": "Zoom Fatigue → Rower Sprints",
+      "anchorSlug": "zoom-fatigue-rower-sprints",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/zoom-fatigue-rower-sprints.html"
+    },
+    {
+      "title": "School Pickup Chaos → Box Jump Discipline",
+      "anchorSlug": "school-pickup-chaos-box-jump-discipline",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/school-pickup-chaos-box-jump-discipline.html"
+    },
+    {
+      "title": "Budget Meeting Tension → Kettlebell Swings",
+      "anchorSlug": "budget-meeting-tension-kettlebell-swings",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budget-meeting-tension-kettlebell-swings.html"
+    },
+    {
+      "title": "Playdate Politics → Battle Ropes",
+      "anchorSlug": "playdate-politics-battle-ropes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/playdate-politics-battle-ropes.html"
+    },
+    {
+      "title": "Year-End Review Dread → Front Squat Confidence",
+      "anchorSlug": "year-end-review-dread-front-squat-confidence",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/year-end-review-dread-front-squat-confidence.html"
+    },
+    {
+      "title": "Muscle Memory Returns 3x Faster Postpartum",
+      "anchorSlug": "muscle-memory-returns-3x-faster-postpartum",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/muscle-memory-returns-3x-faster-postpartum.html"
+    },
+    {
+      "title": "Metabolic Rate Stays Elevated 20 Years",
+      "anchorSlug": "metabolic-rate-stays-elevated-20-years",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/metabolic-rate-stays-elevated-20-years.html"
+    },
+    {
+      "title": "Bone Density Peak Preserved Through Menopause",
+      "anchorSlug": "bone-density-peak-preserved-through-menopause",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bone-density-peak-preserved-through-menopause.html"
+    },
+    {
+      "title": "Pelvic Floor Strength Prevents Prolapse Age 70",
+      "anchorSlug": "pelvic-floor-strength-prevents-prolapse-age-70",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pelvic-floor-strength-prevents-prolapse-age-70.html"
+    },
+    {
+      "title": "Jeans Fit Same Size 10 Years Later",
+      "anchorSlug": "jeans-fit-same-size-10-years-later",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/jeans-fit-same-size-10-years-later.html"
+    },
+    {
+      "title": "Sarcopenia Delayed 15 Years",
+      "anchorSlug": "sarcopenia-delayed-15-years",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sarcopenia-delayed-15-years.html"
+    },
+    {
+      "title": "Heart Disease Risk Halved Lifelong",
+      "anchorSlug": "heart-disease-risk-halved-lifelong",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/heart-disease-risk-halved-lifelong.html"
+    },
+    {
+      "title": "Faster Recovery from Future Injuries",
+      "anchorSlug": "faster-recovery-from-future-injuries",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/faster-recovery-from-future-injuries.html"
+    },
+    {
+      "title": "Posture Prevents Dowager's Hump",
+      "anchorSlug": "posture-prevents-dowager-s-hump",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/posture-prevents-dowager-s-hump.html"
+    },
+    {
+      "title": "Sleep Quality Peaks After 50",
+      "anchorSlug": "sleep-quality-peaks-after-50",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sleep-quality-peaks-after-50.html"
+    },
+    {
+      "title": "Confidence Carries Through Empty Nest",
+      "anchorSlug": "confidence-carries-through-empty-nest",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/confidence-carries-through-empty-nest.html"
+    },
+    {
+      "title": "Arthritis Avoided Through Smart Loading",
+      "anchorSlug": "arthritis-avoided-through-smart-loading",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/arthritis-avoided-through-smart-loading.html"
+    },
+    {
+      "title": "Hot Flash Intensity Reduced 40%",
+      "anchorSlug": "hot-flash-intensity-reduced-40",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hot-flash-intensity-reduced-40.html"
+    },
+    {
+      "title": "Balance Prevents Falls After 70",
+      "anchorSlug": "balance-prevents-falls-after-70",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/balance-prevents-falls-after-70.html"
+    },
+    {
+      "title": "Faster Grandchild Chasing Stamina",
+      "anchorSlug": "faster-grandchild-chasing-stamina",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/faster-grandchild-chasing-stamina.html"
+    },
+    {
+      "title": "Skin Elasticity Maintained Past 50",
+      "anchorSlug": "skin-elasticity-maintained-past-50",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/skin-elasticity-maintained-past-50.html"
+    },
+    {
+      "title": "Immune Function Stays Robust",
+      "anchorSlug": "immune-function-stays-robust",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/immune-function-stays-robust.html"
+    },
+    {
+      "title": "Dementia Risk Reduced 35%",
+      "anchorSlug": "dementia-risk-reduced-35",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dementia-risk-reduced-35.html"
+    },
+    {
+      "title": "Sexual Function Preserved Past 60",
+      "anchorSlug": "sexual-function-preserved-past-60",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sexual-function-preserved-past-60.html"
+    },
+    {
+      "title": "Travel Independence Maintained",
+      "anchorSlug": "travel-independence-maintained",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/travel-independence-maintained.html"
+    },
+    {
+      "title": "Gardening/Lifting Grandkids Pain-Free",
+      "anchorSlug": "gardening-lifting-grandkids-pain-free",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gardening-lifting-grandkids-pain-free.html"
+    },
+    {
+      "title": "Medication Independence Past 70",
+      "anchorSlug": "medication-independence-past-70",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/medication-independence-past-70.html"
+    },
+    {
+      "title": "Pre-Pregnancy Dress Size at Reunion",
+      "anchorSlug": "pre-pregnancy-dress-size-at-reunion",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-pregnancy-dress-size-at-reunion.html"
+    },
+    {
+      "title": "Walking Speed Preserved for Independence",
+      "anchorSlug": "walking-speed-preserved-for-independence",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/walking-speed-preserved-for-independence.html"
+    },
+    {
+      "title": "Legacy of Strength for Daughters",
+      "anchorSlug": "legacy-of-strength-for-daughters",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/legacy-of-strength-for-daughters.html"
+    },
+    {
+      "title": "Pre-Pregnancy Pelvic Floor Baseline Strength",
+      "anchorSlug": "pre-pregnancy-pelvic-floor-baseline-strength",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-pregnancy-pelvic-floor-baseline-strength.html"
+    },
+    {
+      "title": "First Trimester Pelvic Floor Protection",
+      "anchorSlug": "first-trimester-pelvic-floor-protection",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/first-trimester-pelvic-floor-protection.html"
+    },
+    {
+      "title": "Second Trimester Leak Prevention Strategy",
+      "anchorSlug": "second-trimester-leak-prevention-strategy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/second-trimester-leak-prevention-strategy.html"
+    },
+    {
+      "title": "Third Trimester Prolapse Prevention",
+      "anchorSlug": "third-trimester-prolapse-prevention",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/third-trimester-prolapse-prevention.html"
+    },
+    {
+      "title": "Immediate Postpartum Pelvic Floor Assessment",
+      "anchorSlug": "immediate-postpartum-pelvic-floor-assessment",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/immediate-postpartum-pelvic-floor-assessment.html"
+    },
+    {
+      "title": "6-12 Week Postpartum Floor Restoration",
+      "anchorSlug": "6-12-week-postpartum-floor-restoration",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/6-12-week-postpartum-floor-restoration.html"
+    },
+    {
+      "title": "Diastasis + Pelvic Floor Dual Recovery",
+      "anchorSlug": "diastasis-pelvic-floor-dual-recovery",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/diastasis-pelvic-floor-dual-recovery.html"
+    },
+    {
+      "title": "Returning to Heavy Deadlifts Pelvic Safe",
+      "anchorSlug": "returning-to-heavy-deadlifts-pelvic-safe",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/returning-to-heavy-deadlifts-pelvic-safe.html"
+    },
+    {
+      "title": "Perimenopause Pelvic Floor Decline Prevention",
+      "anchorSlug": "perimenopause-pelvic-floor-decline-prevention",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/perimenopause-pelvic-floor-decline-prevention.html"
+    },
+    {
+      "title": "Post-Menopause Prolapse Prevention Routine",
+      "anchorSlug": "post-menopause-prolapse-prevention-routine",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-menopause-prolapse-prevention-routine.html"
+    },
+    {
+      "title": "Cough/Laugh Incontinence Elimination",
+      "anchorSlug": "cough-laugh-incontinence-elimination",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cough-laugh-incontinence-elimination.html"
+    },
+    {
+      "title": "Pelvic Floor + Posture Connection",
+      "anchorSlug": "pelvic-floor-posture-connection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pelvic-floor-posture-connection.html"
+    },
+    {
+      "title": "High Impact Running Floor Protection",
+      "anchorSlug": "high-impact-running-floor-protection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/high-impact-running-floor-protection.html"
+    },
+    {
+      "title": "Sexual Function Floor Restoration",
+      "anchorSlug": "sexual-function-floor-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sexual-function-floor-restoration.html"
+    },
+    {
+      "title": "Constipation Prevention Floor Training",
+      "anchorSlug": "constipation-prevention-floor-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/constipation-prevention-floor-training.html"
+    },
+    {
+      "title": "Pelvic Floor Overactivity Treatment",
+      "anchorSlug": "pelvic-floor-overactivity-treatment",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pelvic-floor-overactivity-treatment.html"
+    },
+    {
+      "title": "Multi-Child Pelvic Floor Preservation",
+      "anchorSlug": "multi-child-pelvic-floor-preservation",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-child-pelvic-floor-preservation.html"
+    },
+    {
+      "title": "Hysterectomy Floor Preparation",
+      "anchorSlug": "hysterectomy-floor-preparation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hysterectomy-floor-preparation.html"
+    },
+    {
+      "title": "Senior Pelvic Floor Emergency Kit",
+      "anchorSlug": "senior-pelvic-floor-emergency-kit",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/senior-pelvic-floor-emergency-kit.html"
+    },
+    {
+      "title": "Pelvic Floor + Core Pressure Testing",
+      "anchorSlug": "pelvic-floor-core-pressure-testing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pelvic-floor-core-pressure-testing.html"
+    },
+    {
+      "title": "Heavy Lifting Floor Lifespan Prevention",
+      "anchorSlug": "heavy-lifting-floor-lifespan-prevention",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/heavy-lifting-floor-lifespan-prevention.html"
+    },
+    {
+      "title": "Pelvic Floor Breathing Mastery",
+      "anchorSlug": "pelvic-floor-breathing-mastery",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pelvic-floor-breathing-mastery.html"
+    },
+    {
+      "title": "Dance/Zumba Floor Protection",
+      "anchorSlug": "dance-zumba-floor-protection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dance-zumba-floor-protection.html"
+    },
+    {
+      "title": "Chronic Holding Pattern Correction",
+      "anchorSlug": "chronic-holding-pattern-correction",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/chronic-holding-pattern-correction.html"
+    },
+    {
+      "title": "Pelvic Floor Legacy for Daughters",
+      "anchorSlug": "pelvic-floor-legacy-for-daughters",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pelvic-floor-legacy-for-daughters.html"
+    },
+    {
+      "title": "Pre-Pregnancy GPP Clears Decision Fatigue",
+      "anchorSlug": "pre-pregnancy-gpp-clears-decision-fatigue",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-pregnancy-gpp-clears-decision-fatigue.html"
+    },
+    {
+      "title": "First Trimester SHRED Stops Nausea Anxiety",
+      "anchorSlug": "first-trimester-shred-stops-nausea-anxiety",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/first-trimester-shred-stops-nausea-anxiety.html"
+    },
+    {
+      "title": "LIFT Breathing Calms Second Trimester Worry",
+      "anchorSlug": "lift-breathing-calms-second-trimester-worry",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-breathing-calms-second-trimester-worry.html"
+    },
+    {
+      "title": "BOXING Third Trimester Nesting Rage",
+      "anchorSlug": "boxing-third-trimester-nesting-rage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-third-trimester-nesting-rage.html"
+    },
+    {
+      "title": "ENDURE Rhythm Soothes Labor Fear",
+      "anchorSlug": "endure-rhythm-soothes-labor-fear",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-rhythm-soothes-labor-fear.html"
+    },
+    {
+      "title": "Week 1 Postpartum REPAIR Nervous Reset",
+      "anchorSlug": "week-1-postpartum-repair-nervous-reset",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/week-1-postpartum-repair-nervous-reset.html"
+    },
+    {
+      "title": "GPP Partner Work Fills Social Void",
+      "anchorSlug": "gpp-partner-work-fills-social-void",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-partner-work-fills-social-void.html"
+    },
+    {
+      "title": "SHRED Sleep Deprivation Brain Fog Fix",
+      "anchorSlug": "shred-sleep-deprivation-brain-fog-fix",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-sleep-deprivation-brain-fog-fix.html"
+    },
+    {
+      "title": "LIFT PRs Anchor Identity During Chaos",
+      "anchorSlug": "lift-prs-anchor-identity-during-chaos",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-prs-anchor-identity-during-chaos.html"
+    },
+    {
+      "title": "BOXING Replaces Postpartum Rage Outlet",
+      "anchorSlug": "boxing-replaces-postpartum-rage-outlet",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-replaces-postpartum-rage-outlet.html"
+    },
+    {
+      "title": "ENDURE Routine Survives Toddler Chaos",
+      "anchorSlug": "endure-routine-survives-toddler-chaos",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-routine-survives-toddler-chaos.html"
+    },
+    {
+      "title": "REPAIR Perimenopause Mood Swings",
+      "anchorSlug": "repair-perimenopause-mood-swings",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-perimenopause-mood-swings.html"
+    },
+    {
+      "title": "GPP Executive Function Through Empty Nest",
+      "anchorSlug": "gpp-executive-function-through-empty-nest",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-executive-function-through-empty-nest.html"
+    },
+    {
+      "title": "SHRED Menopause Cortisol Management",
+      "anchorSlug": "shred-menopause-cortisol-management",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-menopause-cortisol-management.html"
+    },
+    {
+      "title": "LIFT Confidence Through Retirement",
+      "anchorSlug": "lift-confidence-through-retirement",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-confidence-through-retirement.html"
+    },
+    {
+      "title": "BOXING Widowhood Grief Processing",
+      "anchorSlug": "boxing-widowhood-grief-processing",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-widowhood-grief-processing.html"
+    },
+    {
+      "title": "ENDURE Lifelong Circadian Rhythm",
+      "anchorSlug": "endure-lifelong-circadian-rhythm",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-lifelong-circadian-rhythm.html"
+    },
+    {
+      "title": "REPAIR Nervous System Longevity",
+      "anchorSlug": "repair-nervous-system-longevity",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-nervous-system-longevity.html"
+    },
+    {
+      "title": "GPP Cognitive Reserve for Dementia",
+      "anchorSlug": "gpp-cognitive-reserve-for-dementia",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-cognitive-reserve-for-dementia.html"
+    },
+    {
+      "title": "SHRED Hot Flash Emotional Override",
+      "anchorSlug": "shred-hot-flash-emotional-override",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-hot-flash-emotional-override.html"
+    },
+    {
+      "title": "LIFT Legacy Stress Buffer",
+      "anchorSlug": "lift-legacy-stress-buffer",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-legacy-stress-buffer.html"
+    },
+    {
+      "title": "BOXING Social Anxiety Lifelong Antidote",
+      "anchorSlug": "boxing-social-anxiety-lifelong-antidote",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-social-anxiety-lifelong-antidote.html"
+    },
+    {
+      "title": "ENDURE Routine Through Life Transitions",
+      "anchorSlug": "endure-routine-through-life-transitions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-routine-through-life-transitions.html"
+    },
+    {
+      "title": "REPAIR Breathwork Panic Attack Prevention",
+      "anchorSlug": "repair-breathwork-panic-attack-prevention",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-breathwork-panic-attack-prevention.html"
+    },
+    {
+      "title": "GPP Lifelong Emotional Resilience Foundation",
+      "anchorSlug": "gpp-lifelong-emotional-resilience-foundation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-lifelong-emotional-resilience-foundation.html"
+    },
+    {
+      "title": "LIFT BDNF Production Fights Alzheimer's",
+      "anchorSlug": "lift-bdnf-production-fights-alzheimer-s",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-bdnf-production-fights-alzheimer-s.html"
+    },
+    {
+      "title": "GPP Neurogenesis Through Gymnastics",
+      "anchorSlug": "gpp-neurogenesis-through-gymnastics",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-neurogenesis-through-gymnastics.html"
+    },
+    {
+      "title": "SHRED Reduces Brain Inflammation 30%",
+      "anchorSlug": "shred-reduces-brain-inflammation-30",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-reduces-brain-inflammation-30.html"
+    },
+    {
+      "title": "ENDURE VO2max Protects Cognitive Reserve",
+      "anchorSlug": "endure-vo2max-protects-cognitive-reserve",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-vo2max-protects-cognitive-reserve.html"
+    },
+    {
+      "title": "BOXING Bilateral Coordination Prevents Decline",
+      "anchorSlug": "boxing-bilateral-coordination-prevents-decline",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-bilateral-coordination-prevents-decline.html"
+    },
+    {
+      "title": "REPAIR Yoga Lowers Alzheimer's Amyloid",
+      "anchorSlug": "repair-yoga-lowers-alzheimer-s-amyloid",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-yoga-lowers-alzheimer-s-amyloid.html"
+    },
+    {
+      "title": "LIFT Myokine Release Brain Shield",
+      "anchorSlug": "lift-myokine-release-brain-shield",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-myokine-release-brain-shield.html"
+    },
+    {
+      "title": "GPP White Matter Preservation",
+      "anchorSlug": "gpp-white-matter-preservation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-white-matter-preservation.html"
+    },
+    {
+      "title": "SHRED Hippocampal Volume Protection",
+      "anchorSlug": "shred-hippocampal-volume-protection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-hippocampal-volume-protection.html"
+    },
+    {
+      "title": "ENDURE Vascular Dementia Prevention",
+      "anchorSlug": "endure-vascular-dementia-prevention",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-vascular-dementia-prevention.html"
+    },
+    {
+      "title": "BOXING Parkinson's Tremor Control",
+      "anchorSlug": "boxing-parkinson-s-tremor-control",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-parkinson-s-tremor-control.html"
+    },
+    {
+      "title": "REPAIR Meditation Brain Thickness",
+      "anchorSlug": "repair-meditation-brain-thickness",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-meditation-brain-thickness.html"
+    },
+    {
+      "title": "LIFT Insulin Resistance Brain Shield",
+      "anchorSlug": "lift-insulin-resistance-brain-shield",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-insulin-resistance-brain-shield.html"
+    },
+    {
+      "title": "GPP Neuroplasticity Window Extension",
+      "anchorSlug": "gpp-neuroplasticity-window-extension",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-neuroplasticity-window-extension.html"
+    },
+    {
+      "title": "SHRED Tau Protein Reduction",
+      "anchorSlug": "shred-tau-protein-reduction",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-tau-protein-reduction.html"
+    },
+    {
+      "title": "ENDURE Fronto-Parietal Network Protection",
+      "anchorSlug": "endure-fronto-parietal-network-protection",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-fronto-parietal-network-protection.html"
+    },
+    {
+      "title": "BOXING Mirror Neuron Activation",
+      "anchorSlug": "boxing-mirror-neuron-activation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-mirror-neuron-activation.html"
+    },
+    {
+      "title": "REPAIR Autonomic Balance Restoration",
+      "anchorSlug": "repair-autonomic-balance-restoration",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-autonomic-balance-restoration.html"
+    },
+    {
+      "title": "LIFT IGF-1 Neuroprotection",
+      "anchorSlug": "lift-igf-1-neuroprotection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-igf-1-neuroprotection.html"
+    },
+    {
+      "title": "GPP Cerebellar Coordination Lifespan",
+      "anchorSlug": "gpp-cerebellar-coordination-lifespan",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-cerebellar-coordination-lifespan.html"
+    },
+    {
+      "title": "SHRED Neurovascular Coupling",
+      "anchorSlug": "shred-neurovascular-coupling",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-neurovascular-coupling.html"
+    },
+    {
+      "title": "ENDURE Lewy Body Prevention",
+      "anchorSlug": "endure-lewy-body-prevention",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-lewy-body-prevention.html"
+    },
+    {
+      "title": "BOXING Reticular Activating System",
+      "anchorSlug": "boxing-reticular-activating-system",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-reticular-activating-system.html"
+    },
+    {
+      "title": "REPAIR Default Mode Network Balance",
+      "anchorSlug": "repair-default-mode-network-balance",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-default-mode-network-balance.html"
+    },
+    {
+      "title": "LIFT Lifetime Tauopathy Delay",
+      "anchorSlug": "lift-lifetime-tauopathy-delay",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-lifetime-tauopathy-delay.html"
+    },
+    {
+      "title": "LIFT Lowers Resting Heart Rate 12 BPM",
+      "anchorSlug": "lift-lowers-resting-heart-rate-12-bpm",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-lowers-resting-heart-rate-12-bpm.html"
+    },
+    {
+      "title": "GPP Improves Ejection Fraction 15%",
+      "anchorSlug": "gpp-improves-ejection-fraction-15",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-improves-ejection-fraction-15.html"
+    },
+    {
+      "title": "SHRED VO2max Gains Outpace Running",
+      "anchorSlug": "shred-vo2max-gains-outpace-running",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-vo2max-gains-outpace-running.html"
+    },
+    {
+      "title": "ENDURE Stroke Volume Maximization",
+      "anchorSlug": "endure-stroke-volume-maximization",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-stroke-volume-maximization.html"
+    },
+    {
+      "title": "BOXING Asymmetric Heart Training",
+      "anchorSlug": "boxing-asymmetric-heart-training",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-asymmetric-heart-training.html"
+    },
+    {
+      "title": "REPAIR Lowers Arterial Stiffness",
+      "anchorSlug": "repair-lowers-arterial-stiffness",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-lowers-arterial-stiffness.html"
+    },
+    {
+      "title": "LIFT Diastolic Function Preservation",
+      "anchorSlug": "lift-diastolic-function-preservation",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-diastolic-function-preservation.html"
+    },
+    {
+      "title": "GPP Reduces Cardiac Troponin Leakage",
+      "anchorSlug": "gpp-reduces-cardiac-troponin-leakage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-reduces-cardiac-troponin-leakage.html"
+    },
+    {
+      "title": "SHRED Triglyceride Clearance 40% Faster",
+      "anchorSlug": "shred-triglyceride-clearance-40-faster",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-triglyceride-clearance-40-faster.html"
+    },
+    {
+      "title": "ENDURE Prevents Peripartum Cardiomyopathy",
+      "anchorSlug": "endure-prevents-peripartum-cardiomyopathy",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-prevents-peripartum-cardiomyopathy.html"
+    },
+    {
+      "title": "BOXING Improves Endothelial Function",
+      "anchorSlug": "boxing-improves-endothelial-function",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-improves-endothelial-function.html"
+    },
+    {
+      "title": "REPAIR Vagal Tone Heart Rate Variability",
+      "anchorSlug": "repair-vagal-tone-heart-rate-variability",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-vagal-tone-heart-rate-variability.html"
+    },
+    {
+      "title": "LIFT Prevents Abdominal Aortic Aneurysm",
+      "anchorSlug": "lift-prevents-abdominal-aortic-aneurysm",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-prevents-abdominal-aortic-aneurysm.html"
+    },
+    {
+      "title": "GPP Mitral Valve Regurgitation Protection",
+      "anchorSlug": "gpp-mitral-valve-regurgitation-protection",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-mitral-valve-regurgitation-protection.html"
+    },
+    {
+      "title": "SHRED LDL Particle Size Improvement",
+      "anchorSlug": "shred-ldl-particle-size-improvement",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-ldl-particle-size-improvement.html"
+    },
+    {
+      "title": "ENDURE Coronary Collateral Development",
+      "anchorSlug": "endure-coronary-collateral-development",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-coronary-collateral-development.html"
+    },
+    {
+      "title": "BOXING Baroreceptor Sensitivity",
+      "anchorSlug": "boxing-baroreceptor-sensitivity",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-baroreceptor-sensitivity.html"
+    },
+    {
+      "title": "REPAIR Prevents Takotsubo Cardiomyopathy",
+      "anchorSlug": "repair-prevents-takotsubo-cardiomyopathy",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-prevents-takotsubo-cardiomyopathy.html"
+    },
+    {
+      "title": "LIFT Reduces Homocysteine Heart Risk",
+      "anchorSlug": "lift-reduces-homocysteine-heart-risk",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-reduces-homocysteine-heart-risk.html"
+    },
+    {
+      "title": "GPP Cardiac Autonomic Neuropathy Prevention",
+      "anchorSlug": "gpp-cardiac-autonomic-neuropathy-prevention",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gpp-cardiac-autonomic-neuropathy-prevention.html"
+    },
+    {
+      "title": "SHRED Apolipoprotein B Reduction",
+      "anchorSlug": "shred-apolipoprotein-b-reduction",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/shred-apolipoprotein-b-reduction.html"
+    },
+    {
+      "title": "ENDURE Prevents Hypertrophic Cardiomyopathy",
+      "anchorSlug": "endure-prevents-hypertrophic-cardiomyopathy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/endure-prevents-hypertrophic-cardiomyopathy.html"
+    },
+    {
+      "title": "BOXING Improves QT Interval Stability",
+      "anchorSlug": "boxing-improves-qt-interval-stability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boxing-improves-qt-interval-stability.html"
+    },
+    {
+      "title": "REPAIR Atrial Natriuretic Peptide Balance",
+      "anchorSlug": "repair-atrial-natriuretic-peptide-balance",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/repair-atrial-natriuretic-peptide-balance.html"
+    },
+    {
+      "title": "LIFT Long-Term Cardiac Remodeling Prevention",
+      "anchorSlug": "lift-long-term-cardiac-remodeling-prevention",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lift-long-term-cardiac-remodeling-prevention.html"
+    },
+    {
+      "title": "Sleep Optimization Through Evening ENDURE",
+      "anchorSlug": "sleep-optimization-through-evening-endure",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sleep-optimization-through-evening-endure.html"
+    },
+    {
+      "title": "Perimenopause Hot Flash Protocol",
+      "anchorSlug": "perimenopause-hot-flash-protocol",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/perimenopause-hot-flash-protocol.html"
+    },
+    {
+      "title": "Teenage Daughter Strength Foundation",
+      "anchorSlug": "teenage-daughter-strength-foundation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/teenage-daughter-strength-foundation.html"
+    },
+    {
+      "title": "Corporate Ladder Climb Endurance",
+      "anchorSlug": "corporate-ladder-climb-endurance",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/corporate-ladder-climb-endurance.html"
+    },
+    {
+      "title": "Grocery Shopping Core Stability",
+      "anchorSlug": "grocery-shopping-core-stability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/grocery-shopping-core-stability.html"
+    },
+    {
+      "title": "Post-Hysterectomy Strength Restoration",
+      "anchorSlug": "post-hysterectomy-strength-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-hysterectomy-strength-restoration.html"
+    },
+    {
+      "title": "Ski Vacation Injury Prevention",
+      "anchorSlug": "ski-vacation-injury-prevention",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ski-vacation-injury-prevention.html"
+    },
+    {
+      "title": "Wedding Dress Back Strength",
+      "anchorSlug": "wedding-dress-back-strength",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/wedding-dress-back-strength.html"
+    },
+    {
+      "title": "Menopause Sleep Architecture Repair",
+      "anchorSlug": "menopause-sleep-architecture-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/menopause-sleep-architecture-repair.html"
+    },
+    {
+      "title": "Airport Travel Functional Capacity",
+      "anchorSlug": "airport-travel-functional-capacity",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/airport-travel-functional-capacity.html"
+    },
+    {
+      "title": "PCOS Cycle Regularity Training",
+      "anchorSlug": "pcos-cycle-regularity-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pcos-cycle-regularity-training.html"
+    },
+    {
+      "title": "Daughter's Sports Performance Edge",
+      "anchorSlug": "daughter-s-sports-performance-edge",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/daughter-s-sports-performance-edge.html"
+    },
+    {
+      "title": "Postpartum Running Base Building",
+      "anchorSlug": "postpartum-running-base-building",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-running-base-building.html"
+    },
+    {
+      "title": "Executive Presentation Voice Training",
+      "anchorSlug": "executive-presentation-voice-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/executive-presentation-voice-training.html"
+    },
+    {
+      "title": "Gardening Season Back Protection",
+      "anchorSlug": "gardening-season-back-protection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gardening-season-back-protection.html"
+    },
+    {
+      "title": "Thyroid Medication Reduction Protocol",
+      "anchorSlug": "thyroid-medication-reduction-protocol",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thyroid-medication-reduction-protocol.html"
+    },
+    {
+      "title": "Beach Vacation Body Confidence",
+      "anchorSlug": "beach-vacation-body-confidence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/beach-vacation-body-confidence.html"
+    },
+    {
+      "title": "Senior Living Independence Maintenance",
+      "anchorSlug": "senior-living-independence-maintenance",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/senior-living-independence-maintenance.html"
+    },
+    {
+      "title": "Post-Divorce Body Reclamation",
+      "anchorSlug": "post-divorce-body-reclamation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-divorce-body-reclamation.html"
+    },
+    {
+      "title": "Nursing School Clinical Endurance",
+      "anchorSlug": "nursing-school-clinical-endurance",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/nursing-school-clinical-endurance.html"
+    },
+    {
+      "title": "Holiday Weight Maintenance Strategy",
+      "anchorSlug": "holiday-weight-maintenance-strategy",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/holiday-weight-maintenance-strategy.html"
+    },
+    {
+      "title": "Violin Performance Posture Training",
+      "anchorSlug": "violin-performance-posture-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/violin-performance-posture-training.html"
+    },
+    {
+      "title": "Post-Cancer Fatigue Reversal",
+      "anchorSlug": "post-cancer-fatigue-reversal",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-cancer-fatigue-reversal.html"
+    },
+    {
+      "title": "Real Estate Agent Daily Stamina",
+      "anchorSlug": "real-estate-agent-daily-stamina",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/real-estate-agent-daily-stamina.html"
+    },
+    {
+      "title": "Wedding Dance Floor Readiness",
+      "anchorSlug": "wedding-dance-floor-readiness",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/wedding-dance-floor-readiness.html"
+    },
+    {
+      "title": "Post-Stroke Hemiparesis Training",
+      "anchorSlug": "post-stroke-hemiparesis-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-stroke-hemiparesis-training.html"
+    },
+    {
+      "title": "Server 12-Hour Shift Survival",
+      "anchorSlug": "server-12-hour-shift-survival",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/server-12-hour-shift-survival.html"
+    },
+    {
+      "title": "Granddaughter Carrying Capacity",
+      "anchorSlug": "granddaughter-carrying-capacity",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/granddaughter-carrying-capacity.html"
+    },
+    {
+      "title": "Post-Meniscus Surgery Return",
+      "anchorSlug": "post-meniscus-surgery-return",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-meniscus-surgery-return.html"
+    },
+    {
+      "title": "Choir Performance Breath Control",
+      "anchorSlug": "choir-performance-breath-control",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choir-performance-breath-control.html"
+    },
+    {
+      "title": "Protein Timing Around Prenatal LIFT Sessions",
+      "anchorSlug": "protein-timing-around-prenatal-lift-sessions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/protein-timing-around-prenatal-lift-sessions.html"
+    },
+    {
+      "title": "Carb Cycling for SHRED Fat Loss Phases",
+      "anchorSlug": "carb-cycling-for-shred-fat-loss-phases",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/carb-cycling-for-shred-fat-loss-phases.html"
+    },
+    {
+      "title": "Magnesium for Sleep + Muscle Recovery",
+      "anchorSlug": "magnesium-for-sleep-muscle-recovery",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/magnesium-for-sleep-muscle-recovery.html"
+    },
+    {
+      "title": "Gut Microbiome Diversity Through Fermented Foods",
+      "anchorSlug": "gut-microbiome-diversity-through-fermented-foods",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gut-microbiome-diversity-through-fermented-foods.html"
+    },
+    {
+      "title": "Omega-3s Prevent Postpartum Depression",
+      "anchorSlug": "omega-3s-prevent-postpartum-depression",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/omega-3s-prevent-postpartum-depression.html"
+    },
+    {
+      "title": "Flexibility Progression: Couch to Crow Pose",
+      "anchorSlug": "flexibility-progression-couch-to-crow-pose",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flexibility-progression-couch-to-crow-pose.html"
+    },
+    {
+      "title": "Cancer Risk Reduction Through Strength Training",
+      "anchorSlug": "cancer-risk-reduction-through-strength-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cancer-risk-reduction-through-strength-training.html"
+    },
+    {
+      "title": "Immune System Boost During Flu Season",
+      "anchorSlug": "immune-system-boost-during-flu-season",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/immune-system-boost-during-flu-season.html"
+    },
+    {
+      "title": "Post-Vacation Recomposition Reset",
+      "anchorSlug": "post-vacation-recomposition-reset",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-vacation-recomposition-reset.html"
+    },
+    {
+      "title": "Hashimoto's Thyroid Training Adaptation",
+      "anchorSlug": "hashimoto-s-thyroid-training-adaptation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hashimoto-s-thyroid-training-adaptation.html"
+    },
+    {
+      "title": "Desk Job Posture Reprogramming",
+      "anchorSlug": "desk-job-posture-reprogramming",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/desk-job-posture-reprogramming.html"
+    },
+    {
+      "title": "Pre-Competition Cut for Women's Physique",
+      "anchorSlug": "pre-competition-cut-for-women-s-physique",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-competition-cut-for-women-s-physique.html"
+    },
+    {
+      "title": "Chemotherapy Fatigue Reversal Protocol",
+      "anchorSlug": "chemotherapy-fatigue-reversal-protocol",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/chemotherapy-fatigue-reversal-protocol.html"
+    },
+    {
+      "title": "High Heels Ankle Stability Training",
+      "anchorSlug": "high-heels-ankle-stability-training",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/high-heels-ankle-stability-training.html"
+    },
+    {
+      "title": "Perimenopause Libido Restoration",
+      "anchorSlug": "perimenopause-libido-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/perimenopause-libido-restoration.html"
+    },
+    {
+      "title": "Toddler Wrestling Core Training",
+      "anchorSlug": "toddler-wrestling-core-training",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/toddler-wrestling-core-training.html"
+    },
+    {
+      "title": "Postpartum Hair Restoration Nutrition",
+      "anchorSlug": "postpartum-hair-restoration-nutrition",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/postpartum-hair-restoration-nutrition.html"
+    },
+    {
+      "title": "Migraine Prevention Through Breathing",
+      "anchorSlug": "migraine-prevention-through-breathing",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/migraine-prevention-through-breathing.html"
+    },
+    {
+      "title": "Tennis Serve Power Development",
+      "anchorSlug": "tennis-serve-power-development",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tennis-serve-power-development.html"
+    },
+    {
+      "title": "Seasonal Allergy Immune Modulation",
+      "anchorSlug": "seasonal-allergy-immune-modulation",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seasonal-allergy-immune-modulation.html"
+    },
+    {
+      "title": "Post-Surgical Scar Tissue Mobility",
+      "anchorSlug": "post-surgical-scar-tissue-mobility",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-surgical-scar-tissue-mobility.html"
+    },
+    {
+      "title": "High-Stress Job Cortisol Patterning",
+      "anchorSlug": "high-stress-job-cortisol-patterning",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/high-stress-job-cortisol-patterning.html"
+    },
+    {
+      "title": "Daughter's Dance Team Conditioning",
+      "anchorSlug": "daughter-s-dance-team-conditioning",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/daughter-s-dance-team-conditioning.html"
+    },
+    {
+      "title": "Raynaud's Circulation Improvement",
+      "anchorSlug": "raynaud-s-circulation-improvement",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/raynaud-s-circulation-improvement.html"
+    },
+    {
+      "title": "Post-Menopause Vaginal Dryness Prevention",
+      "anchorSlug": "post-menopause-vaginal-dryness-prevention",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-menopause-vaginal-dryness-prevention.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://cavetraining.aiovisibility.net/articles.html",
+    "https://cavetraining.aiovisibility.net/articles/getting-started.html",
+    "https://cavetraining.aiovisibility.net/articles/services-and-process.html",
+    "https://cavetraining.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://cavetraining.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://cavetraining.aiovisibility.net/articles/local-service-guidance.html",
+    "https://cavetraining.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}

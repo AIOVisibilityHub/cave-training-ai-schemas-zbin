@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do sound baths differ from meditation or traditional yoga classes?",
+  "description": "Sound baths are passive, immersive sound experiences for relaxation, unlike active mental focus in meditation or physical postures in yoga. They require no phys",
+  "url": "cavetrainingfit.com/faq/how-do-sound-baths-differ-from-meditation-or-traditional-yoga-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do sound baths differ from meditation or traditional yoga classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While sound baths, meditation, and yoga all aim to promote relaxation and well-being, their approaches differ. Sound baths are passive; you simply lie down and receive the sounds and vibrations. Meditation often involves active mental focus, and yoga combines physical postures with breathwork. A key practical tradeoff is that sound baths offer a guided, immersive sensory experience without requiring physical exertion or specific meditation techniques, making them accessible even if you find it challenging to quiet your mind in traditional meditation or yoga.",
+        "description": "Sound baths are passive, immersive sound experiences for relaxation, unlike active mental focus in meditation or physical postures in yoga. They require no physical exertion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

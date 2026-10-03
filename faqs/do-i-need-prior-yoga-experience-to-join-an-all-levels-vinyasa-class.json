@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need prior yoga experience to join an All-Levels Vinyasa class?",
+  "description": "No, prior yoga experience is not needed. Instructors provide pose variations for all levels, but inform them of any physical limitations.",
+  "url": "cavetrainingfit.com/faq/do-i-need-prior-yoga-experience-to-join-an-all-levels-vinyasa-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need prior yoga experience to join an All-Levels Vinyasa class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, prior yoga experience is not required for All-Levels Vinyasa Yoga. These classes are specifically designed to be accessible to beginners while still challenging more experienced practitioners. Instructors offer variations for poses, allowing you to choose modifications that suit your current flexibility and strength. It's helpful to communicate any physical limitations to your instructor before class to ensure a safe and effective practice.",
+        "description": "No, prior yoga experience is not needed. Instructors provide pose variations for all levels, but inform them of any physical limitations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
