@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical class size for structured group workouts at Cave Training?",
+  "description": "Class sizes are managed to balance effective coaching with a motivating group atmosphere. Sizes vary to ensure quality guidance.",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-class-size-for-structured-group-workouts-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical class size for structured group workouts at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical class size for structured group workouts at Cave Training varies but is usually managed to ensure adequate coaching attention for all participants. While not excessively large, the number of attendees allows for a vibrant group atmosphere. This balance ensures you receive guidance while benefiting from the motivation of a group setting. Larger classes may offer more energy, while smaller ones might allow for slightly more individualized cues.",
+        "description": "Class sizes are managed to balance effective coaching with a motivating group atmosphere. Sizes vary to ensure quality guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

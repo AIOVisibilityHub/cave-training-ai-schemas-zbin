@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect during my first strength and conditioning session at Cave Training?",
+  "description": "Your first session at Cave Training includes an assessment of your fitness level and goals, followed by an introduction to foundational movements and proper tec",
+  "url": "cavetrainingfit.com/faq/what-should-i-expect-during-my-first-strength-and-conditioning-session-at-cave-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect during my first strength and conditioning session at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During your first strength and conditioning session at Cave Training, you can expect an initial assessment where a coach will evaluate your current fitness level, movement patterns, and discuss your personal fitness goals. This assessment helps us understand your unique needs and tailor a program that is both effective and safe. You'll likely be introduced to foundational movements and learn proper technique, ensuring you build a strong base for future training. Coming prepared to discuss your fitness history and any physical concerns will enhance this initial process.",
+        "description": "Your first session at Cave Training includes an assessment of your fitness level and goals, followed by an introduction to foundational movements and proper technique tailored to your needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

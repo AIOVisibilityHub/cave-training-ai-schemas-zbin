@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are structured group workouts at Cave Training?",
+  "description": "Structured group workouts at Cave Training are instructor-led fitness sessions with a planned curriculum, focusing on functional movements.",
+  "url": "cavetrainingfit.com/faq/what-are-structured-group-workouts-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are structured group workouts at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structured group workouts at Cave Training are instructor-led fitness sessions designed for multiple participants, focusing on functional movements that build strength, endurance, and mobility. These workouts follow a planned curriculum, ensuring progressive challenge and varied exercises. Each session includes warm-up, skill development, the main workout (WOD), and cool-down. Understanding your current fitness level and goals before joining can help ensure you select the appropriate class intensity.",
+        "description": "Structured group workouts at Cave Training are instructor-led fitness sessions with a planned curriculum, focusing on functional movements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

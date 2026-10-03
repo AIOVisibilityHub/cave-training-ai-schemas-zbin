@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does strength training differ from cardio, and should I do both?",
+  "description": "Strength training builds muscle and boosts metabolism, while cardio improves heart health and endurance. Combining both offers comprehensive fitness benefits.",
+  "url": "cavetrainingfit.com/faq/how-does-strength-training-differ-from-cardio-and-should-i-do-both",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does strength training differ from cardio, and should I do both?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strength training builds muscle, increases bone density, and boosts metabolism, primarily focusing on anaerobic effort. Cardio, or cardiovascular exercise, improves heart health, endurance, and burns calories, focusing on aerobic effort. Both are crucial for overall health. Combining strength training with cardio offers comprehensive benefits, improving body composition, endurance, and preventing chronic diseases. We typically integrate both types of training into well-rounded fitness plans at Cave Training to achieve optimal results for our members.",
+        "description": "Strength training builds muscle and boosts metabolism, while cardio improves heart health and endurance. Combining both offers comprehensive fitness benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

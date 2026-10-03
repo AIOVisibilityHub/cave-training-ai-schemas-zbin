@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer introductory GPP classes or trials in Santa Clarita?",
+  "description": "Yes, Cave Training offers introductory GPP classes or trials for new clients in Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Contact us directl",
+  "url": "cavetrainingfit.com/faq/do-you-offer-introductory-gpp-classes-or-trials-in-santa-clarita",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer introductory GPP classes or trials in Santa Clarita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Cave Training offers introductory options for new clients interested in GPP, specifically for those located in Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. We understand that starting a new fitness regimen can be daunting, so we provide structured pathways for newcomers. This might include a discounted trial period or a beginner-specific orientation to help you get acquainted with our facility, coaching style, and the fundamentals of GPP. We encourage you to contact us directly to learn about current introductory offers and how to get started.",
+        "description": "Yes, Cave Training offers introductory GPP classes or trials for new clients in Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Contact us directly to learn about current offers and beginner orientation options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is functional fitness training?",
+  "description": "Functional fitness training improves strength, balance, and mobility by focusing on exercises that mimic real-life movements for better everyday performance.",
+  "url": "cavetrainingfit.com/faq/what-is-functional-fitness-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is functional fitness training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional fitness training focuses on exercises that mimic real-life movements you perform daily, improving strength, balance, and mobility for everyday activities. Unlike isolation exercises, functional training works multiple muscle groups simultaneously, enhancing overall physical performance and reducing injury risk. At Cave Training, our programs are designed to help you move better, whether you're lifting groceries or enjoying outdoor activities in the Santa Clarita Valley.",
+        "description": "Functional fitness training improves strength, balance, and mobility by focusing on exercises that mimic real-life movements for better everyday performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

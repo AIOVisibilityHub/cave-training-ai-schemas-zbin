@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect in my first structured group workout at Cave Training?",
+  "description": "Expect a guided session starting with a warm-up, movement instruction, the main workout, and a cool-down. Arrive early to discuss any limitations.",
+  "url": "cavetrainingfit.com/faq/what-should-i-expect-in-my-first-structured-group-workout-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect in my first structured group workout at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first structured group workout at Cave Training, you can expect a welcoming environment where coaches guide you through every movement. The session will typically start with a warm-up, followed by movement instruction and practice, the main workout, and a cool-down. It's helpful to arrive a few minutes early to introduce yourself to the coach and discuss any prior injuries or limitations you might have, allowing them to offer modifications.",
+        "description": "Expect a guided session starting with a warm-up, movement instruction, the main workout, and a cool-down. Arrive early to discuss any limitations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

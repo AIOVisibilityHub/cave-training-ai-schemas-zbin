@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between group classes and personal training?",
+  "description": "Group classes offer general workouts in a shared setting; personal training provides one-on-one, customized instruction and immediate feedback.",
+  "url": "cavetrainingfit.com/faq/what-is-the-difference-between-group-classes-and-personal-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between group classes and personal training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Group classes offer a shared experience with a general workout program for multiple participants, while personal training provides one-on-one instruction tailored exclusively to your needs. The main practical tradeoff is personalized attention versus a communal atmosphere. Personal training allows for highly customized programming, immediate form correction, and focused goal achievement, whereas group classes can be motivating and cost-effective but less individualized.",
+        "description": "Group classes offer general workouts in a shared setting; personal training provides one-on-one, customized instruction and immediate feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

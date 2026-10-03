@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do to prepare for my first small-group training session?",
+  "description": "Prepare by hydrating, eating a light meal, wearing appropriate attire, and arriving early to discuss any concerns with your coach.",
+  "url": "cavetrainingfit.com/faq/what-should-i-do-to-prepare-for-my-first-small-group-training-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do to prepare for my first small-group training session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your first small-group training session at Cave Training, ensure you are well-hydrated and have eaten a light, nutritious meal a few hours prior. Wear comfortable athletic clothing and appropriate footwear. It's also helpful to arrive a few minutes early to introduce yourself to the coach and discuss any injuries or concerns you may have, allowing them to make necessary adjustments for your safety and comfort.",
+        "description": "Prepare by hydrating, eating a light meal, wearing appropriate attire, and arriving early to discuss any concerns with your coach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider before starting functional fitness training?",
+  "description": "Before starting functional fitness, assess your health, any limitations, and discuss your goals with a coach to ensure a safe, effective program.",
+  "url": "cavetrainingfit.com/faq/what-should-i-consider-before-starting-functional-fitness-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider before starting functional fitness training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting functional fitness training, consider your current health status and any existing injuries or physical limitations. It's helpful to assess your daily activity level and what specific movements you want to improve. Be prepared to discuss your fitness goals and any concerns with a qualified coach. This initial discussion helps us at Cave Training tailor a program that is safe and effective for your individual needs, ensuring exercises are scaled appropriately.",
+        "description": "Before starting functional fitness, assess your health, any limitations, and discuss your goals with a coach to ensure a safe, effective program."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

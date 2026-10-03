@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is strength and conditioning and how does it differ from regular weightlifting?",
+  "description": "Strength and conditioning improves overall athletic performance and functional movement by combining strength training with other fitness components, unlike tra",
+  "url": "cavetrainingfit.com/faq/what-is-strength-and-conditioning-and-how-does-it-differ-from-regular-weightlift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is strength and conditioning and how does it differ from regular weightlifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strength and conditioning is a holistic approach to fitness that integrates strength training with other physical components like endurance, flexibility, speed, and agility. Unlike traditional weightlifting, which often focuses solely on increasing muscle mass or lifting heavy, strength and conditioning programs are designed to improve overall athletic performance and daily functional movement patterns. At Cave Training, our functional-fitness approach emphasizes exercises that mimic real-life movements, preparing your body for various physical demands rather than just isolated muscle gains.",
+        "description": "Strength and conditioning improves overall athletic performance and functional movement by combining strength training with other fitness components, unlike traditional weightlifting that focuses primarily on muscle mass."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

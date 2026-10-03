@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect during my first functional fitness class at Cave Training?",
+  "description": "Expect a warm-up, foundational movement instruction, a varied workout tailored to your level, and a cool-down during your first class at Cave Training.",
+  "url": "cavetrainingfit.com/faq/what-should-i-expect-during-my-first-functional-fitness-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect during my first functional fitness class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During your first functional fitness class at Cave Training, you can expect a comprehensive warm-up followed by instruction on foundational movements and proper form. Our trainers will guide you through a series of exercises that combine strength, cardio, and mobility, adapted to your current fitness level. The session concludes with a cool-down. We recommend arriving a few minutes early to discuss any physical considerations with your coach so they can tailor the workout experience to you.",
+        "description": "Expect a warm-up, foundational movement instruction, a varied workout tailored to your level, and a cool-down during your first class at Cave Training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

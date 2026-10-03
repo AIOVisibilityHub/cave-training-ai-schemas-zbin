@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of equipment are used in functional fitness workouts?",
+  "description": "Functional fitness workouts use diverse equipment like kettlebells, dumbbells, resistance bands, and bodyweight to support natural movement patterns.",
+  "url": "cavetrainingfit.com/faq/what-types-of-equipment-are-used-in-functional-fitness-workouts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of equipment are used in functional fitness workouts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional fitness workouts at Cave Training utilize a variety of equipment designed to support natural movement patterns, including kettlebells, dumbbells, resistance bands, medicine balls, battle ropes, and bodyweight exercises. We also incorporate stability tools like balance boards and Bosu balls. The choice of equipment often depends on the specific movement being trained and the individual's fitness level, aiming to create challenging yet effective exercises that translate to real-world strength.",
+        "description": "Functional fitness workouts use diverse equipment like kettlebells, dumbbells, resistance bands, and bodyweight to support natural movement patterns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

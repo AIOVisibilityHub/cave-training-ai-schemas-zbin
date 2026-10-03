@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is small-group training?",
+  "description": "Small-group training provides personalized coaching for 2-6 participants, blending individual attention with group motivation.",
+  "url": "cavetrainingfit.com/faq/what-is-small-group-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is small-group training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small-group training at Cave Training offers personalized coaching in a supportive group setting, typically with 2-6 participants. It combines the individualized attention of personal training with the dynamic energy and cost-effectiveness of group fitness. This format allows coaches to provide specific feedback and modifications for each individual, ensuring proper form and maximizing results while building a sense of community among participants.",
+        "description": "Small-group training provides personalized coaching for 2-6 participants, blending individual attention with group motivation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

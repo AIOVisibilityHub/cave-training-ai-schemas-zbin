@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who is small-group training best suited for?",
+  "description": "Small-group training suits individuals seeking personalized coaching and motivation within a small, supportive group, regardless of their fitness level.",
+  "url": "cavetrainingfit.com/faq/who-is-small-group-training-best-suited-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is small-group training best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small-group training is ideal for individuals seeking personalized coaching within a motivating group environment. It's suitable for various fitness levels, from beginners needing foundational guidance to experienced individuals looking to refine their technique or achieve specific goals. It's particularly beneficial for those who thrive on community support but also require more individual attention than a large class can offer, helping you stay accountable and engaged.",
+        "description": "Small-group training suits individuals seeking personalized coaching and motivation within a small, supportive group, regardless of their fitness level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

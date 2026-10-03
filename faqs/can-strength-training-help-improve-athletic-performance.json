@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can strength training help improve athletic performance?",
+  "description": "Yes, strength training boosts athletic performance by improving power, speed, agility, and endurance, while also reducing injury risk.",
+  "url": "cavetrainingfit.com/faq/can-strength-training-help-improve-athletic-performance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can strength training help improve athletic performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Strength training is a cornerstone of improving athletic performance across nearly all sports. It enhances power, speed, agility, and muscular endurance, which are critical components for athletes. By strengthening muscles, tendons, and ligaments, it also significantly reduces the risk of sports-related injuries. Our functional fitness programs at Cave Training are specifically designed to translate improved strength into better performance for your chosen sport or activity, whether it's running, climbing, or everyday challenges.",
+        "description": "Yes, strength training boosts athletic performance by improving power, speed, agility, and endurance, while also reducing injury risk."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

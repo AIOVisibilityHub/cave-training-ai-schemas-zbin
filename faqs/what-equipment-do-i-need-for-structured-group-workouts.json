@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What equipment do I need for structured group workouts?",
+  "description": "All specialized fitness equipment is provided at the gym. You just need to bring comfortable athletic attire, shoes, water, and a towel.",
+  "url": "cavetrainingfit.com/faq/what-equipment-do-i-need-for-structured-group-workouts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What equipment do I need for structured group workouts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For structured group workouts at Cave Training, all necessary specialized fitness equipment is provided at the gym. Participants are generally only required to bring comfortable athletic attire, appropriate athletic shoes, a water bottle, and a towel. Occasionally, a workout might feature specific items like a jump rope, but these are either provided or a coach will advise you if personal items are recommended. Preparation involves ensuring you have suitable activewear.",
+        "description": "All specialized fitness equipment is provided at the gym. You just need to bring comfortable athletic attire, shoes, water, and a towel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

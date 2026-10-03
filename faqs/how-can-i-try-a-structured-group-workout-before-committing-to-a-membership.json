@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I try a structured group workout before committing to a membership?",
+  "description": "Cave Training often offers introductory options like trial classes or beginner packages to experience group workouts before committing to membership.",
+  "url": "cavetrainingfit.com/faq/how-can-i-try-a-structured-group-workout-before-committing-to-a-membership",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I try a structured group workout before committing to a membership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training often offers introductory options for new prospective members to experience our structured group workouts before committing to a full membership. This could include a complimentary trial class or a special beginner package. Checking our website or contacting our front desk directly is the best way to inquire about current trial offers available. This allows you to experience the coaching style and community firsthand to see if it's the right fit for your fitness journey.",
+        "description": "Cave Training often offers introductory options like trial classes or beginner packages to experience group workouts before committing to membership."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

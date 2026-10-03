@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a typical functional fitness training session like at Cave Training?",
+  "description": "A typical session at Cave Training includes a dynamic warm-up, compound exercises using various equipment, and concludes with a cool-down.",
+  "url": "cavetrainingfit.com/faq/what-is-a-typical-functional-fitness-training-session-like-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a typical functional fitness training session like at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical functional fitness training session at Cave Training begins with a dynamic warm-up to prepare your body for movement, focusing on mobility and activation. The main workout will then involve a series of compound exercises targeting different movement patterns, often incorporating bodyweight, free weights, or other equipment. Sessions conclude with a cool-down and stretching to aid recovery. Our coaches ensure proper form and can modify exercises to match your fitness level throughout the session.",
+        "description": "A typical session at Cave Training includes a dynamic warm-up, compound exercises using various equipment, and concludes with a cool-down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

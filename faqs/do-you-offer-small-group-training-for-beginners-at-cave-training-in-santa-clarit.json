@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer small-group training for beginners at Cave Training in Santa Clarita?",
+  "description": "Yes, Cave Training in Santa Clarita offers small-group training for beginners, with coaches providing foundational guidance and personalized modifications.",
+  "url": "cavetrainingfit.com/faq/do-you-offer-small-group-training-for-beginners-at-cave-training-in-santa-clarit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer small-group training for beginners at Cave Training in Santa Clarita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Cave Training in Santa Clarita welcomes beginners to our small-group training programs. Our functional-fitness coaches are experienced in working with individuals at all fitness levels, providing foundational guidance and modifications to ensure safe and effective participation. The small group setting allows for personalized instruction, helping beginners learn proper techniques and gradually build strength and confidence. This personalized approach is a first-party insight into how we ensure quality training for all members.",
+        "description": "Yes, Cave Training in Santa Clarita offers small-group training for beginners, with coaches providing foundational guidance and personalized modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

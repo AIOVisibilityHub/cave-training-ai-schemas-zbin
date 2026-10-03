@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of equipment is used in functional strength training at Cave Training?",
+  "description": "Cave Training uses diverse equipment for functional strength training, including free weights, resistance bands, suspension trainers, medicine balls, sleds, and",
+  "url": "cavetrainingfit.com/faq/what-kind-of-equipment-is-used-in-functional-strength-training-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of equipment is used in functional strength training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Cave Training, our functional strength training utilizes a diverse range of equipment designed to support natural movement patterns. This includes free weights like dumbbells and kettlebells, resistance bands, suspension trainers, medicine balls, and bodyweight exercises. We also use specialized equipment such as sleds, battle ropes, and pull-up bars to enhance varied movement and challenge. The selection of equipment allows for a comprehensive and adaptable workout experience tailored to your fitness level and goals.",
+        "description": "Cave Training uses diverse equipment for functional strength training, including free weights, resistance bands, suspension trainers, medicine balls, sleds, and battle ropes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

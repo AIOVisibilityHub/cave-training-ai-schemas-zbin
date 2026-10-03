@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is GPP different from traditional specialized fitness programs?",
+  "description": "GPP focuses on overall physical development across multiple domains, unlike specialized programs that optimize for a single sport or fitness component. The prac",
+  "url": "cavetrainingfit.com/faq/how-is-gpp-different-from-traditional-specialized-fitness-programs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is GPP different from traditional specialized fitness programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GPP differs from specialized programs by focusing on overall physical development rather than optimizing for a single sport or fitness component. Traditional specialized training might focus on maximal strength for powerlifting or specific endurance for a marathon. In contrast, GPP at Cave Training emphasizes balanced development across multiple domains like strength, aerobic capacity, agility, and mobility. This holistic approach builds a more resilient and adaptable body, which can then perform better in any specialized activity. The practical tradeoff is that while you might not achieve peak performance in one specific area as quickly, you gain a broader, more sustainable fitness base.",
+        "description": "GPP focuses on overall physical development across multiple domains, unlike specialized programs that optimize for a single sport or fitness component. The practical tradeoff is broader, more sustainable fitness rather than immediate peak performance in one specific area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the membership options and pricing for Cave Training?",
+  "description": "Cave Training provides various membership options and pricing, including unlimited access and punch passes; contact us for current rates and offers.",
+  "url": "cavetrainingfit.com/faq/what-are-the-membership-options-and-pricing-for-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the membership options and pricing for Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training offers various membership options to fit different schedules and fitness goals, including monthly unlimited access, punch passes for flexible attendance, and specialized small group training packages. Pricing varies based on the chosen plan and commitment level. We encourage prospective members to contact our Santa Clarita location directly or visit our website for detailed information on current rates and any introductory offers that might be available, which can be a key decision factor.",
+        "description": "Cave Training provides various membership options and pricing, including unlimited access and punch passes; contact us for current rates and offers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

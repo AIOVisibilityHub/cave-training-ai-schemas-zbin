@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can small-group training help with specific fitness goals, like strength or endurance?",
+  "description": "Yes, small-group training is effective for specific goals like strength or endurance, with coaches tailoring programs and modifications.",
+  "url": "cavetrainingfit.com/faq/can-small-group-training-help-with-specific-fitness-goals-like-strength-or-endur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can small-group training help with specific fitness goals, like strength or endurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, small-group training can be highly effective for specific fitness goals, including strength building, endurance improvement, and overall functional fitness. Our coaches at Cave Training design programs to target these areas, incorporating exercises and progressions suitable for the group's objectives. The personalized attention within the small group allows for modifications that challenge each individual appropriately, accelerating progress towards their unique goals.",
+        "description": "Yes, small-group training is effective for specific goals like strength or endurance, with coaches tailoring programs and modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

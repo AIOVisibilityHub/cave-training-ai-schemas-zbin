@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does small-group training differ from regular group classes?",
+  "description": "Small-group training offers more personalized attention and tailored exercises due to its smaller size compared to regular group classes.",
+  "url": "cavetrainingfit.com/faq/how-does-small-group-training-differ-from-regular-group-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does small-group training differ from regular group classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small-group training offers a more personalized experience than regular large group classes. The smaller size allows coaches to give individual attention, correct form, and tailor exercises to each participant's specific fitness level and goals. In contrast, large group classes typically follow a set curriculum with less individual modification. A practical tradeoff is that while small-group training might be slightly more expensive than a large class, you gain significantly more individualized instruction and oversight.",
+        "description": "Small-group training offers more personalized attention and tailored exercises due to its smaller size compared to regular group classes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

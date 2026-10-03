@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is strength training beneficial for weight loss?",
+  "description": "Strength training aids weight loss by building muscle, which increases resting metabolism and helps burn more calories throughout the day, preserving muscle mas",
+  "url": "cavetrainingfit.com/faq/is-strength-training-beneficial-for-weight-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is strength training beneficial for weight loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, strength training is highly beneficial for weight loss. While cardiovascular exercise burns more calories during a workout, strength training builds muscle mass, which increases your resting metabolism. This means your body burns more calories even when you're not exercising. Additionally, it helps preserve muscle during a caloric deficit, ensuring that weight lost is primarily fat. At Cave Training, we can incorporate strength training into a broader fitness plan to support your weight loss and body composition goals.",
+        "description": "Strength training aids weight loss by building muscle, which increases resting metabolism and helps burn more calories throughout the day, preserving muscle mass during calorie deficits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

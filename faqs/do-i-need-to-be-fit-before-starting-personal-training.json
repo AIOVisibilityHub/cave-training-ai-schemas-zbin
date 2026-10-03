@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be fit before starting personal training?",
+  "description": "No, personal training is for all fitness levels; trainers design programs to meet you where you are and help you progress safely.",
+  "url": "cavetrainingfit.com/faq/do-i-need-to-be-fit-before-starting-personal-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be fit before starting personal training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you do not need to be fit before starting personal training. Trainers work with individuals of all fitness levels, from beginners to advanced athletes. The program is specifically designed to meet you where you are and gradually progress you towards your goals. A key decision factor here is that personal training is ideal for those new to exercise, as it provides guidance on proper form and technique, helping to build a strong foundation safely.",
+        "description": "No, personal training is for all fitness levels; trainers design programs to meet you where you are and help you progress safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

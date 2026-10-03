@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect during my first personal training session at Cave Training?",
+  "description": "The first session includes a consultation to discuss goals and an assessment to create a personalized, safe, and effective training plan.",
+  "url": "cavetrainingfit.com/faq/what-should-i-expect-during-my-first-personal-training-session-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect during my first personal training session at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your first personal training session typically begins with a consultation to discuss your fitness history, goals, and any physical limitations or injuries. This helps your trainer create a personalized plan. You can expect a fitness assessment to establish baseline measurements for strength, flexibility, and cardiovascular health. This preparation allows the trainer to design a program that is safe, effective, and tailored specifically for you, setting the foundation for your training journey.",
+        "description": "The first session includes a consultation to discuss goals and an assessment to create a personalized, safe, and effective training plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

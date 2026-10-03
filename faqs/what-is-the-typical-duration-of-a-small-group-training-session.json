@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical duration of a small-group training session?",
+  "description": "Small-group training sessions at Cave Training typically last 60 minutes, including warm-up, main workout, and cool-down.",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-duration-of-a-small-group-training-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical duration of a small-group training session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small-group training sessions at Cave Training typically last for 60 minutes. This duration is structured to include a warm-up, the main workout focusing on functional movements, and a cool-down. This allows sufficient time for comprehensive training, personalized coaching, and recovery within each session, ensuring you get a complete and effective workout.",
+        "description": "Small-group training sessions at Cave Training typically last 60 minutes, including warm-up, main workout, and cool-down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is functional strength training?",
+  "description": "Functional strength training uses exercises that mimic daily movements to improve practical strength, coordination, and balance, benefiting injury prevention an",
+  "url": "cavetrainingfit.com/faq/what-is-functional-strength-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is functional strength training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional strength training focuses on exercises that mimic real-life movements, improving your ability to perform daily activities safely and efficiently. Instead of isolating individual muscles, it works multiple muscle groups simultaneously, enhancing coordination, balance, and overall strength. This approach is highly effective for injury prevention and improving athletic performance. At Cave Training, our functional fitness programs integrate these principles to help you build practical strength for everyday life and recreational activities.",
+        "description": "Functional strength training uses exercises that mimic daily movements to improve practical strength, coordination, and balance, benefiting injury prevention and athletic performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

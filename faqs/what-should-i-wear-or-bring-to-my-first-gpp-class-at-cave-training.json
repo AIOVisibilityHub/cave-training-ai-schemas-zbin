@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I wear or bring to my first GPP class at Cave Training?",
+  "description": "For your first GPP class, wear comfortable athletic clothing and supportive shoes. Bring a water bottle to stay hydrated; all necessary equipment is provided. Y",
+  "url": "cavetrainingfit.com/faq/what-should-i-wear-or-bring-to-my-first-gpp-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I wear or bring to my first GPP class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first GPP class at Cave Training, you should wear comfortable athletic clothing that allows for a full range of motion. Athletic shoes with good support are also essential. We recommend bringing a water bottle to stay hydrated throughout the workout, and a small towel if desired. Hydration stations are available on-site if you need to refill. There's no need to bring specialized equipment as all necessary gear is provided by the gym. Your preparation simply involves wearing appropriate attire and being ready to move.",
+        "description": "For your first GPP class, wear comfortable athletic clothing and supportive shoes. Bring a water bottle to stay hydrated; all necessary equipment is provided. Your preparation involves dressing appropriately and being ready to participate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

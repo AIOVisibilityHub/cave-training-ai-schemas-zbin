@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of small-group training at Cave Training?",
+  "description": "Benefits include personalized coaching, tailored workouts, direct form feedback, injury prevention, and increased motivation from a supportive community.",
+  "url": "cavetrainingfit.com/faq/what-are-the-benefits-of-small-group-training-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of small-group training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The benefits of small-group training include increased personalized attention from coaches, tailored workouts that adapt to your progress, and a supportive community atmosphere. You receive direct feedback on your form and technique, reducing the risk of injury and accelerating your results. Additionally, the shared experience with a small group can boost motivation and accountability, making it easier to stick to your fitness routine and achieve your goals.",
+        "description": "Benefits include personalized coaching, tailored workouts, direct form feedback, injury prevention, and increased motivation from a supportive community."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

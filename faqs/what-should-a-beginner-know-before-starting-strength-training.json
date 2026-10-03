@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a beginner know before starting strength training?",
+  "description": "Beginners should prioritize proper form with lighter weights, ensure a balanced program, and learn foundational movements to prevent injury.",
+  "url": "cavetrainingfit.com/faq/what-should-a-beginner-know-before-starting-strength-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a beginner know before starting strength training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners should focus on learning proper form and technique before increasing weight or intensity to prevent injury and ensure effectiveness. Starting with lighter weights or bodyweight exercises allows you to master movements. It's also important to have a balanced program that works all major muscle groups. At Cave Training, our initial assessments for new members in Santa Clarita Valley include guidance on foundational movements and exercise selection, ensuring a safe and effective start to your strength training journey.",
+        "description": "Beginners should prioritize proper form with lighter weights, ensure a balanced program, and learn foundational movements to prevent injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

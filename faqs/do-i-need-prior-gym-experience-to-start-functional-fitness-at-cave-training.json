@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need prior gym experience to start functional fitness at Cave Training?",
+  "description": "No prior gym experience is needed for functional fitness at Cave Training; programs are scalable for all levels, focusing on proper form.",
+  "url": "cavetrainingfit.com/faq/do-i-need-prior-gym-experience-to-start-functional-fitness-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need prior gym experience to start functional fitness at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No prior gym experience is required to start functional fitness at Cave Training. Our programs are scalable and adaptable to all fitness levels, from beginners to advanced athletes. We focus on proper form and technique, ensuring you build a strong foundation safely. Before your first session, you might want to consider your current activity level and any physical limitations, as this information helps our trainers customize your initial exercises and progression plan.",
+        "description": "No prior gym experience is needed for functional fitness at Cave Training; programs are scalable for all levels, focusing on proper form."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

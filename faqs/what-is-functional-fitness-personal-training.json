@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is functional fitness personal training?",
+  "description": "Functional fitness personal training uses exercises that mimic daily movements to improve strength, balance, and mobility for real-life activities.",
+  "url": "cavetrainingfit.com/faq/what-is-functional-fitness-personal-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is functional fitness personal training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional fitness personal training focuses on exercises that mimic real-life movements, improving your strength, balance, and mobility for daily activities. This approach helps you perform better in sports, work, and everyday tasks by building a strong, adaptable body. Our programs at Cave Training are designed to enhance movements you use outside the gym, making your fitness directly applicable to your life. The focus is on practical strength and conditioning rather than isolated muscle groups.",
+        "description": "Functional fitness personal training uses exercises that mimic daily movements to improve strength, balance, and mobility for real-life activities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

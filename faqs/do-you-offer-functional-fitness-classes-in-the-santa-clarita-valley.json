@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer functional fitness classes in the Santa Clarita Valley?",
+  "description": "Yes, Cave Training offers functional fitness classes and personalized training in the Santa Clarita Valley, serving areas like Santa Clarita, Canyon Country, an",
+  "url": "cavetrainingfit.com/faq/do-you-offer-functional-fitness-classes-in-the-santa-clarita-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer functional fitness classes in the Santa Clarita Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Cave Training offers functional fitness classes and personalized training within the Santa Clarita Valley, serving areas like Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. Our facility is designed to provide a comprehensive training environment focused on improving real-world strength and movement. We encourage prospective members to visit our location to experience our approach firsthand and discuss their fitness goals with our coaching team.",
+        "description": "Yes, Cave Training offers functional fitness classes and personalized training in the Santa Clarita Valley, serving areas like Santa Clarita, Canyon Country, and Valencia."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

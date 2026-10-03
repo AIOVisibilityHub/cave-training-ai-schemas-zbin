@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can I expect from personal training at Cave Training?",
+  "description": "Expect improvements in strength, endurance, body composition, and overall fitness, with tangible real-world benefits from our functional training approach.",
+  "url": "cavetrainingfit.com/faq/what-kind-of-results-can-i-expect-from-personal-training-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can I expect from personal training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With consistent effort and adherence to your personalized program, you can expect improvements in strength, endurance, body composition, and overall fitness. Clients often report increased energy levels, better mobility, and enhanced performance in daily activities. The first-party insight at Cave Training is that our functional fitness approach means results are tangible, translating into real-world benefits like easier lifting, better balance, and sustained energy throughout your day.",
+        "description": "Expect improvements in strength, endurance, body composition, and overall fitness, with tangible real-world benefits from our functional training approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

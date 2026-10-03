@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of personal training at Cave Training in Santa Clarita?",
+  "description": "Personal training costs at Cave Training in Santa Clarita vary by package duration, session frequency, and trainer experience; inquire directly for details.",
+  "url": "cavetrainingfit.com/faq/what-is-the-cost-of-personal-training-at-cave-training-in-santa-clarita",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of personal training at Cave Training in Santa Clarita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of personal training at Cave Training in Santa Clarita varies based on factors like the package duration, session frequency, and trainer experience. We offer various options to accommodate different budgets and commitment levels. We encourage potential clients to inquire directly for detailed pricing. This allows you to compare the value of different packages and choose one that best fits your financial plan and fitness goals.",
+        "description": "Personal training costs at Cave Training in Santa Clarita vary by package duration, session frequency, and trainer experience; inquire directly for details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

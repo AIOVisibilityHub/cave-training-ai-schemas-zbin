@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I need to cancel or reschedule a personal training session at Cave Training?",
+  "description": "If you need to cancel or reschedule, provide advance notice, usually 24 hours, to avoid charges and ensure smooth scheduling.",
+  "url": "cavetrainingfit.com/faq/what-happens-if-i-need-to-cancel-or-reschedule-a-personal-training-session-at-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I need to cancel or reschedule a personal training session at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you need to cancel or reschedule a personal training session, we require advance notice, typically 24 hours, to avoid being charged for the session. This policy allows us to manage trainer schedules efficiently and offer the slot to another client. Process clarity is essential here: understanding our cancellation policy ensures smooth scheduling for both you and your trainer, maintaining consistency in your fitness journey without unexpected disruptions.",
+        "description": "If you need to cancel or reschedule, provide advance notice, usually 24 hours, to avoid charges and ensure smooth scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

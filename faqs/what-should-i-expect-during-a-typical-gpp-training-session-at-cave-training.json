@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect during a typical GPP training session at Cave Training?",
+  "description": "A typical GPP session at Cave Training includes varied workouts with strength training, conditioning, gymnastics, and mobility, led by a coach. Expect a warm-up",
+  "url": "cavetrainingfit.com/faq/what-should-i-expect-during-a-typical-gpp-training-session-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect during a typical GPP training session at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical GPP training session at Cave Training involves a varied workout incorporating elements of strength training, metabolic conditioning, gymnastics, and mobility work. You can expect a structured class led by an experienced coach, starting with a warm-up, followed by skill work or strength development, and then a challenging conditioning piece. The focus is on proper movement mechanics and functional exercises that translate to real-world activities. Before your first session, we recommend arriving a few minutes early to discuss any physical limitations or goals with your coach, allowing them to tailor modifications as needed.",
+        "description": "A typical GPP session at Cave Training includes varied workouts with strength training, conditioning, gymnastics, and mobility, led by a coach. Expect a warm-up, skill work, and a conditioning piece; discuss any limitations with your coach beforehand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

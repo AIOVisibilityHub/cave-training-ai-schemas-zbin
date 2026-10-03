@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What equipment is typically used in a functional-fitness strength and conditioning gym like Cave Training?",
+  "description": "Functional-fitness gyms like Cave Training use diverse equipment such as barbells, kettlebells, and resistance bands to support dynamic, multi-joint movements a",
+  "url": "cavetrainingfit.com/faq/what-equipment-is-typically-used-in-a-functional-fitness-strength-and-conditioni",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What equipment is typically used in a functional-fitness strength and conditioning gym like Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a functional-fitness strength and conditioning gym like Cave Training, you'll typically find a variety of equipment designed to support dynamic, multi-joint movements rather than isolated muscle work. This often includes barbells, dumbbells, kettlebells, medicine balls, resistance bands, pull-up bars, and often equipment for plyometrics and agility drills. The focus is on versatility and movements that translate to real-world activities. We prioritize equipment that facilitates compound exercises and promotes full-body conditioning.",
+        "description": "Functional-fitness gyms like Cave Training use diverse equipment such as barbells, kettlebells, and resistance bands to support dynamic, multi-joint movements and full-body conditioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

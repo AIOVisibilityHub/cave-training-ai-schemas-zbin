@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can I expect from consistent participation in structured group workouts?",
+  "description": "Expect improvements in functional fitness, including strength, endurance, flexibility, and body composition, with consistent effort.",
+  "url": "cavetrainingfit.com/faq/what-kind-of-results-can-i-expect-from-consistent-participation-in-structured-gr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can I expect from consistent participation in structured group workouts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consistent participation in structured group workouts can lead to significant improvements in overall functional fitness, including increased strength, enhanced cardiovascular endurance, better flexibility, and improved body composition. Many participants also report increased energy levels and a stronger sense of community. Your specific results will vary based on effort, consistency, and adherence to healthy lifestyle choices outside the gym.",
+        "description": "Expect improvements in functional fitness, including strength, endurance, flexibility, and body composition, with consistent effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

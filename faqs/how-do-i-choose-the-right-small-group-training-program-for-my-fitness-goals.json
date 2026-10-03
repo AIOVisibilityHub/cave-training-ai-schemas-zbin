@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right small-group training program for my fitness goals?",
+  "description": "Choose a program by considering your fitness level, goals, and limitations; consult with Cave Training coaches to find the best fit.",
+  "url": "cavetrainingfit.com/faq/how-do-i-choose-the-right-small-group-training-program-for-my-fitness-goals",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right small-group training program for my fitness goals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To choose the right small-group training program, consider your current fitness level, specific goals (e.g., strength, endurance, weight loss), and any physical limitations. A preparation step involves discussing these factors with our Cave Training coaches during an initial consultation. They can help assess your needs and recommend a program that aligns with what you want to achieve, ensuring a good fit for your individual journey.",
+        "description": "Choose a program by considering your fitness level, goals, and limitations; consult with Cave Training coaches to find the best fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

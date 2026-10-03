@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is functional fitness training and how does it differ from traditional weightlifting?",
+  "description": "Functional fitness trains your body for daily activities by mimicking real-life movements, unlike traditional weightlifting that often isolates muscles.",
+  "url": "cavetrainingfit.com/faq/what-is-functional-fitness-training-and-how-does-it-differ-from-traditional-weig",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is functional fitness training and how does it differ from traditional weightlifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional fitness training focuses on exercises that mimic real-life movements, improving your strength, balance, and mobility for daily activities. Unlike traditional weightlifting, which often isolates specific muscles, functional training integrates multiple muscle groups and joints simultaneously. For example, a squat with an overhead press uses your legs, core, and shoulders together, similar to how you would lift and place an object on a high shelf. This approach helps reduce injury risk and enhances overall physical capability.",
+        "description": "Functional fitness trains your body for daily activities by mimicking real-life movements, unlike traditional weightlifting that often isolates muscles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

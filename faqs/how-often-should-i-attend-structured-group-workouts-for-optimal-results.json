@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I attend structured group workouts for optimal results?",
+  "description": "Attending 3-5 times per week is generally optimal for consistent progress, balancing training and recovery for best results.",
+  "url": "cavetrainingfit.com/faq/how-often-should-i-attend-structured-group-workouts-for-optimal-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I attend structured group workouts for optimal results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For optimal results, consistency is key, and most members benefit from attending structured group workouts 3-5 times per week. This frequency allows for adequate recovery while providing sufficient stimulus for adaptation and progress in strength, endurance, and body composition. Factors like your current fitness level, recovery capacity, and specific goals will influence the ideal frequency, so discussing this with a coach can help tailor a plan.",
+        "description": "Attending 3-5 times per week is generally optimal for consistent progress, balancing training and recovery for best results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
