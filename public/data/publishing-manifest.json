@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T00:13:34.728Z",
+  "generatedAt": "2026-10-03T00:22:05.267Z",
   "client": {
     "name": "Cave Training",
     "canonicalUrl": "https://cavetraining.aiovisibility.net",
@@ -101,7 +101,7 @@
   },
   "package": {
     "totalFiles": 1080,
-    "totalBytes": 2832635,
+    "totalBytes": 2908649,
     "stats": {
       "qna": 0,
       "faqs": 689,
@@ -5407,77 +5407,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16736,
+        "bytes": 22367,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 66031,
+        "bytes": 71514,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 41914,
+        "bytes": 47429,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 23963,
+        "bytes": 29244,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 14630,
+        "bytes": 20002,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 379388,
+        "bytes": 384786,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 16214,
+        "bytes": 21595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 20523,
+        "bytes": 25980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 51717,
+        "bytes": 57051,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 24632,
+        "bytes": 30095,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 7872,
+        "bytes": 13405,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 41940,
+        "bytes": 47444,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 16696,
+        "bytes": 22236,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 22204,
+        "bytes": 27638,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 68533,
+        "bytes": 74075,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -5489,7 +5489,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3236,
+        "bytes": 2649,
         "purpose": "LLM hint"
       },
       {
@@ -5509,32 +5509,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3171,
+        "bytes": 1580,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 446762,
+        "bytes": 445434,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 122156,
+        "bytes": 121569,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 122156,
+        "bytes": 121569,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3284,
+        "bytes": 2697,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 148869,
+        "bytes": 148282,
         "purpose": "Repository README"
       },
       {
@@ -5554,20 +5554,6 @@
       "url": "https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin",
       "pagesUrl": "https://cavetraining.aiovisibility.net/",
       "repo": "AIOVisibilityHub/cave-training-ai-schemas-zbin"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/cave-training-ai-schemas-oy88",
-      "pagesUrl": "https://cave-training-ai-schemas-oy88-fc134c.gitlab.io/"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/cave-training-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23112677"
     }
   }
 }
