@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T00:03:47.168Z",
+  "generatedAt": "2026-10-03T00:13:34.716Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,6 +37,42 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://cavetraining.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/cave-training-ai-schemas-oy88"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://cave-training-ai-schemas-oy88-fc134c.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/cave-training-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/23112677"
     }
   ],
   "destinations": {
@@ -44,6 +80,20 @@
       "url": "https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin",
       "pagesUrl": "https://cavetraining.aiovisibility.net/",
       "repo": "AIOVisibilityHub/cave-training-ai-schemas-zbin"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/cave-training-ai-schemas-oy88",
+      "pagesUrl": "https://cave-training-ai-schemas-oy88-fc134c.gitlab.io/"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/cave-training-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23112677"
     }
   }
 }

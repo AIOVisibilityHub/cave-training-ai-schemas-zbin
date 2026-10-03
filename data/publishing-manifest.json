@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T00:03:47.176Z",
+  "generatedAt": "2026-10-03T00:13:34.728Z",
   "client": {
     "name": "Cave Training",
     "canonicalUrl": "https://cavetraining.aiovisibility.net",
@@ -101,7 +101,7 @@
   },
   "package": {
     "totalFiles": 1080,
-    "totalBytes": 2826781,
+    "totalBytes": 2832635,
     "stats": {
       "qna": 0,
       "faqs": 689,
@@ -5489,7 +5489,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2649,
+        "bytes": 3236,
         "purpose": "LLM hint"
       },
       {
@@ -5509,32 +5509,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1580,
+        "bytes": 3171,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 445434,
+        "bytes": 446762,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 121569,
+        "bytes": 122156,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 121569,
+        "bytes": 122156,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2697,
+        "bytes": 3284,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 148282,
+        "bytes": 148869,
         "purpose": "Repository README"
       },
       {
@@ -5554,6 +5554,20 @@
       "url": "https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin",
       "pagesUrl": "https://cavetraining.aiovisibility.net/",
       "repo": "AIOVisibilityHub/cave-training-ai-schemas-zbin"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/cave-training-ai-schemas-oy88",
+      "pagesUrl": "https://cave-training-ai-schemas-oy88-fc134c.gitlab.io/"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/cave-training-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23112677"
     }
   }
 }
