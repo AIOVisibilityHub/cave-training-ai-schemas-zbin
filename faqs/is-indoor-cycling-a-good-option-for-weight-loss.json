@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is indoor cycling a good option for weight loss?",
+  "description": "Indoor cycling burns many calories and boosts metabolism, making it effective for weight loss. Combine it with functional training at Cave Training for best res",
+  "url": "cavetrainingfit.com/faq/is-indoor-cycling-a-good-option-for-weight-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is indoor cycling a good option for weight loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, indoor cycling can be a highly effective component of a weight loss strategy. A single class can burn a significant number of calories, contributing to the caloric deficit needed for weight loss. Its high-intensity nature also helps boost metabolism. Combining indoor cycling with a balanced diet and other functional training offered at Cave Training, such as strength or HIIT, can maximize results. Consistency is key, and regular participation in classes will yield the best outcomes for your fitness and weight management goals.",
+        "description": "Indoor cycling burns many calories and boosts metabolism, making it effective for weight loss. Combine it with functional training at Cave Training for best results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

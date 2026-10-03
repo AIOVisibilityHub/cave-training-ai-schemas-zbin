@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is full-body circuit training?",
+  "description": "Full-body circuit training is a workout method where you perform multiple exercises targeting different muscle groups consecutively with short rest periods.",
+  "url": "cavetrainingfit.com/faq/what-is-full-body-circuit-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is full-body circuit training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full-body circuit training involves a series of exercises performed one after another with minimal rest between them, targeting various muscle groups across the entire body. Once all exercises in the circuit are completed, a short rest period is taken before repeating the circuit. This method is efficient for improving both strength and cardiovascular fitness simultaneously. At Cave Training, our full-body circuit training is designed to maximize your workout time, offering a comprehensive session that challenges different parts of your body in one efficient visit.",
+        "description": "Full-body circuit training is a workout method where you perform multiple exercises targeting different muscle groups consecutively with short rest periods."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

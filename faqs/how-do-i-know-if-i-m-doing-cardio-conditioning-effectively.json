@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if I'm doing cardio conditioning effectively?",
+  "description": "Monitor your heart rate or perceived exertion. Your Cave Training coach can guide you on target heart rate zones.",
+  "url": "cavetrainingfit.com/faq/how-do-i-know-if-i-m-doing-cardio-conditioning-effectively",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if I'm doing cardio conditioning effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective cardio conditioning is typically measured by monitoring your heart rate or perceived exertion. During a session at Cave Training, your coach can guide you on target heart rate zones or help you understand the Rate of Perceived Exertion (RPE) scale. This ensures you're working hard enough to gain benefits without overexerting yourself.",
+        "description": "Monitor your heart rate or perceived exertion. Your Cave Training coach can guide you on target heart rate zones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

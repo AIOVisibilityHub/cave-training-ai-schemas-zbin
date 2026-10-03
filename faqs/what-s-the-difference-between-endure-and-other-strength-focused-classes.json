@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between ENDURE and other strength-focused classes?",
+  "description": "ENDURE focuses on cardiovascular endurance with lighter loads, while strength classes build muscle with heavier weights.",
+  "url": "cavetrainingfit.com/faq/what-s-the-difference-between-endure-and-other-strength-focused-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between ENDURE and other strength-focused classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ENDURE Classes primarily focus on cardiovascular conditioning, stamina, and muscular endurance, utilizing lighter loads and higher repetitions or sustained effort. In contrast, strength-focused classes typically emphasize building maximal strength and muscle mass through heavier weights, lower repetitions, and longer rest periods. The practical tradeoff is choosing which aspect of fitness you prioritize for a given session; ENDURE will improve your work capacity, while strength classes will increase your raw power. Both contribute to overall functional fitness.",
+        "description": "ENDURE focuses on cardiovascular endurance with lighter loads, while strength classes build muscle with heavier weights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I attend LIFT classes to see results?",
+  "description": "Attending 2-3 LIFT classes per week is recommended for noticeable results, ensuring consistent strength gains and muscle development.",
+  "url": "cavetrainingfit.com/faq/how-often-should-i-attend-lift-classes-to-see-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I attend LIFT classes to see results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To see noticeable results from LIFT classes, we generally recommend attending 2-3 times per week, allowing for adequate rest and recovery between sessions. Consistency is key for progressive strength gains and muscle development. Our coaches can help you integrate LIFT classes into your overall fitness routine, potentially combining them with other functional fitness offerings at Cave Training for a well-rounded program tailored to your goals.",
+        "description": "Attending 2-3 LIFT classes per week is recommended for noticeable results, ensuring consistent strength gains and muscle development."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

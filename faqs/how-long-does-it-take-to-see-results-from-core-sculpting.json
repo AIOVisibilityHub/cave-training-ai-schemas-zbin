@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from Core Sculpting?",
+  "description": "Results from Core Sculpting vary, but you might feel stronger in weeks and see visible changes in months, depending on consistency and diet.",
+  "url": "cavetrainingfit.com/faq/how-long-does-it-take-to-see-results-from-core-sculpting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from Core Sculpting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from Core Sculpting can vary based on individual factors like consistency, diet, and starting fitness level. Generally, clients may start to feel increased core strength and stability within a few weeks of consistent training. Visible changes in muscle definition typically require more time, often several months, combined with a balanced diet. Process Clarity: Our trainers help set realistic expectations and adjust your program to ensure sustainable progress, emphasizing functional gains over purely aesthetic ones.",
+        "description": "Results from Core Sculpting vary, but you might feel stronger in weeks and see visible changes in months, depending on consistency and diet."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

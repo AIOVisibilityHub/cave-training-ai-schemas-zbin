@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main benefits of indoor cycling classes?",
+  "description": "Indoor cycling provides a low-impact, high-intensity cardiovascular workout that builds endurance and strengthens muscles in a motivating group setting.",
+  "url": "cavetrainingfit.com/faq/what-are-the-main-benefits-of-indoor-cycling-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main benefits of indoor cycling classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indoor cycling classes offer a highly effective cardiovascular workout, building endurance and strengthening major muscle groups like your quads, hamstrings, glutes, and core. Because it's a low-impact exercise, it's gentle on joints while still burning significant calories. At Cave Training, our classes provide a structured environment with motivating instructors and music, helping you push your limits and achieve fitness goals in a dynamic group setting. It's an excellent way to maintain fitness regardless of weather conditions or outdoor safety concerns.",
+        "description": "Indoor cycling provides a low-impact, high-intensity cardiovascular workout that builds endurance and strengthens muscles in a motivating group setting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

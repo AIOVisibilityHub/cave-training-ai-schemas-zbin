@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do LIFT classes compare to personal training for strength building?",
+  "description": "LIFT classes offer structured strength training with coaching in a group, while personal training provides one-on-one customized programming.",
+  "url": "cavetrainingfit.com/faq/how-do-lift-classes-compare-to-personal-training-for-strength-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do LIFT classes compare to personal training for strength building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LIFT classes offer a cost-effective way to build strength in a motivating group environment with expert coaching on foundational movements. While personal training provides one-on-one customized programming and undivided attention, LIFT classes at Cave Training provide structured, progressive workouts and form correction within a small group, fostering community and accountability. The main tradeoff is the level of individual programming versus the dynamic group setting and shared experience.",
+        "description": "LIFT classes offer structured strength training with coaching in a group, while personal training provides one-on-one customized programming."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

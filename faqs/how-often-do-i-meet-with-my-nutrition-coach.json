@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often do I meet with my nutrition coach?",
+  "description": "Meeting frequency with your nutrition coach varies by program, typically weekly or bi-weekly. Consistent interaction ensures accountability, addresses challenge",
+  "url": "cavetrainingfit.com/faq/how-often-do-i-meet-with-my-nutrition-coach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often do I meet with my nutrition coach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The frequency of meetings with your nutrition coach depends on your chosen program and individual needs. Typically, clients meet with their coach weekly or bi-weekly for dedicated check-ins and adjustments. Some programs might include less frequent, but longer, monthly sessions. The consistent interaction is crucial for accountability, addressing challenges, and refining your personalized plan. During your initial consultation, we will discuss the optimal meeting schedule to best support your progress and ensure you feel well-supported throughout your journey.",
+        "description": "Meeting frequency with your nutrition coach varies by program, typically weekly or bi-weekly. Consistent interaction ensures accountability, addresses challenges, and refines your plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

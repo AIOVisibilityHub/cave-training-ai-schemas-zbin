@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of activities are typically included in functional-fitness based corporate wellness programs?",
+  "description": "Functional-fitness programs include bodyweight, resistance, mobility, and HIIT exercises, focusing on movements that improve everyday strength and reduce injury",
+  "url": "cavetrainingfit.com/faq/what-types-of-activities-are-typically-included-in-functional-fitness-based-corp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of activities are typically included in functional-fitness based corporate wellness programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional-fitness based corporate wellness programs focus on exercises that improve everyday movement and strength, directly translating to better performance and reduced injury risk outside the gym. Activities often include bodyweight training, resistance exercises, mobility work, and high-intensity interval training (HIIT). Unlike traditional gym routines, these programs emphasize movements like squatting, lifting, pushing, and pulling, which are essential for overall physical health and can be adapted to various fitness levels within a corporate setting.",
+        "description": "Functional-fitness programs include bodyweight, resistance, mobility, and HIIT exercises, focusing on movements that improve everyday strength and reduce injury risk for diverse fitness levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

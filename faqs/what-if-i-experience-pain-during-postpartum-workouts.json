@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I experience pain during postpartum workouts?",
+  "description": "Stop immediately if you feel pain during postpartum workouts. It signals an issue; communicate with your trainer for adjustments to prevent injury.",
+  "url": "cavetrainingfit.com/faq/what-if-i-experience-pain-during-postpartum-workouts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I experience pain during postpartum workouts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience any pain during postpartum workouts, it's crucial to stop immediately and assess the cause. Pain is often a sign that an exercise is too intense, performed incorrectly, or that you need more recovery time. Do not push through pain. Communicate any discomfort to your trainer. Our coaches at Cave Training are trained to observe and modify exercises to prevent injury and ensure your comfort and safety.",
+        "description": "Stop immediately if you feel pain during postpartum workouts. It signals an issue; communicate with your trainer for adjustments to prevent injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

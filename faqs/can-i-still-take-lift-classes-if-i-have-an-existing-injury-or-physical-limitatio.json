@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still take LIFT classes if I have an existing injury or physical limitation?",
+  "description": "Yes, but inform your coach about any injuries or limitations. They can provide modifications to ensure safe and effective participation.",
+  "url": "cavetrainingfit.com/faq/can-i-still-take-lift-classes-if-i-have-an-existing-injury-or-physical-limitatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still take LIFT classes if I have an existing injury or physical limitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have an existing injury or physical limitation, it's crucial to inform your LIFT class coach at Cave Training before the session begins. Our coaches are skilled in offering modifications and alternative exercises to accommodate various conditions, helping you to participate safely and effectively. We encourage consulting with your medical professional before starting any new exercise program, and we will work with you to ensure a modified, safe workout within your capabilities.",
+        "description": "Yes, but inform your coach about any injuries or limitations. They can provide modifications to ensure safe and effective participation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

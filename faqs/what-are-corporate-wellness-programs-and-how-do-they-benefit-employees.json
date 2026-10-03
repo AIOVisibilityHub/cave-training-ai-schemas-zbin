@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are corporate wellness programs and how do they benefit employees?",
+  "description": "Corporate wellness programs are employer-sponsored initiatives that promote employee health and well-being through activities like fitness classes and nutrition",
+  "url": "cavetrainingfit.com/faq/what-are-corporate-wellness-programs-and-how-do-they-benefit-employees",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are corporate wellness programs and how do they benefit employees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporate wellness programs are initiatives designed by employers to support the health and well-being of their staff. They can include fitness classes, nutrition workshops, stress management, and health screenings. Employees benefit from improved physical and mental health, increased energy levels, and better stress coping mechanisms. These programs often lead to a more positive work environment and can reduce employee absenteeism, contributing to a healthier and more engaged workforce.",
+        "description": "Corporate wellness programs are employer-sponsored initiatives that promote employee health and well-being through activities like fitness classes and nutrition workshops, leading to improved health and engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

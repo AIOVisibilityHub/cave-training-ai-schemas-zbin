@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is core conditioning suitable for beginners, or do I need prior fitness experience?",
+  "description": "Core conditioning is suitable for all levels, and our coaches can modify exercises for beginners to ensure safe and effective progression.",
+  "url": "cavetrainingfit.com/faq/is-core-conditioning-suitable-for-beginners-or-do-i-need-prior-fitness-experienc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is core conditioning suitable for beginners, or do I need prior fitness experience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core conditioning is suitable for all fitness levels, including beginners. Our coaches at Cave Training can modify exercises to match your current ability, ensuring safe and effective progression. The key is starting with foundational movements to build strength and stability before advancing to more complex exercises. We often recommend a foundational assessment to understand your starting point and tailor the conditioning appropriately, ensuring you build a strong core without overexertion or risk of injury.",
+        "description": "Core conditioning is suitable for all levels, and our coaches can modify exercises for beginners to ensure safe and effective progression."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

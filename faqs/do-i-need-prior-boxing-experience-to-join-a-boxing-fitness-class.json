@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need prior boxing experience to join a Boxing Fitness class?",
+  "description": "No prior boxing experience is needed; classes are designed for all fitness levels, and instructors will teach you the fundamentals.",
+  "url": "cavetrainingfit.com/faq/do-i-need-prior-boxing-experience-to-join-a-boxing-fitness-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need prior boxing experience to join a Boxing Fitness class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No prior boxing experience is required to join our Boxing Fitness classes. These classes are designed to be accessible for all fitness levels, from absolute beginners to those with some experience. Our certified instructors will guide you through the basic stances, movements, and punches, ensuring you learn proper technique. If you're new, arriving a few minutes early to speak with the instructor can help you get oriented and ensure a comfortable start.",
+        "description": "No prior boxing experience is needed; classes are designed for all fitness levels, and instructors will teach you the fundamentals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

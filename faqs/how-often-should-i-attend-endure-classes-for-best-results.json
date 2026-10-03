@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I attend ENDURE Classes for best results?",
+  "description": "Attend ENDURE Classes 2-4 times per week for optimal results, adjusting based on your fitness level and goals.",
+  "url": "cavetrainingfit.com/faq/how-often-should-i-attend-endure-classes-for-best-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I attend ENDURE Classes for best results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For optimal results, attending ENDURE Classes 2-4 times per week is generally recommended, depending on your current fitness level and overall training goals. This frequency allows for consistent progression in cardiovascular endurance and stamina without overtraining. The decision factor for how often to attend should be balanced with adequate recovery and any other fitness activities you participate in. Listen to your body and consult with our coaches if you need personalized advice on your training frequency.",
+        "description": "Attend ENDURE Classes 2-4 times per week for optimal results, adjusting based on your fitness level and goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of exercises are safe during pregnancy?",
+  "description": "Safe prenatal exercises are low-impact, like walking, swimming, and modified strength training. Cave Training's functional fitness adapts movements for safety a",
+  "url": "cavetrainingfit.com/faq/what-kind-of-exercises-are-safe-during-pregnancy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of exercises are safe during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safe exercises during pregnancy generally include low-impact activities such as walking, swimming, cycling, and strength training with modifications. Avoid exercises that involve lying flat on your back after the first trimester, high-impact movements, or activities with a risk of falling. At Cave Training, our functional fitness approach means we focus on controlled, adaptable movements that support your changing body, prioritizing stability and strength without compromising safety for you or your baby.",
+        "description": "Safe prenatal exercises are low-impact, like walking, swimming, and modified strength training. Cave Training's functional fitness adapts movements for safety and stability during pregnancy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

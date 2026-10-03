@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long are SHRED classes typically?",
+  "description": "SHRED classes at Cave Training typically last 45 to 60 minutes, including warm-up and cool-down.",
+  "url": "cavetrainingfit.com/faq/how-long-are-shred-classes-typically",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long are SHRED classes typically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SHRED classes at Cave Training typically run for 45 to 60 minutes. This duration includes a warm-up period at the beginning and a cool-down session at the end. The workout itself is structured to provide an effective, intense session within this timeframe, allowing participants to achieve a comprehensive workout efficiently. The specific timing can vary slightly depending on the day's programming.",
+        "description": "SHRED classes at Cave Training typically last 45 to 60 minutes, including warm-up and cool-down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

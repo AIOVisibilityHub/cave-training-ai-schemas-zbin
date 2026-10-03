@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring or wear to a SHRED class?",
+  "description": "Wear comfortable athletic clothing and supportive shoes, and bring a water bottle for SHRED classes.",
+  "url": "cavetrainingfit.com/faq/what-should-i-bring-or-wear-to-a-shred-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring or wear to a SHRED class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For SHRED classes, you should wear comfortable athletic clothing that allows for a full range of motion. Athletic shoes with good support are essential for the various movements involved. It's also recommended to bring a water bottle to stay hydrated throughout the class. A towel might be useful as these are high-intensity workouts. Personal gear like lifting gloves is optional but not required.",
+        "description": "Wear comfortable athletic clothing and supportive shoes, and bring a water bottle for SHRED classes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is team training suitable for individuals with previous injuries?",
+  "description": "Team training can accommodate previous injuries with coach modifications, but individuals should disclose injuries; severe cases might benefit from initial pers",
+  "url": "cavetrainingfit.com/faq/is-team-training-suitable-for-individuals-with-previous-injuries",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is team training suitable for individuals with previous injuries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Team training can be suitable for individuals with previous injuries, but it requires careful consideration and preparation. It's crucial to disclose any previous injuries to your coach before starting, as they can offer modified movements and exercises to prevent aggravation. A practical tradeoff is that while coaches can offer guidance, individuals with complex or severe injuries might find more benefit from starting with personal training to ensure a highly tailored and supervised rehabilitation process before integrating into a group setting.",
+        "description": "Team training can accommodate previous injuries with coach modifications, but individuals should disclose injuries; severe cases might benefit from initial personal training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

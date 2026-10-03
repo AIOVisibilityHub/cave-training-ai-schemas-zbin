@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is assault bike training and how does it benefit my fitness?",
+  "description": "Assault bike training is a full-body, high-intensity workout that improves cardiovascular endurance and muscular stamina with low impact. It's integrated into C",
+  "url": "cavetrainingfit.com/faq/what-is-assault-bike-training-and-how-does-it-benefit-my-fitness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is assault bike training and how does it benefit my fitness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assault bike training uses a fan bike that engages both your arms and legs simultaneously, providing a full-body, high-intensity workout. It's excellent for improving cardiovascular endurance, building muscular stamina, and burning calories efficiently with minimal impact on joints. At Cave Training, we integrate assault bike sessions into various functional fitness programs, helping you build a strong aerobic base crucial for overall performance and recovery. This training method allows for scalable intensity, making it suitable for all fitness levels from beginners to advanced athletes.",
+        "description": "Assault bike training is a full-body, high-intensity workout that improves cardiovascular endurance and muscular stamina with low impact. It's integrated into Cave Training's functional fitness programs for all levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

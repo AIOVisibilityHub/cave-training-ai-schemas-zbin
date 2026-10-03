@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I combine HIIT with other forms of exercise, like strength training?",
+  "description": "Yes, combining HIIT with strength training is highly beneficial for overall fitness. Schedule them on separate days or do strength training first to allow for a",
+  "url": "cavetrainingfit.com/faq/can-i-combine-hiit-with-other-forms-of-exercise-like-strength-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I combine HIIT with other forms of exercise, like strength training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, combining HIIT with other forms of exercise, such as strength training, is highly beneficial for overall fitness. Many athletes and fitness enthusiasts integrate both to develop a well-rounded physique and improve performance. A common approach is to schedule them on separate days to allow for adequate recovery for each muscle group, or to perform strength training before HIIT in the same session. At Cave Training, our functional fitness programming often blends elements of strength and conditioning, offering a holistic approach that can be tailored to your goals, effectively managing the balance between different training modalities.",
+        "description": "Yes, combining HIIT with strength training is highly beneficial for overall fitness. Schedule them on separate days or do strength training first to allow for adequate recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

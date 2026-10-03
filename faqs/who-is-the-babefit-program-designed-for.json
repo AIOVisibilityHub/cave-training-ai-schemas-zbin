@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who is the BabeFit Program designed for?",
+  "description": "The BabeFit Program is for women of all fitness levels seeking to improve strength and endurance in a supportive environment.",
+  "url": "cavetrainingfit.com/faq/who-is-the-babefit-program-designed-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the BabeFit Program designed for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BabeFit Program is designed for women of all fitness levels who are looking to improve their strength, endurance, and overall well-being. It is suitable for beginners wanting to start their fitness journey, as well as experienced individuals looking for a challenging and supportive environment. A practical tradeoff to consider is if you prefer co-ed training; this program offers a women-only focus, which might be a benefit or a limitation depending on your preference.",
+        "description": "The BabeFit Program is for women of all fitness levels seeking to improve strength and endurance in a supportive environment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

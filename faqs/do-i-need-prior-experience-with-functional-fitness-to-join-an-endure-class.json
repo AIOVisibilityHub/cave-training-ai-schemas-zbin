@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need prior experience with functional fitness to join an ENDURE Class?",
+  "description": "No prior functional fitness experience is needed; coaches provide modifications for all fitness levels.",
+  "url": "cavetrainingfit.com/faq/do-i-need-prior-experience-with-functional-fitness-to-join-an-endure-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need prior experience with functional fitness to join an ENDURE Class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, prior experience in functional fitness is not strictly required to join an ENDURE Class. Our coaches provide modifications and scaling options for all exercises, allowing individuals of varying fitness levels to participate safely and effectively. The main decision factor is your willingness to learn and push your physical limits; our team supports you in adapting movements to your current capabilities. This ensures a positive and challenging experience for everyone.",
+        "description": "No prior functional fitness experience is needed; coaches provide modifications for all fitness levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

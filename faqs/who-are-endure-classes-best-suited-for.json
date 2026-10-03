@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who are ENDURE Classes best suited for?",
+  "description": "ENDURE Classes are best for those seeking to improve cardiovascular health, stamina, and overall physical conditioning.",
+  "url": "cavetrainingfit.com/faq/who-are-endure-classes-best-suited-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who are ENDURE Classes best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ENDURE Classes are ideal for anyone looking to improve their cardiovascular health, increase stamina, and enhance their overall physical conditioning. These classes benefit athletes aiming to boost their endurance for specific sports, as well as individuals seeking to improve their general fitness levels for daily life. A practical tradeoff is that while it significantly improves cardiovascular capacity, it may not be the primary class for maximal strength gains. You might find a balance with other strength-focused classes to achieve a well-rounded fitness regimen.",
+        "description": "ENDURE Classes are best for those seeking to improve cardiovascular health, stamina, and overall physical conditioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

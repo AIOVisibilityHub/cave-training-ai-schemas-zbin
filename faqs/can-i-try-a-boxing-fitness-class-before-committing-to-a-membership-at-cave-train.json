@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I try a Boxing Fitness class before committing to a membership at Cave Training?",
+  "description": "Yes, you can try an introductory Boxing Fitness class at Cave Training before committing to a membership to ensure it's a good fit.",
+  "url": "cavetrainingfit.com/faq/can-i-try-a-boxing-fitness-class-before-committing-to-a-membership-at-cave-train",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I try a Boxing Fitness class before committing to a membership at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Cave Training offers introductory options for new clients to experience our Boxing Fitness classes before committing to a full membership. We encourage prospective members to try a class to ensure it's a good fit for their fitness goals and preferences. This allows you to meet our instructors, experience the class format, and assess our facility. Contact our front desk or visit our website for details on trial classes or introductory offers.",
+        "description": "Yes, you can try an introductory Boxing Fitness class at Cave Training before committing to a membership to ensure it's a good fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can cardio conditioning help with weight loss when combined with functional fitness?",
+  "description": "Yes, cardio burns calories and improves metabolism. Combined with functional fitness at Cave Training, it aids weight loss.",
+  "url": "cavetrainingfit.com/faq/can-cardio-conditioning-help-with-weight-loss-when-combined-with-functional-fitn",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can cardio conditioning help with weight loss when combined with functional fitness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, cardio conditioning is a key component of weight loss, as it burns calories and improves metabolism. When combined with the strength training and movement patterns of functional fitness at Cave Training, it creates a powerful synergy. Consistent effort in both areas will yield the best results for sustainable weight management.",
+        "description": "Yes, cardio burns calories and improves metabolism. Combined with functional fitness at Cave Training, it aids weight loss."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

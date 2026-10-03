@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is boxing technique training and who is it for?",
+  "description": "Boxing technique training teaches fundamental movements, footwork, and strategies of boxing, benefiting all fitness levels from beginners to experienced athlete",
+  "url": "cavetrainingfit.com/faq/what-is-boxing-technique-training-and-who-is-it-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is boxing technique training and who is it for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boxing technique training focuses on mastering the fundamental movements, footwork, and offensive/defensive strategies of boxing. This includes learning proper stance, how to throw jabs, crosses, hooks, and uppercuts effectively, and defensive maneuvers like slipping and weaving. It's suitable for individuals of all fitness levels, from beginners looking to learn a new skill and improve conditioning to experienced athletes aiming to refine their boxing prowess. At Cave Training, we emphasize functional fitness, so our boxing technique classes integrate these skills with overall physical development, benefiting anyone interested in dynamic, full-body workouts and practical self-defense.",
+        "description": "Boxing technique training teaches fundamental movements, footwork, and strategies of boxing, benefiting all fitness levels from beginners to experienced athletes looking to refine skills and improve conditioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

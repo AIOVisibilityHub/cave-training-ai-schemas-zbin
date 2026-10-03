@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the class schedule for boxing technique training at Cave Training?",
+  "description": "The class schedule for boxing technique training is available on our website or by contacting us. Check regularly for updates and arrive early for your first cl",
+  "url": "cavetrainingfit.com/faq/what-is-the-class-schedule-for-boxing-technique-training-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the class schedule for boxing technique training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our boxing technique training classes at Cave Training are integrated into our functional-fitness gym schedule. Specific class times can vary, so the best way to get the most current schedule is to visit our website or contact us directly. When planning to attend, a preparation tip is to check the schedule regularly, as class availability may change based on demand or seasonal adjustments. We encourage new participants to arrive a few minutes early to their first class to get familiar with the facility and meet the instructor, especially if they need to borrow or rent equipment.",
+        "description": "The class schedule for boxing technique training is available on our website or by contacting us. Check regularly for updates and arrive early for your first class, especially if you need equipment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

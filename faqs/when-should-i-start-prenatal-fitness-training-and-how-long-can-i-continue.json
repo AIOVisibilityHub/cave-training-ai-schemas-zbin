@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I start prenatal fitness training and how long can I continue?",
+  "description": "Start prenatal fitness training with doctor's clearance and continue until your due date. Consult our trainers at Cave Training to tailor the program to your sp",
+  "url": "cavetrainingfit.com/faq/when-should-i-start-prenatal-fitness-training-and-how-long-can-i-continue",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I start prenatal fitness training and how long can I continue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can typically start prenatal fitness training at any point during your pregnancy, provided you have your doctor's clearance. It's generally safe and beneficial to continue exercising up until your due date, adjusting intensity and movements as your body changes. At Cave Training, we recommend discussing your specific health and pregnancy status with our trainers who can help tailor the program to your current stage and comfort level, ensuring a safe and effective regimen.",
+        "description": "Start prenatal fitness training with doctor's clearance and continue until your due date. Consult our trainers at Cave Training to tailor the program to your specific pregnancy stage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

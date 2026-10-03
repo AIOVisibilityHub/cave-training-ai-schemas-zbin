@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical structure of a HIIT class at Cave Training?",
+  "description": "A HIIT class at Cave Training includes a dynamic warm-up, high-intensity exercise intervals with recovery, and a cool-down. This structured process optimizes pe",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-structure-of-a-hiit-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical structure of a HIIT class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical HIIT class at Cave Training begins with a dynamic warm-up to prepare your body for intense activity, including mobility drills and light cardio. This is followed by the main workout, which consists of several rounds of high-intensity exercises interspersed with brief recovery periods. Exercises may include a mix of bodyweight movements, free weights, or functional equipment, tailored to our functional fitness approach. The class concludes with a cool-down and stretching to aid recovery. This structured process ensures a safe and effective session, optimizing your performance and minimizing post-workout soreness.",
+        "description": "A HIIT class at Cave Training includes a dynamic warm-up, high-intensity exercise intervals with recovery, and a cool-down. This structured process optimizes performance and recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

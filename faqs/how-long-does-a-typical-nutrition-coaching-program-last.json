@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical nutrition coaching program last?",
+  "description": "Program length varies, but many clients see results in 3-6 months. We offer flexible options for both short-term guidance and long-term support depending on ind",
+  "url": "cavetrainingfit.com/faq/how-long-does-a-typical-nutrition-coaching-program-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical nutrition coaching program last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a nutrition coaching program can vary based on individual goals and progress. While some clients achieve their initial objectives within 3-6 months, others may prefer ongoing support for longer-term maintenance or to address more complex habits. We offer flexible program structures that can be adapted to your needs, whether you're looking for short-term guidance or continuous accountability. Your coach will discuss a recommended timeline during your initial consultation based on your specific objectives and commitment to the process.",
+        "description": "Program length varies, but many clients see results in 3-6 months. We offer flexible options for both short-term guidance and long-term support depending on individual goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

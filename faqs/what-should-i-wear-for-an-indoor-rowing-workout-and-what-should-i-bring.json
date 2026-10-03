@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I wear for an indoor rowing workout, and what should I bring?",
+  "description": "Wear comfortable athletic clothing that allows movement. Bring a water bottle for hydration and a towel for sweat.",
+  "url": "cavetrainingfit.com/faq/what-should-i-wear-for-an-indoor-rowing-workout-and-what-should-i-bring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I wear for an indoor rowing workout, and what should I bring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an indoor rowing workout, wear comfortable, athletic clothing that allows for a full range of motion, particularly in the legs and hips. Avoid excessively baggy shorts or tops that could get caught in the machine's moving parts. Bring a water bottle to stay hydrated, and a small towel is often useful to wipe away sweat. Proper hydration before and during your workout is key to maintaining performance.",
+        "description": "Wear comfortable athletic clothing that allows movement. Bring a water bottle for hydration and a towel for sweat."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

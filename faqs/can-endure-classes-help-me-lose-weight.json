@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ENDURE Classes help me lose weight?",
+  "description": "Yes, ENDURE Classes can aid weight loss by burning calories and boosting metabolism, especially with a balanced diet.",
+  "url": "cavetrainingfit.com/faq/can-endure-classes-help-me-lose-weight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ENDURE Classes help me lose weight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, ENDURE Classes can contribute to weight loss as they are high-intensity workouts that burn a significant amount of calories and improve your metabolic rate. Regular participation in these classes, combined with a balanced diet, can help create the caloric deficit needed for weight management. The practical tradeoff is that while effective for calorie expenditure, optimal weight loss also requires consistent nutritional choices outside the gym. It's a key component of a holistic approach.",
+        "description": "Yes, ENDURE Classes can aid weight loss by burning calories and boosting metabolism, especially with a balanced diet."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

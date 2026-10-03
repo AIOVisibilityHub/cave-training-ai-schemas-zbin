@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I have an existing injury or physical limitation?",
+  "description": "Inform your coach about any existing injuries or limitations so they can provide suitable modifications and ensure your safety during SHRED classes.",
+  "url": "cavetrainingfit.com/faq/what-if-i-have-an-existing-injury-or-physical-limitation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I have an existing injury or physical limitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have an existing injury or physical limitation, it's crucial to inform your coach before the SHRED class begins. This allows them to provide appropriate modifications or alternative exercises to ensure your safety and effectiveness during the workout. The practical tradeoff is that you might perform different movements or use lower intensity than others, but this prioritizes injury prevention and allows you to continue training. Consulting with a healthcare professional before starting any new fitness program with an injury is also recommended.",
+        "description": "Inform your coach about any existing injuries or limitations so they can provide suitable modifications and ensure your safety during SHRED classes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

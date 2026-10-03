@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is nutrition coaching suitable for someone new to functional fitness?",
+  "description": "Yes, nutrition coaching is ideal for those new to functional fitness. It helps you fuel your body effectively from the start, supports recovery, and optimizes p",
+  "url": "cavetrainingfit.com/faq/is-nutrition-coaching-suitable-for-someone-new-to-functional-fitness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is nutrition coaching suitable for someone new to functional fitness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, nutrition coaching is highly beneficial for individuals new to functional fitness. Proper nutrition is foundational to supporting the demands of intense training, aiding in recovery, and optimizing performance. A coach can help you understand how to fuel your body effectively from the start, preventing common pitfalls and accelerating your progress. This integrated approach ensures your dietary habits align with your physical activity, maximizing your results and reducing the risk of injury as you build strength and endurance.",
+        "description": "Yes, nutrition coaching is ideal for those new to functional fitness. It helps you fuel your body effectively from the start, supports recovery, and optimizes performance for better results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

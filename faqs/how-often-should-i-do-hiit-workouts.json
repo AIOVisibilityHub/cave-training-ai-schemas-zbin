@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I do HIIT workouts?",
+  "description": "Most people benefit from 2-3 HIIT sessions per week with rest days in between. This allows for adequate recovery and adaptation.",
+  "url": "cavetrainingfit.com/faq/how-often-should-i-do-hiit-workouts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I do HIIT workouts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal frequency for HIIT workouts depends on your fitness level and recovery capacity. Generally, 2-3 sessions per week are recommended, with at least 24-48 hours of rest between sessions to allow for muscle recovery and adaptation. Overtraining with HIIT can lead to diminished results or injury, so listening to your body is crucial. At Cave Training, our coaches can help you integrate HIIT into a balanced weekly schedule that includes strength, mobility, and recovery, ensuring you maximize benefits without burnout.",
+        "description": "Most people benefit from 2-3 HIIT sessions per week with rest days in between. This allows for adequate recovery and adaptation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

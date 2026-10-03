@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Cave Training ensure safety during indoor cycling classes?",
+  "description": "Cave Training ensures safety with trained instructors who assist with proper bike setup, guide on correct form, and maintain equipment. They can modify workouts",
+  "url": "cavetrainingfit.com/faq/how-does-cave-training-ensure-safety-during-indoor-cycling-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Cave Training ensure safety during indoor cycling classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensuring your safety is paramount at Cave Training. Our instructors are trained to guide participants through proper bike setup, including seat height, handlebar position, and pedal strapping, which is crucial for preventing injury and maximizing comfort. They provide clear instructions on proper form and technique throughout the class, emphasizing safe pedaling mechanics and resistance application. Additionally, our bikes are regularly maintained to ensure optimal working condition. If you ever feel discomfort or need assistance during a class, our instructors are readily available to help adjust your setup or modify your workout.",
+        "description": "Cave Training ensures safety with trained instructors who assist with proper bike setup, guide on correct form, and maintain equipment. They can modify workouts for comfort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

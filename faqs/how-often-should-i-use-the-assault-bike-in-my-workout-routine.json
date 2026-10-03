@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I use the assault bike in my workout routine?",
+  "description": "Frequency depends on your fitness level and goals, but 2-3 times per week is common. Cave Training coaches can help tailor frequency to your specific program an",
+  "url": "cavetrainingfit.com/faq/how-often-should-i-use-the-assault-bike-in-my-workout-routine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I use the assault bike in my workout routine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal frequency for assault bike training depends on your current fitness level and training goals. For general fitness, incorporating it 2-3 times per week as part of an interval session or as a warm-up/cool-down can be effective. Athletes focusing on conditioning might use it more frequently. At Cave Training, our coaches can help you determine the optimal frequency and intensity, considering your overall training load and recovery needs, to prevent overtraining and maximize your results. Consistency is more important than excessive volume initially.",
+        "description": "Frequency depends on your fitness level and goals, but 2-3 times per week is common. Cave Training coaches can help tailor frequency to your specific program and recovery needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

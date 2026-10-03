@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to sign up in advance for SHRED classes at Cave Training?",
+  "description": "Yes, it is recommended to sign up in advance for SHRED classes to secure your spot and help with class planning.",
+  "url": "cavetrainingfit.com/faq/do-i-need-to-sign-up-in-advance-for-shred-classes-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to sign up in advance for SHRED classes at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is recommended to sign up in advance for SHRED classes to secure your spot, as class sizes may be limited. Advance registration also helps coaches prepare for attendance numbers and ensures a smooth start to each session. You can typically register through our online schedule or by contacting Cave Training directly. Walk-ins might be accommodated if space is available, but pre-registration is preferred.",
+        "description": "Yes, it is recommended to sign up in advance for SHRED classes to secure your spot and help with class planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

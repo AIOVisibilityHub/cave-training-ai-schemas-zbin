@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are SHRED classes offered in Santa Clarita, Canyon Country, Valencia, Saugus, or Newhall?",
+  "description": "SHRED classes are offered at Cave Training's primary gym, which serves the Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall areas.",
+  "url": "cavetrainingfit.com/faq/are-shred-classes-offered-in-santa-clarita-canyon-country-valencia-saugus-or-new",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are SHRED classes offered in Santa Clarita, Canyon Country, Valencia, Saugus, or Newhall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training offers SHRED classes at our facility serving the Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall areas. All our class offerings, including SHRED, are held at our primary gym location. There are no separate SHRED class locations within these individual cities; rather, our single gym serves the entire region. Please check our schedule for class times specific to our facility.",
+        "description": "SHRED classes are offered at Cave Training's primary gym, which serves the Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

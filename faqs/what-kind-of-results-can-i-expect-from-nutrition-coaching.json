@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can I expect from nutrition coaching?",
+  "description": "Expect improved energy, better body composition, enhanced athletic performance, and a deeper understanding of healthy eating. Results are individualized based o",
+  "url": "cavetrainingfit.com/faq/what-kind-of-results-can-i-expect-from-nutrition-coaching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can I expect from nutrition coaching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With consistent effort and adherence to the program, clients typically experience improved energy levels, better body composition (e.g., fat loss, muscle gain), enhanced athletic performance, and a deeper understanding of healthy eating. Results are highly individualized and depend on factors like your starting point, consistency, and specific goals. Your coach will help you set realistic expectations and track progress using objective measures, providing ongoing feedback to keep you motivated and on track toward achieving your desired outcomes.",
+        "description": "Expect improved energy, better body composition, enhanced athletic performance, and a deeper understanding of healthy eating. Results are individualized based on effort and goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

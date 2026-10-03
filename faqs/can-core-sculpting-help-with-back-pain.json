@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Core Sculpting help with back pain?",
+  "description": "Core Sculpting can help alleviate back pain by strengthening core muscles for better spinal support and posture, but consult a doctor for severe pain.",
+  "url": "cavetrainingfit.com/faq/can-core-sculpting-help-with-back-pain",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Core Sculpting help with back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strengthening your core through Core Sculpting can often alleviate and prevent certain types of back pain, especially those related to weak core muscles and poor posture. A strong core provides better support for your spine, improving stability and reducing strain. However, it's essential to distinguish between general back discomfort and specific medical conditions. First-Party Insight: While many clients experience reduced back pain, we always recommend consulting with a healthcare professional for chronic or severe back pain before starting any new exercise program to ensure it's appropriate for your specific condition.",
+        "description": "Core Sculpting can help alleviate back pain by strengthening core muscles for better spinal support and posture, but consult a doctor for severe pain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

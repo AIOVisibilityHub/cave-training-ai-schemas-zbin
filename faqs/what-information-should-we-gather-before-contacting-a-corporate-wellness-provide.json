@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should we gather before contacting a corporate wellness provider?",
+  "description": "Before contacting a provider, gather employee demographics, budget, desired program duration, and specific health goals. This helps tailor a relevant and effect",
+  "url": "cavetrainingfit.com/faq/what-information-should-we-gather-before-contacting-a-corporate-wellness-provide",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should we gather before contacting a corporate wellness provider?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contacting a corporate wellness provider, you should gather information about your company's demographics, including the number of employees, average age, and any known health concerns or interests. Also, consider your budget, desired program duration, and any specific goals, such as reducing stress or improving physical fitness. This preparation helps the provider tailor a relevant proposal, ensuring that any functional fitness program, for example, is designed to meet your team's specific needs and achieve measurable outcomes.",
+        "description": "Before contacting a provider, gather employee demographics, budget, desired program duration, and specific health goals. This helps tailor a relevant and effective program proposal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

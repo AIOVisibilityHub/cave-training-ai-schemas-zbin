@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of cardio conditioning exercises does Cave Training offer or recommend?",
+  "description": "Cave Training offers HIIT, steady-state cycling, running, and rowing for cardio, scaled to all fitness levels.",
+  "url": "cavetrainingfit.com/faq/what-types-of-cardio-conditioning-exercises-does-cave-training-offer-or-recommen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of cardio conditioning exercises does Cave Training offer or recommend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training incorporates various cardio conditioning methods, including high-intensity interval training (HIIT), steady-state cycling, running, and rowing. We focus on movements that enhance functional capacity and can be scaled to all fitness levels. Our coaches help you select exercises that align with your personal goals and physical capabilities.",
+        "description": "Cave Training offers HIIT, steady-state cycling, running, and rowing for cardio, scaled to all fitness levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

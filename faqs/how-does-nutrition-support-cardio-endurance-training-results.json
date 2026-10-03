@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does nutrition support cardio endurance training results?",
+  "description": "Nutrition supports cardio endurance by fueling workouts with carbohydrates, aiding recovery with protein, and maintaining hydration. Cave Training coaches can o",
+  "url": "cavetrainingfit.com/faq/how-does-nutrition-support-cardio-endurance-training-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does nutrition support cardio endurance training results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nutrition plays a critical role in optimizing cardio endurance training results by providing the necessary fuel for workouts and aiding in recovery. Adequate carbohydrates are essential for energy, while protein supports muscle repair and growth, and healthy fats contribute to sustained energy and overall health. Proper hydration is also paramount. At Cave Training, while we don't offer direct nutrition coaching, our coaches can offer general guidance on fueling your body effectively to support your performance and recovery goals, helping you make informed dietary choices.",
+        "description": "Nutrition supports cardio endurance by fueling workouts with carbohydrates, aiding recovery with protein, and maintaining hydration. Cave Training coaches can offer general guidance on effective fueling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

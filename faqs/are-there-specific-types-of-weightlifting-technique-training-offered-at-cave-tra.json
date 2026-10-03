@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific types of weightlifting technique training offered at Cave Training?",
+  "description": "We offer technique training for Olympic Weightlifting (snatch, clean & jerk) and Powerlifting (squat, bench, deadlift) variations, as well as foundational movem",
+  "url": "cavetrainingfit.com/faq/are-there-specific-types-of-weightlifting-technique-training-offered-at-cave-tra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific types of weightlifting technique training offered at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training offers technique training across various weightlifting disciplines relevant to functional fitness, including Olympic Weightlifting (snatch and clean & jerk) and Powerlifting (squat, bench press, deadlift) variations. We also focus on foundational movement patterns that underpin all strength training. The specific focus often depends on the class or individual coaching plan, ensuring a well-rounded approach to functional strength and skill development.",
+        "description": "We offer technique training for Olympic Weightlifting (snatch, clean & jerk) and Powerlifting (squat, bench, deadlift) variations, as well as foundational movement patterns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

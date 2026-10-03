@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When can I start postpartum fitness training after giving birth?",
+  "description": "Most can start light exercise six to eight weeks postpartum, but always get medical clearance from your doctor first.",
+  "url": "cavetrainingfit.com/faq/when-can-i-start-postpartum-fitness-training-after-giving-birth",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When can I start postpartum fitness training after giving birth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you can begin light postpartum exercise six weeks after a vaginal birth or eight weeks after a C-section, provided your doctor clears you. It's crucial to consult your healthcare provider before starting any new fitness regimen, especially if you experience pain, bleeding, or have complications. At Cave Training, we emphasize a gradual return to fitness, focusing on core recovery and pelvic floor health as initial steps.",
+        "description": "Most can start light exercise six to eight weeks postpartum, but always get medical clearance from your doctor first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

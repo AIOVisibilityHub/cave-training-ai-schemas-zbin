@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between steady-state cardio and HIIT for functional fitness goals?",
+  "description": "Steady-state builds aerobic endurance, while HIIT improves both aerobic and anaerobic capacity. Cave Training uses both for well-rounded fitness.",
+  "url": "cavetrainingfit.com/faq/what-s-the-difference-between-steady-state-cardio-and-hiit-for-functional-fitnes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between steady-state cardio and HIIT for functional fitness goals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steady-state cardio involves maintaining a consistent, moderate intensity for an extended period, improving aerobic endurance. HIIT (High-Intensity Interval Training) alternates short bursts of intense exercise with brief recovery periods, enhancing both aerobic and anaerobic capacity. At Cave Training, we often incorporate both to develop a well-rounded functional fitness base, and the choice depends on your specific goals and time availability.",
+        "description": "Steady-state builds aerobic endurance, while HIIT improves both aerobic and anaerobic capacity. Cave Training uses both for well-rounded fitness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

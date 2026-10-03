@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical class structure for an indoor rowing session at a functional fitness gym?",
+  "description": "Indoor rowing classes typically involve a warm-up, technique instruction, varied rowing intervals combined with functional exercises, and a cool-down.",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-class-structure-for-an-indoor-rowing-session-at-a-functional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical class structure for an indoor rowing session at a functional fitness gym?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical indoor rowing class at a functional fitness gym like Cave Training usually begins with a dynamic warm-up to prepare the body, followed by instruction on proper rowing technique and stroke mechanics. The main workout segment often combines rowing intervals of varying intensity with functional strength exercises performed off the rower. The session concludes with a cool-down and stretching. Understanding this structure helps you prepare mentally and physically for the class, maximizing your engagement and results.",
+        "description": "Indoor rowing classes typically involve a warm-up, technique instruction, varied rowing intervals combined with functional exercises, and a cool-down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

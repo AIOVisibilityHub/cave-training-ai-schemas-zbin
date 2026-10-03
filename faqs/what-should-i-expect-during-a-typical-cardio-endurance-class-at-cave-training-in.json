@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect during a typical cardio endurance class at Cave Training in Santa Clarita?",
+  "description": "A typical cardio endurance class in Santa Clarita involves warm-ups, varied endurance circuits using equipment like rowers and assault bikes, and a cool-down. C",
+  "url": "cavetrainingfit.com/faq/what-should-i-expect-during-a-typical-cardio-endurance-class-at-cave-training-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect during a typical cardio endurance class at Cave Training in Santa Clarita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a cardio endurance class at Cave Training in Santa Clarita, you can expect a dynamic and challenging session led by our expert coaches. Classes typically begin with a thorough warm-up, followed by varied endurance-focused circuits or workouts incorporating equipment like Concept2 rowers, SkiErgs, assault bikes, and bodyweight movements. The session concludes with a cool-down. Our programs are designed to be engaging, provide measurable results, and are adaptable to different fitness levels within the same class, ensuring everyone gets an effective workout.",
+        "description": "A typical cardio endurance class in Santa Clarita involves warm-ups, varied endurance circuits using equipment like rowers and assault bikes, and a cool-down. Coaches adapt to all fitness levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

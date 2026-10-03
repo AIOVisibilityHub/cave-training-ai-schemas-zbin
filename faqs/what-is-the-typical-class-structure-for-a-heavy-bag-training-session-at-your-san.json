@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical class structure for a heavy bag training session at your Santa Clarita gym?",
+  "description": "Heavy bag classes in Santa Clarita typically include a warm-up, rounds of striking drills with coach guidance, and a cool-down, focusing on technique and fitnes",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-class-structure-for-a-heavy-bag-training-session-at-your-san",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical class structure for a heavy bag training session at your Santa Clarita gym?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical heavy bag training session at our Santa Clarita gym begins with a dynamic warm-up to prepare your body. This is followed by rounds of striking drills on the heavy bag, often incorporating various punch combinations, footwork, and defensive movements. Coaches provide guidance and corrections throughout. The session concludes with a cool-down and stretching. The structure ensures a full-body workout while focusing on proper technique in a controlled environment.",
+        "description": "Heavy bag classes in Santa Clarita typically include a warm-up, rounds of striking drills with coach guidance, and a cool-down, focusing on technique and fitness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

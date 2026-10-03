@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I expect in a typical Boxing Fitness class at Cave Training?",
+  "description": "Cave Training's Boxing Fitness classes combine fundamental boxing techniques with conditioning exercises for a full-body workout that builds endurance, strength",
+  "url": "cavetrainingfit.com/faq/what-can-i-expect-in-a-typical-boxing-fitness-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I expect in a typical Boxing Fitness class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Boxing Fitness classes at Cave Training focus on enhancing cardiovascular endurance, strength, and agility through boxing-inspired workouts. You'll learn fundamental boxing techniques like jabs, crosses, hooks, and uppercuts, combined with conditioning exercises. Classes typically involve warm-ups, shadow boxing, pad work with partners or instructors, and core strengthening, all designed to give you a full-body workout. Beginners are welcome, and instructors demonstrate proper form to prevent injury and maximize effectiveness.",
+        "description": "Cave Training's Boxing Fitness classes combine fundamental boxing techniques with conditioning exercises for a full-body workout that builds endurance, strength, and agility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is assault bike training suitable for beginners, or do I need prior fitness experience?",
+  "description": "Yes, assault bike training is beginner-friendly because resistance scales with effort and it's low-impact. Cave Training coaches guide beginners on proper form",
+  "url": "cavetrainingfit.com/faq/is-assault-bike-training-suitable-for-beginners-or-do-i-need-prior-fitness-exper",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is assault bike training suitable for beginners, or do I need prior fitness experience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assault bike training is highly suitable for beginners, as the resistance is directly tied to your effort, meaning you control the intensity. There's no complex technique to master, and it's a low-impact exercise, reducing the risk of injury. At Cave Training, our coaches emphasize proper form and gradual progression, starting with shorter intervals and lower intensity. We ensure beginners feel comfortable and understand how to effectively use the bike to build foundational fitness without being overwhelmed, making it an accessible entry point to functional training.",
+        "description": "Yes, assault bike training is beginner-friendly because resistance scales with effort and it's low-impact. Cave Training coaches guide beginners on proper form and gradual progression."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

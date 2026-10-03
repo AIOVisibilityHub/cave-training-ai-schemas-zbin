@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do LIFT classes in Santa Clarita offer different schedules or focus areas?",
+  "description": "LIFT classes in Santa Clarita are offered at various times with differing daily focus areas. Check our schedule for details.",
+  "url": "cavetrainingfit.com/faq/do-lift-classes-in-santa-clarita-offer-different-schedules-or-focus-areas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do LIFT classes in Santa Clarita offer different schedules or focus areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cave Training in Santa Clarita offers LIFT classes at various times throughout the week to accommodate different schedules. While all LIFT classes focus on foundational strength, the specific exercises and muscle groups targeted may vary from day to day or week to week to ensure comprehensive development. Check our current schedule online or at the gym for the most up-to-date timings and to see if specific sessions have a particular emphasis.",
+        "description": "LIFT classes in Santa Clarita are offered at various times with differing daily focus areas. Check our schedule for details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

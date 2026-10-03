@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who are LIFT classes suitable for at Cave Training?",
+  "description": "LIFT classes are suitable for all fitness levels, from beginners to experienced lifters, who want to build strength and improve technique with personalized coac",
+  "url": "cavetrainingfit.com/faq/who-are-lift-classes-suitable-for-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who are LIFT classes suitable for at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LIFT classes are suitable for individuals looking to increase strength, build muscle, and improve their lifting technique, regardless of their current fitness level. We offer scalable workouts that can be modified for beginners as well as challenged for more experienced lifters. Our coaches at Cave Training provide personalized attention to ensure proper form and progression, making it a great option for those new to weightlifting or those wanting to refine their skills in a structured environment.",
+        "description": "LIFT classes are suitable for all fitness levels, from beginners to experienced lifters, who want to build strength and improve technique with personalized coaching."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

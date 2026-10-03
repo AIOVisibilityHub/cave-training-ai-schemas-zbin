@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is High-Intensity Interval Training (HIIT)?",
+  "description": "HIIT is a training method that combines short bursts of intense exercise with brief recovery periods. It's designed to improve fitness and burn calories efficie",
+  "url": "cavetrainingfit.com/faq/what-is-high-intensity-interval-training-hiit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is High-Intensity Interval Training (HIIT)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-Intensity Interval Training (HIIT) is a training method that alternates short bursts of intense anaerobic exercise with brief periods of low-intensity recovery. This approach aims to maximize calorie burn and improve cardiovascular fitness in a shorter amount of time compared to traditional steady-state cardio. At Cave Training, our HIIT sessions are integrated into a functional fitness framework, focusing on movements that prepare your body for real-world activities. We emphasize proper form and progressive overload to ensure safety and effectiveness.",
+        "description": "HIIT is a training method that combines short bursts of intense exercise with brief recovery periods. It's designed to improve fitness and burn calories efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

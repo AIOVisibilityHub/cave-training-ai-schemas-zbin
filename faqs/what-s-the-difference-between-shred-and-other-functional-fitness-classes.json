@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between SHRED and other functional fitness classes?",
+  "description": "SHRED classes focus on high-intensity interval training (HIIT) for overall conditioning, while other classes might target specific strength or skill development",
+  "url": "cavetrainingfit.com/faq/what-s-the-difference-between-shred-and-other-functional-fitness-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between SHRED and other functional fitness classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SHRED classes are specifically designed as high-intensity interval training (HIIT) to maximize cardiovascular and muscular endurance benefits in a shorter timeframe. Other functional fitness classes might focus more on specific strength training, skill development, or longer, lower-intensity endurance work. The primary tradeoff with SHRED is the emphasis on explosive, varied movements for overall conditioning versus specialized strength or skill focus found in other programs. Consider your personal fitness goals when choosing between them.",
+        "description": "SHRED classes focus on high-intensity interval training (HIIT) for overall conditioning, while other classes might target specific strength or skill development."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

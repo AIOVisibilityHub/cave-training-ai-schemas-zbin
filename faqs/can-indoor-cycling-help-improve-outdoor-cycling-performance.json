@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can indoor cycling help improve outdoor cycling performance?",
+  "description": "Yes, indoor cycling builds strength, endurance, and cardiovascular fitness in a controlled setting, which directly improves outdoor cycling performance on roads",
+  "url": "cavetrainingfit.com/faq/can-indoor-cycling-help-improve-outdoor-cycling-performance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can indoor cycling help improve outdoor cycling performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Indoor cycling is an excellent cross-training tool for outdoor cyclists. It allows you to build leg strength, endurance, and cardiovascular fitness in a controlled environment, regardless of weather. You can practice specific drills, high-cadence spinning, and sustained power efforts without traffic or terrain interruptions. The controlled resistance on indoor bikes at Cave Training helps simulate various outdoor conditions, translating directly to improved performance, stamina, and efficiency when you hit the roads or trails of the Santa Clarita Valley.",
+        "description": "Yes, indoor cycling builds strength, endurance, and cardiovascular fitness in a controlled setting, which directly improves outdoor cycling performance on roads and trails."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

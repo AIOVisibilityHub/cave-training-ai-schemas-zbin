@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of exercises are included in the BabeFit Program?",
+  "description": "The BabeFit Program includes functional fitness exercises like strength training, metabolic conditioning, and bodyweight movements.",
+  "url": "cavetrainingfit.com/faq/what-types-of-exercises-are-included-in-the-babefit-program",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of exercises are included in the BabeFit Program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BabeFit Program incorporates a variety of functional fitness exercises, including strength training, metabolic conditioning, and bodyweight movements. These exercises are chosen to build practical strength and endurance that translates to daily activities. Process clarity: Workouts typically involve a warm-up, skill or strength component, and a high-intensity conditioning piece, designed to challenge participants progressively.",
+        "description": "The BabeFit Program includes functional fitness exercises like strength training, metabolic conditioning, and bodyweight movements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

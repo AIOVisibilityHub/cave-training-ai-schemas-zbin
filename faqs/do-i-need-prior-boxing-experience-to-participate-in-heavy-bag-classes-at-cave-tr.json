@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need prior boxing experience to participate in heavy bag classes at Cave Training?",
+  "description": "No prior boxing experience is needed for heavy bag classes at Cave Training; our coaches teach foundational techniques to all fitness levels.",
+  "url": "cavetrainingfit.com/faq/do-i-need-prior-boxing-experience-to-participate-in-heavy-bag-classes-at-cave-tr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need prior boxing experience to participate in heavy bag classes at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No prior boxing experience is required to participate in heavy bag training at Cave Training. Our classes are designed to accommodate all fitness levels, including complete beginners. Our coaches provide foundational instruction on proper stance, basic punches, and movement to ensure you learn safe and effective techniques. This inclusive approach ensures everyone can benefit from the high-intensity workout and skill development.",
+        "description": "No prior boxing experience is needed for heavy bag classes at Cave Training; our coaches teach foundational techniques to all fitness levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

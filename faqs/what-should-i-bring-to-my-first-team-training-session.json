@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring to my first team training session?",
+  "description": "Bring comfortable athletic wear, athletic shoes, and a water bottle to your first team training session; all functional fitness equipment is provided.",
+  "url": "cavetrainingfit.com/faq/what-should-i-bring-to-my-first-team-training-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring to my first team training session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first team training session at Cave Training, you should bring comfortable athletic wear, appropriate athletic shoes, and a water bottle to stay hydrated. Considering the functional movements involved, footwear that offers good stability and support is recommended. You may also want to bring a small towel. There are no special requirements for equipment as all necessary gear for functional fitness, such as kettlebells and ropes, is provided by the gym.",
+        "description": "Bring comfortable athletic wear, athletic shoes, and a water bottle to your first team training session; all functional fitness equipment is provided."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

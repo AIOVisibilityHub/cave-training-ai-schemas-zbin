@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do to prepare for my first Core Sculpting class?",
+  "description": "Before your first Core Sculpting class, hydrate, eat a light meal, wear comfortable clothes, and inform your instructor of any injuries or concerns.",
+  "url": "cavetrainingfit.com/faq/what-should-i-do-to-prepare-for-my-first-core-sculpting-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do to prepare for my first Core Sculpting class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for your first Core Sculpting class at Cave Training, ensure you're well-hydrated and have eaten a light, nutritious meal a couple of hours beforehand. Wear comfortable athletic attire that allows for a full range of motion. Preparation: It's also helpful to inform your instructor of any pre-existing conditions, injuries, or concerns you may have before the session begins. This allows them to offer appropriate modifications and ensure your safety and comfort during the workout.",
+        "description": "Before your first Core Sculpting class, hydrate, eat a light meal, wear comfortable clothes, and inform your instructor of any injuries or concerns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who are SHRED classes suitable for?",
+  "description": "SHRED classes are suitable for individuals at various fitness levels looking to improve strength, endurance, and overall fitness, with modifications available.",
+  "url": "cavetrainingfit.com/faq/who-are-shred-classes-suitable-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who are SHRED classes suitable for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SHRED classes are suitable for individuals looking to improve their fitness, increase strength, and boost endurance. While they are high-intensity, exercises can often be modified to accommodate various fitness levels, from beginners to advanced athletes. It's helpful to have a basic level of fitness and no current injuries that would be exacerbated by high-impact or intense movements. Discussing any concerns with a coach beforehand can help determine if it's the right fit.",
+        "description": "SHRED classes are suitable for individuals at various fitness levels looking to improve strength, endurance, and overall fitness, with modifications available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

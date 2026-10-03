@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are LIFT classes included in Cave Training's standard membership, or are they an additional cost?",
+  "description": "LIFT classes are usually included in Cave Training's membership options. Check our website or contact us for specific membership pricing and details.",
+  "url": "cavetrainingfit.com/faq/are-lift-classes-included-in-cave-training-s-standard-membership-or-are-they-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are LIFT classes included in Cave Training's standard membership, or are they an additional cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LIFT classes are typically included as part of Cave Training's various membership options. We offer different tiers of membership that grant access to our full range of functional fitness classes, including LIFT. For specific details on membership pricing and what each tier includes, we encourage you to visit our website or speak with a staff member directly. This allows you to choose the best option based on your desired class frequency and other gym benefits.",
+        "description": "LIFT classes are usually included in Cave Training's membership options. Check our website or contact us for specific membership pricing and details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

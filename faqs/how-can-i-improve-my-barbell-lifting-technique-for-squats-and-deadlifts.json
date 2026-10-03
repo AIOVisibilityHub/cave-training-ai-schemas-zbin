@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I improve my barbell lifting technique for squats and deadlifts?",
+  "description": "Improve barbell technique for squats and deadlifts through consistent practice, focusing on core engagement, proper spinal alignment, and seeking coach feedback",
+  "url": "cavetrainingfit.com/faq/how-can-i-improve-my-barbell-lifting-technique-for-squats-and-deadlifts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I improve my barbell lifting technique for squats and deadlifts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Improving barbell technique requires consistent practice and attention to fundamental principles. For squats, focus on maintaining a strong core, keeping your chest up, and driving through your heels. For deadlifts, emphasize a neutral spine, engaging your lats, and using your legs to initiate the lift. Filming yourself and receiving feedback from an experienced coach can highlight areas for improvement. At Cave Training, our functional fitness approach means we break down these complex movements into manageable steps, focusing on mobility and stability prerequisites.",
+        "description": "Improve barbell technique for squats and deadlifts through consistent practice, focusing on core engagement, proper spinal alignment, and seeking coach feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

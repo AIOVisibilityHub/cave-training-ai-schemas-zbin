@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special equipment for cardio conditioning at Cave Training?",
+  "description": "No, Cave Training provides all necessary equipment for cardio conditioning, including treadmills, rowers, and bikes.",
+  "url": "cavetrainingfit.com/faq/do-i-need-special-equipment-for-cardio-conditioning-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special equipment for cardio conditioning at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you don't need to bring special equipment. Cave Training is fully equipped with all the necessary tools for effective cardio conditioning, including treadmills, rowers, bikes, and open space for bodyweight and plyometric exercises. Just come ready to move, and we'll provide the rest.",
+        "description": "No, Cave Training provides all necessary equipment for cardio conditioning, including treadmills, rowers, and bikes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What equipment do I need for boxing technique training sessions?",
+  "description": "You will need hand wraps and boxing gloves for technique training. Consider whether to purchase your own equipment for comfort and hygiene or use loaner gear in",
+  "url": "cavetrainingfit.com/faq/what-equipment-do-i-need-for-boxing-technique-training-sessions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What equipment do I need for boxing technique training sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get started with boxing technique training, you will typically need hand wraps to protect your knuckles and wrists, and boxing gloves. For sparring or more advanced pad work, a mouthguard and headgear might also be recommended. When preparing for your first class at Cave Training, consider if you want to purchase your own gloves for hygiene and comfort or if you prefer to use loaner equipment initially to see if the sport is a good fit. Having your own gear ensures a consistent experience and proper fit, which can significantly impact your comfort and progress during training.",
+        "description": "You will need hand wraps and boxing gloves for technique training. Consider whether to purchase your own equipment for comfort and hygiene or use loaner gear initially."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

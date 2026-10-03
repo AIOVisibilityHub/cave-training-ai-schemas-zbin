@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long is a typical full-body circuit training session?",
+  "description": "Typical full-body circuit training sessions at Cave Training last 45-60 minutes, including warm-up and cool-down.",
+  "url": "cavetrainingfit.com/faq/how-long-is-a-typical-full-body-circuit-training-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long is a typical full-body circuit training session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical full-body circuit training session at Cave Training usually lasts between 45 to 60 minutes, including a warm-up and cool-down period. The duration can vary slightly depending on the specific program or class structure, but the core circuit work is designed to be efficient. This focused timeframe allows individuals in areas like Canyon Country and Valencia to fit a high-intensity, effective workout into busy schedules without committing to excessively long gym visits.",
+        "description": "Typical full-body circuit training sessions at Cave Training last 45-60 minutes, including warm-up and cool-down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

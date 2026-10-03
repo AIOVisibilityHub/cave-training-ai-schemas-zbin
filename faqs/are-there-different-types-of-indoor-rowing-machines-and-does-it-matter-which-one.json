@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there different types of indoor rowing machines, and does it matter which one I use?",
+  "description": "Different rowing machines use air, magnetic, water, or hydraulic resistance. The type affects the 'feel' and noise. At Cave Training, we primarily use air or wa",
+  "url": "cavetrainingfit.com/faq/are-there-different-types-of-indoor-rowing-machines-and-does-it-matter-which-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there different types of indoor rowing machines, and does it matter which one I use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are several types of indoor rowing machines, primarily differentiated by their resistance mechanisms: air, magnetic, water, and hydraulic. While all provide a good workout, they offer different 'feels.' Air and water rowers closely mimic on-water rowing, magnetic rowers are quieter, and hydraulic piston rowers are often more compact. At Cave Training, we typically utilize air or water resistance rowers for a realistic feel and consistent workout experience, but the best choice often comes down to personal preference for sound and resistance feedback.",
+        "description": "Different rowing machines use air, magnetic, water, or hydraulic resistance. The type affects the 'feel' and noise. At Cave Training, we primarily use air or water rowers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

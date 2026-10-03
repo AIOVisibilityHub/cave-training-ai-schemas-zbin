@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are ENDURE Classes at Cave Training?",
+  "description": "ENDURE Classes at Cave Training build cardiovascular endurance and stamina using functional fitness movements for sustained physical effort.",
+  "url": "cavetrainingfit.com/faq/what-are-endure-classes-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are ENDURE Classes at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ENDURE Classes at Cave Training focus on building cardiovascular endurance and stamina through various functional fitness movements. These classes are designed to improve your ability to sustain physical effort over longer durations, complementing strength-focused workouts. The program integrates elements like running, rowing, cycling, and bodyweight exercises, providing a balanced approach to fitness without solely relying on heavy weights. It's suitable for individuals looking to enhance their overall conditioning and improve performance in everyday activities or other sports.",
+        "description": "ENDURE Classes at Cave Training build cardiovascular endurance and stamina using functional fitness movements for sustained physical effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

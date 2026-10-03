@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between group classes and one-on-one coaching for technique training?",
+  "description": "Group classes offer community learning, while one-on-one coaching provides personalized attention for specific needs. Choose based on desired focus and learning",
+  "url": "cavetrainingfit.com/faq/what-s-the-difference-between-group-classes-and-one-on-one-coaching-for-techniqu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between group classes and one-on-one coaching for technique training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Group classes at Cave Training provide a supportive community environment where you can learn general technique principles and practice alongside peers. One-on-one coaching, however, offers highly individualized attention tailored specifically to your unique strengths, weaknesses, and goals. For complex issues or rapid improvement, one-on-one coaching allows for deeper analysis and immediate, focused adjustments, while group classes are great for consistent practice and learning common cues.",
+        "description": "Group classes offer community learning, while one-on-one coaching provides personalized attention for specific needs. Choose based on desired focus and learning style."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I combine Core Sculpting with other fitness classes at Cave Training?",
+  "description": "Yes, combining Core Sculpting with other Cave Training classes is encouraged; it enhances performance in other workouts, but ensure sufficient recovery.",
+  "url": "cavetrainingfit.com/faq/can-i-combine-core-sculpting-with-other-fitness-classes-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I combine Core Sculpting with other fitness classes at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, combining Core Sculpting with other fitness classes at Cave Training is highly encouraged and can lead to more comprehensive fitness gains. Core strength is fundamental to almost all movements, so enhancing it will benefit your performance in other functional fitness classes, cardio, or strength training. Decision Factor: When combining classes, consider your overall weekly workout volume and ensure you're allowing for sufficient recovery. Our trainers can help you create a balanced schedule that integrates Core Sculpting effectively with your other fitness goals without overtraining.",
+        "description": "Yes, combining Core Sculpting with other Cave Training classes is encouraged; it enhances performance in other workouts, but ensure sufficient recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

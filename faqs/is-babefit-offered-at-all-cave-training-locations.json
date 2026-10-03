@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is BabeFit offered at all Cave Training locations?",
+  "description": "Availability of the BabeFit Program at specific Cave Training locations should be confirmed directly with the gym.",
+  "url": "cavetrainingfit.com/faq/is-babefit-offered-at-all-cave-training-locations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is BabeFit offered at all Cave Training locations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Based on the provided information, Cave Training serves multiple areas, including Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. To confirm if the BabeFit Program is offered specifically at your nearest location, it is best to directly contact Cave Training. Contextual relevance: Program availability can sometimes vary by branch, so a direct inquiry ensures accurate information for your specific area.",
+        "description": "Availability of the BabeFit Program at specific Cave Training locations should be confirmed directly with the gym."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

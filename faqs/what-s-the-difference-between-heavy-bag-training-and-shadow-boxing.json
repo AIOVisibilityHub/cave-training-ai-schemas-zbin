@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between heavy bag training and shadow boxing?",
+  "description": "Heavy bag training uses resistance to build power and speed, while shadow boxing focuses on technique and movement without impact. Both are valuable for differe",
+  "url": "cavetrainingfit.com/faq/what-s-the-difference-between-heavy-bag-training-and-shadow-boxing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between heavy bag training and shadow boxing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heavy bag training involves striking a physical target, which develops punching power, speed, and endurance due to the resistance. It also helps refine technique by providing immediate feedback on impact. Shadow boxing, conversely, focuses on technique, footwork, and movement patterns without resistance. It's excellent for practicing combinations and maintaining flow. Both are valuable, but heavy bag training adds the element of resistance, building functional power crucial for many of our programs at Cave Training.",
+        "description": "Heavy bag training uses resistance to build power and speed, while shadow boxing focuses on technique and movement without impact. Both are valuable for different aspects of training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do ENDURE Classes typically last?",
+  "description": "ENDURE Classes at Cave Training typically last 60 minutes, including warm-up, workout, and cool-down.",
+  "url": "cavetrainingfit.com/faq/how-long-do-endure-classes-typically-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do ENDURE Classes typically last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ENDURE Classes at Cave Training are typically 60 minutes in duration. This includes a warm-up period, the main workout, and a cool-down stretch. The consistent class length allows for effective programming that progressively builds your endurance without overtraining. Understanding this process clarity helps you plan your schedule and manage your expectations for each session.",
+        "description": "ENDURE Classes at Cave Training typically last 60 minutes, including warm-up, workout, and cool-down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

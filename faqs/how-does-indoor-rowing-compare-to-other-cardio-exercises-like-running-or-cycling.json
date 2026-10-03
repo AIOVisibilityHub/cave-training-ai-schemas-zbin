@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does indoor rowing compare to other cardio exercises like running or cycling?",
+  "description": "Rowing engages more muscles (85%) than running or cycling, offering full-body cardio and strength with lower joint impact.",
+  "url": "cavetrainingfit.com/faq/how-does-indoor-rowing-compare-to-other-cardio-exercises-like-running-or-cycling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does indoor rowing compare to other cardio exercises like running or cycling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indoor rowing stands out by simultaneously engaging over 85% of your muscles, providing both cardiovascular conditioning and strength training in one session, unlike running or cycling which are primarily lower-body focused. It's also non-weight bearing, reducing impact on joints compared to running. When choosing between these, consider your fitness goals and joint health. If you're looking for a comprehensive, low-impact workout, rowing offers a distinct advantage.",
+        "description": "Rowing engages more muscles (85%) than running or cycling, offering full-body cardio and strength with lower joint impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I sign up for an ENDURE Class at Cave Training?",
+  "description": "Sign up for an ENDURE Class via the Cave Training website or member app by viewing schedules and booking your spot.",
+  "url": "cavetrainingfit.com/faq/how-do-i-sign-up-for-an-endure-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I sign up for an ENDURE Class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can sign up for an ENDURE Class by visiting the Cave Training website or using our dedicated member app. From there, you can view the class schedule for your preferred location (Canyon Country, Valencia, Saugus, or Newhall) and book your spot. We recommend signing up in advance, especially for popular classes, to ensure your spot. This process clarity streamlines your ability to attend and begin your fitness journey.",
+        "description": "Sign up for an ENDURE Class via the Cave Training website or member app by viewing schedules and booking your spot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

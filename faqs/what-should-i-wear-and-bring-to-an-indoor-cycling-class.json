@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I wear and bring to an indoor cycling class?",
+  "description": "Wear athletic clothing, bring a water bottle and a towel. Padded shorts and stiff-soled shoes are recommended. Arrive early at Cave Training for bike setup.",
+  "url": "cavetrainingfit.com/faq/what-should-i-wear-and-bring-to-an-indoor-cycling-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I wear and bring to an indoor cycling class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For indoor cycling, wear comfortable, breathable athletic clothing that allows for a full range of motion. Padded cycling shorts can enhance comfort, especially for longer sessions. Stiff-soled athletic shoes are recommended; some bikes may accommodate cycling-specific shoes with SPD cleats. It's crucial to bring a water bottle to stay hydrated throughout the workout. Many participants also bring a small towel to manage sweat. At Cave Training, we recommend arriving a few minutes early for your first class so our team can help you properly set up your bike for optimal comfort and safety.",
+        "description": "Wear athletic clothing, bring a water bottle and a towel. Padded shorts and stiff-soled shoes are recommended. Arrive early at Cave Training for bike setup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

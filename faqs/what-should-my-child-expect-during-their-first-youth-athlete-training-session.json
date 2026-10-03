@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should my child expect during their first youth athlete training session?",
+  "description": "The first session involves an assessment of fitness and movement patterns to tailor a personalized program. Your child can expect a supportive environment focus",
+  "url": "cavetrainingfit.com/faq/what-should-my-child-expect-during-their-first-youth-athlete-training-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should my child expect during their first youth athlete training session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During the first youth athlete training session at Cave Training, your child will undergo an initial assessment to evaluate their current fitness level, movement patterns, and identify any specific strengths or areas for improvement. This helps us understand their athletic baseline and allows our coaches to begin tailoring a personalized program. They can expect a supportive and encouraging environment where the focus is on safe, effective movement and building a positive relationship with fitness. We'll also discuss their athletic goals and any relevant injury history to ensure a comprehensive approach.",
+        "description": "The first session involves an assessment of fitness and movement patterns to tailor a personalized program. Your child can expect a supportive environment focused on safe movement and goal setting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special equipment for cardio endurance training at Cave Training?",
+  "description": "No, you don't need special equipment. Cave Training provides all necessary functional fitness tools, including rowers, bikes, and kettlebells. Just bring comfor",
+  "url": "cavetrainingfit.com/faq/do-i-need-special-equipment-for-cardio-endurance-training-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special equipment for cardio endurance training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you do not need to bring any special equipment for cardio endurance training at Cave Training. Our facility is fully equipped with everything necessary for a comprehensive functional fitness workout, including Concept2 rowers, SkiErgs, assault bikes, kettlebells, jump ropes, and various other functional training tools. Just come dressed in comfortable workout attire and athletic shoes, and we'll provide all the equipment you need to achieve your endurance goals effectively.",
+        "description": "No, you don't need special equipment. Cave Training provides all necessary functional fitness tools, including rowers, bikes, and kettlebells. Just bring comfortable workout attire."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

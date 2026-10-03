@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are SHRED classes at Cave Training?",
+  "description": "SHRED classes at Cave Training are high-intensity interval training (HIIT) sessions focused on improving cardiovascular fitness, strength, and muscular enduranc",
+  "url": "cavetrainingfit.com/faq/what-are-shred-classes-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are SHRED classes at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SHRED classes at Cave Training are high-intensity interval training (HIIT) sessions designed to improve cardiovascular fitness, build strength, and increase muscular endurance. These classes typically involve a dynamic mix of exercises using various equipment and bodyweight movements. The goal is to maximize calorie burn and improve overall conditioning in a time-efficient format. Each session is structured to challenge participants at their own fitness level.",
+        "description": "SHRED classes at Cave Training are high-intensity interval training (HIIT) sessions focused on improving cardiovascular fitness, strength, and muscular endurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

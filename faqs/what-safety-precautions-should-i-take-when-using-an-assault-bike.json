@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What safety precautions should I take when using an assault bike?",
+  "description": "Maintain proper seat height and form, engage your core, and listen to your body. Cave Training coaches provide guidance and monitor sessions for safe training.",
+  "url": "cavetrainingfit.com/faq/what-safety-precautions-should-i-take-when-using-an-assault-bike",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What safety precautions should I take when using an assault bike?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety on an assault bike involves maintaining proper form and understanding your limits. Ensure your seat height is adjusted correctly so there's a slight bend in your knee at the bottom of the pedal stroke. Keep your core engaged and avoid hunching over. It's crucial to listen to your body, especially during high-intensity intervals, and take breaks if you feel lightheaded or excessively fatigued. At Cave Training, our certified coaches provide initial guidance on setup and technique, and monitor sessions to ensure everyone trains safely and effectively, minimizing injury risk.",
+        "description": "Maintain proper seat height and form, engage your core, and listen to your body. Cave Training coaches provide guidance and monitor sessions for safe training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

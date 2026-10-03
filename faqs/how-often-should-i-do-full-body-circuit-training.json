@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I do full-body circuit training?",
+  "description": "Most people benefit from 2-4 full-body circuit training sessions per week, adjusting based on fitness level and recovery.",
+  "url": "cavetrainingfit.com/faq/how-often-should-i-do-full-body-circuit-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I do full-body circuit training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For optimal results, adults typically benefit from engaging in full-body circuit training 2-4 times per week, allowing for adequate rest and recovery between sessions. The frequency can be adjusted based on your fitness level, goals, and how quickly your body recovers. If you are new to circuit training, starting with 2-3 sessions per week is a good approach to allow your body to adapt. Our coaches at Cave Training can help you determine the ideal frequency to integrate into your fitness routine.",
+        "description": "Most people benefit from 2-4 full-body circuit training sessions per week, adjusting based on fitness level and recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can I expect from consistent team training?",
+  "description": "Consistent team training can improve strength, endurance, flexibility, and body composition, with individual results varying based on effort and lifestyle.",
+  "url": "cavetrainingfit.com/faq/what-kind-of-results-can-i-expect-from-consistent-team-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can I expect from consistent team training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consistent participation in team training at Cave Training can lead to improvements in overall strength, cardiovascular endurance, flexibility, and body composition. Many participants also experience enhanced coordination and agility due to the varied functional movements. A practical tradeoff is that individual results vary based on personal effort, consistency, and adherence to healthy lifestyle habits outside of the gym.",
+        "description": "Consistent team training can improve strength, endurance, flexibility, and body composition, with individual results varying based on effort and lifestyle."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

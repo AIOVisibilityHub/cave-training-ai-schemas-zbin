@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for in a prenatal fitness trainer or gym?",
+  "description": "Look for a prenatal fitness trainer or gym with specialized certifications and experience in prenatal exercise. Cave Training's functional fitness approach ensu",
+  "url": "cavetrainingfit.com/faq/what-should-i-look-for-in-a-prenatal-fitness-trainer-or-gym",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for in a prenatal fitness trainer or gym?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a prenatal fitness trainer or gym, seek those with specialized certifications in prenatal and postpartum exercise, demonstrating specific knowledge of pregnancy-related physiological changes and safety protocols. Beyond certifications, consider a trainer's experience and their approach to individualized programming. At Cave Training, our focus on functional fitness and experienced coaches means we emphasize proper form and adaptable workouts, which are critical for safely navigating the different stages of pregnancy and ensuring effective training.",
+        "description": "Look for a prenatal fitness trainer or gym with specialized certifications and experience in prenatal exercise. Cave Training's functional fitness approach ensures proper form and adaptable, safe workouts throughout pregnancy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

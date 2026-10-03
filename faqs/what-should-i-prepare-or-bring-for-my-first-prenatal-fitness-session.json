@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare or bring for my first prenatal fitness session?",
+  "description": "Bring medical clearance, comfortable clothes, water, and a towel. For your first Cave Training session, be ready to discuss goals so coaches can tailor your fun",
+  "url": "cavetrainingfit.com/faq/what-should-i-prepare-or-bring-for-my-first-prenatal-fitness-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare or bring for my first prenatal fitness session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your first session, ensure you have medical clearance from your doctor. Wear comfortable clothing that allows for movement and supportive athletic shoes. Bring a water bottle to stay hydrated, and perhaps a small towel. For your initial consultation at Cave Training, it's also helpful to come prepared to discuss any specific concerns or goals you have, as this allows our coaches to better understand your needs and tailor your functional fitness program effectively.",
+        "description": "Bring medical clearance, comfortable clothes, water, and a towel. For your first Cave Training session, be ready to discuss goals so coaches can tailor your functional fitness program."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

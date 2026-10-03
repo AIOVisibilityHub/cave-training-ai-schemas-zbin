@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are LIFT classes and how do they differ from other strength training?",
+  "description": "LIFT classes at Cave Training are dedicated strength training sessions using weights to build muscle and strength through progressive overload, focusing on prop",
+  "url": "cavetrainingfit.com/faq/what-are-lift-classes-and-how-do-they-differ-from-other-strength-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are LIFT classes and how do they differ from other strength training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LIFT classes at Cave Training focus on building foundational strength and muscle using barbells, dumbbells, and kettlebells, often incorporating compound movements. Unlike general fitness classes that might blend cardio and strength, LIFT sessions are dedicated solely to progressive overload in strength training. This structured approach helps participants safely increase their lifting capacity and improve overall body composition, with a strong emphasis on proper form coached by certified instructors.",
+        "description": "LIFT classes at Cave Training are dedicated strength training sessions using weights to build muscle and strength through progressive overload, focusing on proper form."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

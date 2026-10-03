@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do nutrition coaching remotely if I live in Santa Clarita?",
+  "description": "Yes, residents of Santa Clarita and surrounding areas can participate in remote nutrition coaching via video calls for convenience and consistent support.",
+  "url": "cavetrainingfit.com/faq/can-i-do-nutrition-coaching-remotely-if-i-live-in-santa-clarita",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do nutrition coaching remotely if I live in Santa Clarita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you live in Santa Clarita, Canyon Country, Valencia, Saugus, or Newhall, you can still participate in our nutrition coaching programs remotely. While Cave Training is located in Santa Clarita, we offer virtual coaching sessions via video calls, allowing you to connect with your coach from the comfort of your home or office. This flexibility ensures you receive consistent support and guidance without needing to commute, making it convenient to integrate nutrition coaching into your busy schedule.",
+        "description": "Yes, residents of Santa Clarita and surrounding areas can participate in remote nutrition coaching via video calls for convenience and consistent support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

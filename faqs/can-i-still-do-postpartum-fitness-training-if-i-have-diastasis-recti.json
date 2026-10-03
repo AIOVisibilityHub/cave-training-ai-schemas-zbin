@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still do postpartum fitness training if I have diastasis recti?",
+  "description": "Yes, but with targeted, modified exercises that avoid excessive abdominal strain, guided by a qualified trainer to promote healing and strengthen deep core musc",
+  "url": "cavetrainingfit.com/faq/can-i-still-do-postpartum-fitness-training-if-i-have-diastasis-recti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still do postpartum fitness training if I have diastasis recti?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can and should engage in appropriate fitness training with diastasis recti, but it requires specific, targeted exercises and modifications. Avoid traditional crunches or exercises that put excessive strain on the abdominal wall. A qualified trainer can help identify the severity of your diastasis recti and guide you through exercises that promote healing and strengthen the deep core muscles safely. At Cave Training, we prioritize proper form and progressive overload to address this condition effectively.",
+        "description": "Yes, but with targeted, modified exercises that avoid excessive abdominal strain, guided by a qualified trainer to promote healing and strengthen deep core muscles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

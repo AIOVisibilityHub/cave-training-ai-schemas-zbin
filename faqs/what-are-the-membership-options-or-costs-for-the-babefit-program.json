@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the membership options or costs for the BabeFit Program?",
+  "description": "Membership options and costs for the BabeFit Program are available directly from Cave Training and can vary.",
+  "url": "cavetrainingfit.com/faq/what-are-the-membership-options-or-costs-for-the-babefit-program",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the membership options or costs for the BabeFit Program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Information regarding specific membership options and costs for the BabeFit Program is typically available directly from Cave Training. Pricing structures can vary based on factors like membership duration, frequency of attendance, and any current promotional offers. Decision factor: When inquiring, consider your desired commitment level and budget to help the gym staff recommend the best option for your needs.",
+        "description": "Membership options and costs for the BabeFit Program are available directly from Cave Training and can vary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

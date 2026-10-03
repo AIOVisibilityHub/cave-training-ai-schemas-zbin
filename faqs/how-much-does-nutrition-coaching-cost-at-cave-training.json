@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does nutrition coaching cost at Cave Training?",
+  "description": "Nutrition coaching costs at Cave Training vary by program and support level. Schedule a free consultation to get a personalized quote based on your specific goa",
+  "url": "cavetrainingfit.com/faq/how-much-does-nutrition-coaching-cost-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does nutrition coaching cost at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pricing for nutrition coaching at Cave Training depends on the specific program and level of support you choose. We offer different packages, which may include varying frequencies of one-on-one sessions, meal plan customization, and access to coaching resources. We recommend scheduling a free consultation to discuss your goals and receive a personalized quote. This allows us to assess your needs and recommend the most suitable and cost-effective option for you.",
+        "description": "Nutrition coaching costs at Cave Training vary by program and support level. Schedule a free consultation to get a personalized quote based on your specific goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

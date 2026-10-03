@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do corporate wellness programs cost?",
+  "description": "Corporate wellness program costs vary by scope, duration, participants, and activities. Consider the value of tailored functional fitness programs that offer sp",
+  "url": "cavetrainingfit.com/faq/how-much-do-corporate-wellness-programs-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do corporate wellness programs cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of corporate wellness programs varies widely based on the program's scope, duration, number of participants, and types of activities offered. Some providers charge per employee per month, while others offer package deals for specific services like on-site classes or workshops. Initial setup fees may also apply. When budgeting, consider that investing in tailored functional fitness programs, such as those offered by Cave Training, might provide more value through specific training relevant to daily physical demands, potentially reducing long-term health-related costs.",
+        "description": "Corporate wellness program costs vary by scope, duration, participants, and activities. Consider the value of tailored functional fitness programs that offer specific training benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

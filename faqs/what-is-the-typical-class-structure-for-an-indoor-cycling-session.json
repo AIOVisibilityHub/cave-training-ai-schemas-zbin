@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical class structure for an indoor cycling session?",
+  "description": "Indoor cycling classes at Cave Training start with a warm-up, proceed through varied intervals of climbs and sprints, and conclude with a cool-down and stretchi",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-class-structure-for-an-indoor-cycling-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical class structure for an indoor cycling session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most indoor cycling classes at Cave Training follow a structured format designed to provide a comprehensive workout. Classes typically begin with a warm-up phase to prepare your muscles and cardiovascular system. This is followed by the main workout, which includes varied intervals of climbs, sprints, and steady-state efforts, guided by an instructor and music. The class concludes with a cool-down period and stretching to aid recovery. Our instructors carefully curate playlists and ride profiles to keep classes engaging and challenging, ensuring you leave feeling accomplished.",
+        "description": "Indoor cycling classes at Cave Training start with a warm-up, proceed through varied intervals of climbs and sprints, and conclude with a cool-down and stretching."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can assault bike training help me lose weight?",
+  "description": "Yes, assault bike training is effective for weight loss due to high calorie burn and full-body engagement. Cave Training recommends combining it with a balanced",
+  "url": "cavetrainingfit.com/faq/can-assault-bike-training-help-me-lose-weight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can assault bike training help me lose weight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, assault bike training can be a highly effective component of a weight loss strategy. Its high-intensity, full-body nature leads to significant calorie expenditure during and after your workout due to the 'afterburn' effect (EPOC). Regular sessions can boost your metabolism and improve body composition. For optimal results, Cave Training emphasizes combining assault bike workouts with a balanced functional fitness program and sound nutrition guidance, rather than relying solely on one exercise type for weight loss.",
+        "description": "Yes, assault bike training is effective for weight loss due to high calorie burn and full-body engagement. Cave Training recommends combining it with a balanced fitness program and nutrition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm new to fitness. Can I still participate in cardio endurance training?",
+  "description": "Yes, beginners can participate in cardio endurance training. Cave Training coaches modify exercises to match individual fitness levels, ensuring safe and effect",
+  "url": "cavetrainingfit.com/faq/i-m-new-to-fitness-can-i-still-participate-in-cardio-endurance-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm new to fitness. Can I still participate in cardio endurance training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Cardio endurance training can be tailored for all fitness levels, including beginners. The key is to start at an appropriate intensity and gradually progress. At Cave Training, our experienced coaches specialize in modifying exercises and scaling workouts to match individual capabilities, ensuring you build endurance safely and effectively. We focus on proper form and controlled progression, so you can confidently start your fitness journey and improve your cardiovascular health.",
+        "description": "Yes, beginners can participate in cardio endurance training. Cave Training coaches modify exercises to match individual fitness levels, ensuring safe and effective progression."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

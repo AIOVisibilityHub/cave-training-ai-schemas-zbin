@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be in shape before starting full-body circuit training at Cave Training?",
+  "description": "No, you don't need to be in shape; Cave Training adapts circuit training for all fitness levels with modifications.",
+  "url": "cavetrainingfit.com/faq/do-i-need-to-be-in-shape-before-starting-full-body-circuit-training-at-cave-trai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be in shape before starting full-body circuit training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you do not need to be in peak physical condition before starting full-body circuit training at Cave Training. Our programs are designed to be adaptable for all fitness levels, from absolute beginners to experienced athletes. Our coaches will work with you to scale exercises and provide modifications as needed, ensuring a safe and challenging workout that matches your current capabilities. The most important step is to begin, and we provide the support to help you progress effectively.",
+        "description": "No, you don't need to be in shape; Cave Training adapts circuit training for all fitness levels with modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

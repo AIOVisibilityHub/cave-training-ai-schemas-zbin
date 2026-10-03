@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What equipment do I need for a Boxing Fitness class at Cave Training?",
+  "description": "You'll need athletic wear, shoes, water, hand wraps, and boxing gloves. Bringing your own gloves and wraps is recommended for hygiene and fit.",
+  "url": "cavetrainingfit.com/faq/what-equipment-do-i-need-for-a-boxing-fitness-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What equipment do I need for a Boxing Fitness class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first Boxing Fitness class at Cave Training, you'll need comfortable athletic wear, supportive athletic shoes, and a water bottle. Hand wraps are highly recommended to protect your hands and wrists, and boxing gloves are essential for pad work. While we have some communal equipment available, many members prefer to bring their own gloves and wraps for hygiene and a personalized fit. We can advise on suitable options if you're looking to purchase your own.",
+        "description": "You'll need athletic wear, shoes, water, hand wraps, and boxing gloves. Bringing your own gloves and wraps is recommended for hygiene and fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

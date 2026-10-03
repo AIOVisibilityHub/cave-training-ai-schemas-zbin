@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is progressive overload, and how is it applied in LIFT classes?",
+  "description": "Progressive overload involves gradually increasing exercise demands to build strength. In LIFT classes, this means increasing weight, reps, or sets over time wi",
+  "url": "cavetrainingfit.com/faq/what-is-progressive-overload-and-how-is-it-applied-in-lift-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is progressive overload, and how is it applied in LIFT classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Progressive overload is the principle of gradually increasing the demands on your body during exercise to continue making gains in strength and muscle size. In Cave Training's LIFT classes, this is applied by systematically increasing the weight you lift, the number of repetitions, the sets, or by improving exercise technique over time. Our coaches guide you through this process, helping you track your progress and safely challenge yourself, which is crucial for long-term strength development and avoiding plateaus.",
+        "description": "Progressive overload involves gradually increasing exercise demands to build strength. In LIFT classes, this means increasing weight, reps, or sets over time with coach guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

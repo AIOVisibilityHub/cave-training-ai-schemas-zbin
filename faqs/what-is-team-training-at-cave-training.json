@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is team training at Cave Training?",
+  "description": "Team training at Cave Training is a group functional fitness program focusing on strength, endurance, and mobility, with scalable exercises for all levels.",
+  "url": "cavetrainingfit.com/faq/what-is-team-training-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is team training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Team training at Cave Training focuses on functional fitness within a group setting, promoting collaboration and shared challenge. These sessions incorporate varied exercises designed to improve overall strength, endurance, and mobility, often utilizing equipment like kettlebells, battle ropes, and sleds. The program is structured to provide a challenging workout for participants of different fitness levels, with coaches offering modifications to ensure everyone can participate effectively and safely.",
+        "description": "Team training at Cave Training is a group functional fitness program focusing on strength, endurance, and mobility, with scalable exercises for all levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

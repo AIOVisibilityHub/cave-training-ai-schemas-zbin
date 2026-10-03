@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does postpartum fitness training address core and pelvic floor recovery?",
+  "description": "Postpartum training focuses on exercises to restore core and pelvic floor strength, addressing issues like diastasis recti through specialized techniques and ge",
+  "url": "cavetrainingfit.com/faq/how-does-postpartum-fitness-training-address-core-and-pelvic-floor-recovery",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does postpartum fitness training address core and pelvic floor recovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Postpartum fitness training specifically targets the restoration of core and pelvic floor strength, which are often weakened or compromised during pregnancy and childbirth. This involves exercises that gently re-engage deep core muscles, improve pelvic floor function, and address issues like diastasis recti. Our trainers at Cave Training can guide you through tailored exercises and breathing techniques to support safe and effective recovery.",
+        "description": "Postpartum training focuses on exercises to restore core and pelvic floor strength, addressing issues like diastasis recti through specialized techniques and gentle movements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

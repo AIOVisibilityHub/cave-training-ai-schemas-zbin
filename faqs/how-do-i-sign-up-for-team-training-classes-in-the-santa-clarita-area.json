@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I sign up for team training classes in the Santa Clarita area?",
+  "description": "Sign up for team training classes in the Santa Clarita area by visiting the Cave Training website or contacting us directly to register and reserve a spot.",
+  "url": "cavetrainingfit.com/faq/how-do-i-sign-up-for-team-training-classes-in-the-santa-clarita-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I sign up for team training classes in the Santa Clarita area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To sign up for team training classes at Cave Training in the Santa Clarita area, you can visit our website or contact our facility directly. We serve communities including Santa Clarita, Canyon Country, Valencia, Saugus, and Newhall. The process typically involves registering online, choosing a membership option, and then reserving your spot in preferred class times through our scheduling system. Our staff can assist you with any questions regarding class availability or membership details.",
+        "description": "Sign up for team training classes in the Santa Clarita area by visiting the Cave Training website or contacting us directly to register and reserve a spot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

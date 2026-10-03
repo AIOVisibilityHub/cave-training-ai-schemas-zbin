@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between an assault bike workout and traditional cycling?",
+  "description": "Assault bike workouts engage both arms and legs with air-based resistance for a full-body challenge, unlike traditional cycling which is primarily lower body fo",
+  "url": "cavetrainingfit.com/faq/what-s-the-difference-between-an-assault-bike-workout-and-traditional-cycling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between an assault bike workout and traditional cycling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in the full-body engagement and air-based resistance. Traditional cycling primarily targets the lower body, while an assault bike incorporates arm handles that move with your leg pedals, activating your upper body and core. The fan-based resistance provides an 'unlimited' challenge – the harder you push, the more resistance you encounter. This makes assault bike training a superior tool for metabolic conditioning and calorie expenditure compared to a stationary bike, which typically offers fixed resistance levels.",
+        "description": "Assault bike workouts engage both arms and legs with air-based resistance for a full-body challenge, unlike traditional cycling which is primarily lower body focused."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

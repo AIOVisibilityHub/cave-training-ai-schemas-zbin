@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring or wear for an assault bike training session at Cave Training?",
+  "description": "Wear comfortable athletic clothes and supportive shoes. Bring a water bottle and an optional towel. Cave Training provides all necessary assault bikes.",
+  "url": "cavetrainingfit.com/faq/what-should-i-bring-or-wear-for-an-assault-bike-training-session-at-cave-trainin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring or wear for an assault bike training session at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an assault bike training session at Cave Training, we recommend wearing comfortable athletic apparel that allows for a full range of motion. Closed-toe athletic shoes with good support are essential. Bring a water bottle to stay hydrated, as these workouts can be quite intense. A small towel might also be useful. You don't need any special equipment beyond that; we provide all the necessary assault bikes and ensure they are clean and well-maintained for your use.",
+        "description": "Wear comfortable athletic clothes and supportive shoes. Bring a water bottle and an optional towel. Cave Training provides all necessary assault bikes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost structure for prenatal fitness training at Cave Training?",
+  "description": "Cost at Cave Training varies by group, semi-private, or one-on-one prenatal training. Contact us to discuss package options that fit your budget and personalize",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-cost-structure-for-prenatal-fitness-training-at-cave-trainin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost structure for prenatal fitness training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost structure for prenatal fitness training at Cave Training can vary based on whether you opt for group classes, semi-private sessions, or individualized one-on-one coaching. Each option offers different levels of personalized attention and flexibility. We encourage prospective clients to contact us directly to discuss their specific needs and explore the available package options, ensuring you find a plan that aligns with both your budget and fitness goals for a personalized functional fitness experience.",
+        "description": "Cost at Cave Training varies by group, semi-private, or one-on-one prenatal training. Contact us to discuss package options that fit your budget and personalized functional fitness goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

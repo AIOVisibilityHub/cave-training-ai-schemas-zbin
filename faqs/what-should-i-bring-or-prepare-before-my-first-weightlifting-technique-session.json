@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring or prepare before my first weightlifting technique session?",
+  "description": "Wear athletic clothing and supportive shoes. Prepare to discuss fitness goals and any past injuries, and be ready to move through various ranges of motion.",
+  "url": "cavetrainingfit.com/faq/what-should-i-bring-or-prepare-before-my-first-weightlifting-technique-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare before my first weightlifting technique session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your first weightlifting technique session at Cave Training, you should wear comfortable athletic clothing and supportive closed-toe shoes. It's also helpful to have a general idea of your fitness goals and any past injuries. Be prepared to move through various ranges of motion, and consider reviewing basic movement patterns like squats or deadlifts so you can articulate any discomfort or limitations to your coach.",
+        "description": "Wear athletic clothing and supportive shoes. Prepare to discuss fitness goals and any past injuries, and be ready to move through various ranges of motion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

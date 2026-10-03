@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there different types of assault bike workouts, and which is best for me?",
+  "description": "Different assault bike workouts exist, like HIIT or steady-state. The best type depends on your goals, and Cave Training coaches can recommend programs tailored",
+  "url": "cavetrainingfit.com/faq/are-there-different-types-of-assault-bike-workouts-and-which-is-best-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there different types of assault bike workouts, and which is best for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are various types of assault bike workouts, including high-intensity interval training (HIIT), steady-state cardio, and Tabata-style sessions. HIIT is excellent for conditioning and calorie burn, while steady-state builds aerobic endurance. The 'best' type depends on your specific fitness goals. At Cave Training, our coaches can assess your objectives and current fitness level during your initial consultation to recommend and program the most effective assault bike workouts, ensuring they align with your overall functional fitness journey.",
+        "description": "Different assault bike workouts exist, like HIIT or steady-state. The best type depends on your goals, and Cave Training coaches can recommend programs tailored for you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

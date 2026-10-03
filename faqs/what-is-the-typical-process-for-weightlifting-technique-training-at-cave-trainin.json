@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for weightlifting technique training at Cave Training?",
+  "description": "It starts with an assessment, followed by personalized coaching in sessions or small groups. We use video analysis to provide feedback and clarify corrections.",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-process-for-weightlifting-technique-training-at-cave-trainin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for weightlifting technique training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process at Cave Training typically begins with an initial assessment to evaluate your current form and identify areas for improvement. Following this, you'll receive personalized coaching through one-on-one sessions or small group classes focused on specific lifts. We often use video analysis to provide immediate feedback and help you visualize corrections, allowing for a clearer understanding of necessary adjustments and accelerating your learning curve.",
+        "description": "It starts with an assessment, followed by personalized coaching in sessions or small groups. We use video analysis to provide feedback and clarify corrections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

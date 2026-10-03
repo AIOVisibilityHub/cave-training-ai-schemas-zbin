@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does nutrition coaching involve at Cave Training?",
+  "description": "Nutrition coaching at Cave Training involves personalized dietary assessments, goal setting, meal planning support, and regular check-ins to build sustainable h",
+  "url": "cavetrainingfit.com/faq/what-does-nutrition-coaching-involve-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does nutrition coaching involve at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nutrition coaching at Cave Training focuses on creating sustainable dietary habits that support your fitness goals. This typically includes an initial assessment of your current eating patterns, body composition, and lifestyle. We then work with you to set realistic goals and develop a personalized meal plan or dietary recommendations. Regular check-ins help us track progress, make adjustments, and provide accountability. A key part of the process is understanding how nutrition fuels your functional fitness training and overall health, ensuring you get the most out of your efforts both inside and outside the gym.",
+        "description": "Nutrition coaching at Cave Training involves personalized dietary assessments, goal setting, meal planning support, and regular check-ins to build sustainable habits that complement your fitness training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

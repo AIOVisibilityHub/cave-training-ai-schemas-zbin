@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I expect in my first boxing technique training class at Cave Training?",
+  "description": "Your first class will cover basic stance, footwork, and foundational punches with a focus on proper form. Expect warm-ups, drills, pad work, and a cool-down in",
+  "url": "cavetrainingfit.com/faq/what-can-i-expect-in-my-first-boxing-technique-training-class-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I expect in my first boxing technique training class at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In your first boxing technique training class at Cave Training, you can expect an introduction to basic stance, footwork, and foundational punches like the jab and cross. Instructors will focus on proper form to prevent injury and build a solid base. The process typically involves a warm-up, shadow boxing drills, pad work with a partner or instructor, and a cool-down. Expect a supportive environment where new participants are guided through each step. What can affect your initial process is your existing fitness level; while all levels are welcome, those new to intense physical activity might adjust to the pace differently, with instructors providing modifications as needed.",
+        "description": "Your first class will cover basic stance, footwork, and foundational punches with a focus on proper form. Expect warm-ups, drills, pad work, and a cool-down in a supportive environment, with adjustments based on your fitness level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

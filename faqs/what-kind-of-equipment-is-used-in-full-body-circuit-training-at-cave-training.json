@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of equipment is used in full-body circuit training at Cave Training?",
+  "description": "Cave Training uses kettlebells, dumbbells, resistance bands, medicine balls, battle ropes, and bodyweight exercises for full-body circuit training.",
+  "url": "cavetrainingfit.com/faq/what-kind-of-equipment-is-used-in-full-body-circuit-training-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of equipment is used in full-body circuit training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Cave Training, our full-body circuit training utilizes a variety of equipment commonly found in functional fitness gyms to ensure a comprehensive workout. This can include kettlebells, dumbbells, resistance bands, medicine balls, battle ropes, and bodyweight exercises. The specific equipment used in a circuit might vary by class or session, ensuring variety and targeting different muscle groups. This diverse equipment selection allows for a broad range of exercises to keep workouts engaging and effective.",
+        "description": "Cave Training uses kettlebells, dumbbells, resistance bands, medicine balls, battle ropes, and bodyweight exercises for full-body circuit training."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

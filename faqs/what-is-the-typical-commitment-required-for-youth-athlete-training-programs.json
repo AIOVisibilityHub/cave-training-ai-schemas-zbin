@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical commitment required for youth athlete training programs?",
+  "description": "Commitment varies, but 2-3 sessions per week are generally beneficial for consistent progress. Cave Training offers flexible scheduling to accommodate various c",
+  "url": "cavetrainingfit.com/faq/what-is-the-typical-commitment-required-for-youth-athlete-training-programs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical commitment required for youth athlete training programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical commitment for youth athlete training programs can vary based on the athlete's goals, sport season, and individual needs. Most athletes benefit from attending 2-3 sessions per week to see consistent progress and build habits. At Cave Training, we offer flexible scheduling options to accommodate school, sports, and family commitments. We encourage a long-term approach to athletic development, understanding that consistency over time yields the best results. Discussing your child's specific schedule and goals with our team will help determine the optimal training frequency.",
+        "description": "Commitment varies, but 2-3 sessions per week are generally beneficial for consistent progress. Cave Training offers flexible scheduling to accommodate various commitments, focusing on long-term athletic development."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

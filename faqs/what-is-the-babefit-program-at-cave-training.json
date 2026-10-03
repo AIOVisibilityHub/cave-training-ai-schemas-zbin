@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the BabeFit Program at Cave Training?",
+  "description": "The BabeFit Program at Cave Training is a women's functional fitness program focused on strength, endurance, and overall fitness.",
+  "url": "cavetrainingfit.com/faq/what-is-the-babefit-program-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the BabeFit Program at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BabeFit Program is a functional fitness offering designed specifically for women. It focuses on building strength, improving endurance, and enhancing overall fitness through diverse workouts. The program aims to create a supportive community while addressing common fitness goals for women in a gym environment. Participants engage in various functional movements that translate to improved daily life activities.",
+        "description": "The BabeFit Program at Cave Training is a women's functional fitness program focused on strength, endurance, and overall fitness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

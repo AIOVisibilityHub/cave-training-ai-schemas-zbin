@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I continue prenatal fitness training if I experience discomfort?",
+  "description": "If discomfort arises during prenatal fitness, consult your doctor. Cave Training coaches can modify exercises to ensure safe and comfortable continuation, prior",
+  "url": "cavetrainingfit.com/faq/can-i-continue-prenatal-fitness-training-if-i-experience-discomfort",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I continue prenatal fitness training if I experience discomfort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience any discomfort during prenatal fitness training, it's crucial to listen to your body and consult with your healthcare provider. Often, exercises can be modified to accommodate changes or alleviate discomfort, but persistent pain should always be evaluated. At Cave Training, our coaches are skilled in identifying and implementing safe modifications to ensure you can continue to exercise comfortably and effectively, prioritizing your well-being and that of your baby throughout your pregnancy journey.",
+        "description": "If discomfort arises during prenatal fitness, consult your doctor. Cave Training coaches can modify exercises to ensure safe and comfortable continuation, prioritizing your well-being."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider before starting a cardio conditioning program at Cave Training?",
+  "description": "Consider your fitness level, past injuries, and health goals before starting. Share these with your Cave Training coach.",
+  "url": "cavetrainingfit.com/faq/what-should-i-consider-before-starting-a-cardio-conditioning-program-at-cave-tra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider before starting a cardio conditioning program at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting, consider your current fitness level, any past injuries, and your specific health goals. It's helpful to communicate these details to your coach at Cave Training during your initial consultation. This allows us to tailor a cardio conditioning program that is safe, effective, and progressively challenging for you.",
+        "description": "Consider your fitness level, past injuries, and health goals before starting. Share these with your Cave Training coach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

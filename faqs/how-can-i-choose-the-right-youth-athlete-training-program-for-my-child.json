@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I choose the right youth athlete training program for my child?",
+  "description": "Choose a program based on coach experience, philosophy, safety, and alignment with your child's sport and development. Consider a trial session at Cave Training",
+  "url": "cavetrainingfit.com/faq/how-can-i-choose-the-right-youth-athlete-training-program-for-my-child",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I choose the right youth athlete training program for my child?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right youth athlete training program involves considering several key factors: the coaches' experience with youth, the program's philosophy (e.g., skill development vs. just strength), safety protocols, and how well it aligns with your child's specific sport and developmental stage. At Cave Training, we recommend scheduling an initial consultation or a trial session to experience our environment firsthand, meet our coaches, and see our functional fitness approach in action. This allows you to assess if our tailored, injury-prevention focused training aligns with your child's needs and your family's goals.",
+        "description": "Choose a program based on coach experience, philosophy, safety, and alignment with your child's sport and development. Consider a trial session at Cave Training to assess our functional fitness approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

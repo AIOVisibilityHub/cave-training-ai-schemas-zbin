@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is 'Core Sculpting' at Cave Training?",
+  "description": "Core Sculpting at Cave Training strengthens your abdomen, back, and hips for improved stability, posture, and power, integrated into functional fitness.",
+  "url": "cavetrainingfit.com/faq/what-is-core-sculpting-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is 'Core Sculpting' at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core Sculpting at Cave Training focuses on strengthening and toning the muscles of your abdomen, back, and hips, which are vital for overall functional fitness. This program goes beyond traditional crunches, incorporating dynamic exercises that improve stability, posture, and power. Our approach integrates these core movements into broader functional workouts, essential for daily activities and performance in other physical disciplines. The program is designed to build a strong foundation, which is crucial for preventing injuries and enhancing athletic capabilities.",
+        "description": "Core Sculpting at Cave Training strengthens your abdomen, back, and hips for improved stability, posture, and power, integrated into functional fitness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

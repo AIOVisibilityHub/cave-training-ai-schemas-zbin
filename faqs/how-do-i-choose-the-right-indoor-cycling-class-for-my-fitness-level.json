@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right indoor cycling class for my fitness level?",
+  "description": "Select a class based on your fitness level; beginners should look for foundational classes, while experienced riders can try advanced sessions. Cave Training in",
+  "url": "cavetrainingfit.com/faq/how-do-i-choose-the-right-indoor-cycling-class-for-my-fitness-level",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right indoor cycling class for my fitness level?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right indoor cycling class depends on your current fitness level and goals. If you're new to cycling or returning after a break, look for beginner-friendly classes that focus on foundational techniques and allow for personal pacing. More experienced riders might prefer advanced classes with challenging intervals and longer durations. At Cave Training, our instructors are skilled at providing modifications for various fitness levels within the same class, allowing you to adjust resistance and effort to match your capacity. Don't hesitate to speak with an instructor before class to discuss your comfort level.",
+        "description": "Select a class based on your fitness level; beginners should look for foundational classes, while experienced riders can try advanced sessions. Cave Training instructors offer modifications for all levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

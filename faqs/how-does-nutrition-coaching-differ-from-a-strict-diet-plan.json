@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does nutrition coaching differ from a strict diet plan?",
+  "description": "Nutrition coaching focuses on sustainable habit change and education, teaching you principles for long-term health, unlike strict diet plans that often impose t",
+  "url": "cavetrainingfit.com/faq/how-does-nutrition-coaching-differ-from-a-strict-diet-plan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does nutrition coaching differ from a strict diet plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nutrition coaching differs from a strict diet plan by focusing on education, habit change, and long-term sustainability rather than temporary restrictions. While a diet plan often provides a rigid menu, coaching teaches you principles of nutrition, portion control, and mindful eating that you can apply for life. Your coach helps you integrate healthy eating into your lifestyle, considering your preferences and challenges. This approach aims to empower you with knowledge and skills to make informed food choices independently, fostering lasting health improvements beyond just weight loss.",
+        "description": "Nutrition coaching focuses on sustainable habit change and education, teaching you principles for long-term health, unlike strict diet plans that often impose temporary restrictions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

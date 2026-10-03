@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are your Boxing Fitness classes suitable for all ages?",
+  "description": "Boxing Fitness classes are for adults and young adults (16+) in reasonable health; consult a doctor if you have health concerns.",
+  "url": "cavetrainingfit.com/faq/are-your-boxing-fitness-classes-suitable-for-all-ages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are your Boxing Fitness classes suitable for all ages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Boxing Fitness classes are generally designed for adults and young adults (typically 16+), focusing on high-intensity movements and techniques. While there's no strict upper age limit, participants should be in reasonable health and able to engage in dynamic physical activity. If you have any health concerns or are unsure about your suitability, we recommend consulting with a healthcare professional before starting. Our instructors can also offer modifications for certain exercises.",
+        "description": "Boxing Fitness classes are for adults and young adults (16+) in reasonable health; consult a doctor if you have health concerns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

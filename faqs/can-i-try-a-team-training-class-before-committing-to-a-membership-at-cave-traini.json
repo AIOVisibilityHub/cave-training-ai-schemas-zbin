@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I try a team training class before committing to a membership at Cave Training?",
+  "description": "Yes, you can often try a team training class at Cave Training before committing to a membership; contact us for trial options.",
+  "url": "cavetrainingfit.com/faq/can-i-try-a-team-training-class-before-committing-to-a-membership-at-cave-traini",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I try a team training class before committing to a membership at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Cave Training often provides introductory offers or drop-in options for prospective members to experience a team training class before committing to a full membership. This allows you to evaluate the coaching style, class environment, and functional fitness programming firsthand. Checking our current schedule or contacting us directly can provide the most up-to-date information on trial classes and how to sign up for one.",
+        "description": "Yes, you can often try a team training class at Cave Training before committing to a membership; contact us for trial options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can I expect from consistent SHRED classes?",
+  "description": "Consistent SHRED classes can lead to improved cardiovascular health, increased strength and endurance, and enhanced body composition.",
+  "url": "cavetrainingfit.com/faq/what-kind-of-results-can-i-expect-from-consistent-shred-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can I expect from consistent SHRED classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consistent participation in SHRED classes can lead to improved cardiovascular health, increased muscular strength and endurance, and enhanced overall body composition. Many participants experience increased energy levels and better functional movement in daily life. Results vary based on individual effort, consistency, and complementary lifestyle factors like nutrition. The key is regular attendance and pushing your personal limits safely.",
+        "description": "Consistent SHRED classes can lead to improved cardiovascular health, increased strength and endurance, and enhanced body composition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

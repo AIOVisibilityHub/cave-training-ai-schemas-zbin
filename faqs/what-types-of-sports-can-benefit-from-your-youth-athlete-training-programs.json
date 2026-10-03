@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of sports can benefit from your youth athlete training programs?",
+  "description": "Our programs benefit athletes in various team and individual sports, including soccer, basketball, football, track, and swimming. We tailor training to develop",
+  "url": "cavetrainingfit.com/faq/what-types-of-sports-can-benefit-from-your-youth-athlete-training-programs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of sports can benefit from your youth athlete training programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our youth athlete training programs are designed to benefit a wide range of sports by focusing on fundamental athletic qualities. Athletes participating in team sports like soccer, basketball, football, volleyball, and baseball, as well as individual sports such as track and field, swimming, tennis, and martial arts, can see significant improvements. The functional fitness approach at Cave Training develops power, speed, agility, endurance, and strength, which are crucial components for success across nearly all athletic disciplines. We tailor the training to emphasize the specific demands of each athlete's sport.",
+        "description": "Our programs benefit athletes in various team and individual sports, including soccer, basketball, football, track, and swimming. We tailor training to develop power, speed, and agility specific to each sport's demands."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

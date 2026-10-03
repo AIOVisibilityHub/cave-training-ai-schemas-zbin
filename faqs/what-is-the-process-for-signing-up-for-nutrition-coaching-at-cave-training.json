@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for signing up for nutrition coaching at Cave Training?",
+  "description": "To sign up, start with a free consultation to discuss goals and recommended programs. Then, complete an intake form and schedule your first coaching session.",
+  "url": "cavetrainingfit.com/faq/what-is-the-process-for-signing-up-for-nutrition-coaching-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for signing up for nutrition coaching at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for signing up for nutrition coaching at Cave Training begins with a free initial consultation. During this consultation, you'll discuss your goals, current habits, and any specific needs with a coach. Based on this discussion, the coach will recommend a suitable program. If you decide to proceed, you'll then complete an intake form and schedule your first official coaching session. This structured approach ensures that the program is tailored to your individual requirements from the outset, setting a clear path for your nutrition journey.",
+        "description": "To sign up, start with a free consultation to discuss goals and recommended programs. Then, complete an intake form and schedule your first coaching session."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

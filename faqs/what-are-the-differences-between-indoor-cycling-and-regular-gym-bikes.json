@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the differences between indoor cycling and regular gym bikes?",
+  "description": "Indoor cycling uses specialized bikes in instructor-led group classes with varied terrains, offering a more dynamic and challenging workout than basic self-pace",
+  "url": "cavetrainingfit.com/faq/what-are-the-differences-between-indoor-cycling-and-regular-gym-bikes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the differences between indoor cycling and regular gym bikes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indoor cycling classes, often called 'Spin' or 'cycle,' use specialized stationary bikes that allow for a wider range of motion and resistance adjustments, mimicking road cycling more closely. They typically involve an instructor-led group class with music and varied terrains. Regular gym bikes (recumbent or upright) are often self-paced and provide basic cardio workouts with fewer dynamic movements. At Cave Training, our indoor cycling classes offer a dynamic, engaging, and motivating group experience with expert coaching, which provides a significantly more challenging and structured workout than simply pedaling on a standard gym bike.",
+        "description": "Indoor cycling uses specialized bikes in instructor-led group classes with varied terrains, offering a more dynamic and challenging workout than basic self-paced gym bikes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

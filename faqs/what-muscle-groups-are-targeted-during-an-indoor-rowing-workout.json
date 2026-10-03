@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What muscle groups are targeted during an indoor rowing workout?",
+  "description": "Indoor rowing targets major muscle groups including legs (quads, hamstrings, glutes), core (abs, lower back), and upper body (lats, deltoids, biceps, triceps).",
+  "url": "cavetrainingfit.com/faq/what-muscle-groups-are-targeted-during-an-indoor-rowing-workout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What muscle groups are targeted during an indoor rowing workout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indoor rowing engages a wide range of muscle groups throughout the entire body. The powerful leg drive works your quadriceps, hamstrings, and glutes. Your core muscles, including abs and lower back, provide stability and power transfer. The upper body, specifically your lats, deltoids, biceps, and triceps, are activated during the pulling phase. To ensure balanced development and prevent overtraining, it's beneficial to incorporate varied intensity and duration into your rowing sessions.",
+        "description": "Indoor rowing targets major muscle groups including legs (quads, hamstrings, glutes), core (abs, lower back), and upper body (lats, deltoids, biceps, triceps)."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

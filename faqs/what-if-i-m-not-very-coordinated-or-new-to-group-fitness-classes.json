@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I'm not very coordinated or new to group fitness classes?",
+  "description": "Indoor cycling is excellent for beginners as it requires minimal coordination and allows self-pacing. Cave Training instructors ensure proper setup and a welcom",
+  "url": "cavetrainingfit.com/faq/what-if-i-m-not-very-coordinated-or-new-to-group-fitness-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I'm not very coordinated or new to group fitness classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indoor cycling is a great entry point for those new to group fitness because coordination isn't a primary requirement – you mainly focus on pedaling and managing resistance. The movements are repetitive and easy to pick up, and you control your own intensity. At Cave Training, our instructors are welcoming and focus on creating an inclusive atmosphere. They'll guide you through proper form and bike setup, ensuring you feel comfortable and confident, even if it's your very first class. Don't let inexperience hold you back; everyone starts somewhere.",
+        "description": "Indoor cycling is excellent for beginners as it requires minimal coordination and allows self-pacing. Cave Training instructors ensure proper setup and a welcoming, inclusive class environment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

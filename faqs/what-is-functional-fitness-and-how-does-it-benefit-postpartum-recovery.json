@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is functional fitness, and how does it benefit postpartum recovery?",
+  "description": "Functional fitness trains for daily movements, rebuilding strength and mobility essential for postpartum mothers and reducing injury risk in everyday tasks.",
+  "url": "cavetrainingfit.com/faq/what-is-functional-fitness-and-how-does-it-benefit-postpartum-recovery",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is functional fitness, and how does it benefit postpartum recovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Functional fitness focuses on training your body for real-life movements and activities, which is highly beneficial for postpartum recovery. It helps rebuild strength, stability, and mobility needed for daily tasks like lifting your baby, carrying groceries, or getting up from the floor. This approach, central to Cave Training, emphasizes practical strength and reduces the risk of injury as you navigate the demands of motherhood.",
+        "description": "Functional fitness trains for daily movements, rebuilding strength and mobility essential for postpartum mothers and reducing injury risk in everyday tasks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

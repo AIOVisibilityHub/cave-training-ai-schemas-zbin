@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does functional fitness at Cave Training incorporate core conditioning?",
+  "description": "Functional fitness at Cave Training incorporates core conditioning through multi-joint, full-body movements that train the core as a central stabilizer for real",
+  "url": "cavetrainingfit.com/faq/how-does-functional-fitness-at-cave-training-incorporate-core-conditioning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does functional fitness at Cave Training incorporate core conditioning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Cave Training, functional fitness inherently involves core conditioning by utilizing multi-joint, full-body movements that mimic real-life activities. Instead of isolated exercises, our programs engage your core as the central stabilizing force for movements like squats, lifts, and pushes. This approach ensures that your core is strengthened in a way that directly translates to improved performance outside the gym, whether you're lifting groceries or participating in sports. The focus is on integrated strength, making your core robust for dynamic, everyday demands.",
+        "description": "Functional fitness at Cave Training incorporates core conditioning through multi-joint, full-body movements that train the core as a central stabilizer for real-life activities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of exercises are safe and effective for new mothers?",
+  "description": "Safe postpartum exercises include pelvic floor work, gentle core exercises, walking, and low-impact functional movements, always with proper form.",
+  "url": "cavetrainingfit.com/faq/what-kind-of-exercises-are-safe-and-effective-for-new-mothers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of exercises are safe and effective for new mothers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safe and effective exercises for new mothers often include pelvic floor exercises, gentle core work like belly breathing, walking, and low-impact functional movements. The focus should be on rebuilding strength and stability without overexertion. Cave Training's functional fitness approach allows for modifications to suit postpartum bodies, ensuring you work within your current capabilities and gradually progress.",
+        "description": "Safe postpartum exercises include pelvic floor work, gentle core exercises, walking, and low-impact functional movements, always with proper form."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

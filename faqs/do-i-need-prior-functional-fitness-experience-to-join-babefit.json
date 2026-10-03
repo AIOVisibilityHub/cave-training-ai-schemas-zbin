@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need prior functional fitness experience to join BabeFit?",
+  "description": "No prior functional fitness experience is needed; coaches provide modifications for all fitness levels.",
+  "url": "cavetrainingfit.com/faq/do-i-need-prior-functional-fitness-experience-to-join-babefit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need prior functional fitness experience to join BabeFit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No prior functional fitness experience is required to join the BabeFit Program. Coaches are available to provide modifications and scaling options for all exercises to accommodate different fitness levels and abilities. A decision factor for new participants is to be open about any physical limitations or previous injuries with the coaches, as this helps tailor the program safely and effectively for individual needs.",
+        "description": "No prior functional fitness experience is needed; coaches provide modifications for all fitness levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

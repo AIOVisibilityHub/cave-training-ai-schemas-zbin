@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do we get employees to participate in a corporate wellness program?",
+  "description": "Boost participation through clear communication, incentives, management support, and accessibility. Integrating wellness into company culture and leadership par",
+  "url": "cavetrainingfit.com/faq/how-do-we-get-employees-to-participate-in-a-corporate-wellness-program",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do we get employees to participate in a corporate wellness program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Encouraging employee participation requires clear communication, incentives, and management support. Promote the program widely, highlight its benefits, and make it easily accessible. Offering a variety of activities, including virtual and in-person options, can also increase engagement. A key process clarity point is integrating the wellness program into the company culture by having leadership visibly participate and endorse it, demonstrating its value and making it a shared priority rather than just an optional perk.",
+        "description": "Boost participation through clear communication, incentives, management support, and accessibility. Integrating wellness into company culture and leadership participation makes it a shared priority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

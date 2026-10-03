@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring or wear to an ENDURE Class?",
+  "description": "Wear comfortable athletic clothing, bring a water bottle, and wear good athletic shoes for an ENDURE Class.",
+  "url": "cavetrainingfit.com/faq/what-should-i-bring-or-wear-to-an-endure-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring or wear to an ENDURE Class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an ENDURE Class, you should wear comfortable athletic clothing that allows for a full range of motion. We recommend bringing a water bottle to stay hydrated throughout the workout, as these classes are designed to be challenging and elevate your heart rate. Good athletic shoes are also essential for comfort and support during various movements. This preparation ensures you can participate effectively and safely while focusing on your performance.",
+        "description": "Wear comfortable athletic clothing, bring a water bottle, and wear good athletic shoes for an ENDURE Class."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

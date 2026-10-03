@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is cardio conditioning and why is it important for functional fitness?",
+  "description": "Cardio conditioning strengthens your heart and lungs, improving endurance for daily activities and workouts.",
+  "url": "cavetrainingfit.com/faq/what-is-cardio-conditioning-and-why-is-it-important-for-functional-fitness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is cardio conditioning and why is it important for functional fitness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cardio conditioning, or cardiovascular training, strengthens your heart and lungs, improving your body's ability to deliver oxygen to muscles. For functional fitness, this means you'll have better endurance for daily activities, sports, and intense workouts at Cave Training. It's crucial for sustained performance and faster recovery between exercises.",
+        "description": "Cardio conditioning strengthens your heart and lungs, improving endurance for daily activities and workouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

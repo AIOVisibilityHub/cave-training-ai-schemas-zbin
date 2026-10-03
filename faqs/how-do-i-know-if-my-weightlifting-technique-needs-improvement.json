@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my weightlifting technique needs improvement?",
+  "description": "Look for pain, stalled progress, instability, or compensatory movements during lifts. A professional assessment can pinpoint specific areas for improvement.",
+  "url": "cavetrainingfit.com/faq/how-do-i-know-if-my-weightlifting-technique-needs-improvement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my weightlifting technique needs improvement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You might need technique improvement if you experience persistent pain during or after lifts, struggle to progress in weight or reps, feel unstable during movements, or find yourself compensating with other body parts. Our coaches at Cave Training can perform a movement assessment to identify specific deficiencies and common compensations, helping to address issues like hip hinge mechanics or shoulder mobility that impact your lifts.",
+        "description": "Look for pain, stalled progress, instability, or compensatory movements during lifts. A professional assessment can pinpoint specific areas for improvement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

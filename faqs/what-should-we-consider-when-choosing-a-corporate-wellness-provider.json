@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we consider when choosing a corporate wellness provider?",
+  "description": "When choosing a provider, consider their experience, customization, and employee engagement. Balance cost with program quality and specialization to ensure long",
+  "url": "cavetrainingfit.com/faq/what-should-we-consider-when-choosing-a-corporate-wellness-provider",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we consider when choosing a corporate wellness provider?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a corporate wellness provider, evaluate their experience, program customization options, and ability to engage your employees. Look for providers who offer diverse activities and can adapt programs to different fitness levels and interests within your workforce. A practical tradeoff to consider is balancing cost with the quality and specialization of the program; a higher-quality functional fitness program, while potentially a larger initial investment, may yield better long-term engagement and health outcomes compared to a generic, less specialized option.",
+        "description": "When choosing a provider, consider their experience, customization, and employee engagement. Balance cost with program quality and specialization to ensure long-term effectiveness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

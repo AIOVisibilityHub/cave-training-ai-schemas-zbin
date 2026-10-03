@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long is each BabeFit Program class?",
+  "description": "Each BabeFit Program class is typically around one hour long, including warm-up and cool-down.",
+  "url": "cavetrainingfit.com/faq/how-long-is-each-babefit-program-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long is each BabeFit Program class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While the exact duration can vary slightly, BabeFit Program classes are typically designed to be approximately one hour long. This includes time for a warm-up, the main workout, and a cool-down period. This timing allows participants to integrate fitness effectively into their schedules without requiring excessive time commitment, which can be a practical tradeoff for busy individuals.",
+        "description": "Each BabeFit Program class is typically around one hour long, including warm-up and cool-down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

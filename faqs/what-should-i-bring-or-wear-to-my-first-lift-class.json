@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring or wear to my first LIFT class?",
+  "description": "Wear comfortable athletic clothing and closed-toe shoes; bring a water bottle. All lifting equipment is provided for LIFT classes.",
+  "url": "cavetrainingfit.com/faq/what-should-i-bring-or-wear-to-my-first-lift-class",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring or wear to my first LIFT class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first LIFT class at Cave Training, we recommend wearing comfortable athletic clothing that allows for a full range of motion. Closed-toe athletic shoes are essential, preferably with a flat sole for better stability during lifting. Bringing a water bottle to stay hydrated is also advisable. You might also consider lifting shoes or a belt as you progress, but these are not necessary for initial classes. All necessary equipment, such as barbells and dumbbells, is provided.",
+        "description": "Wear comfortable athletic clothing and closed-toe shoes; bring a water bottle. All lifting equipment is provided for LIFT classes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

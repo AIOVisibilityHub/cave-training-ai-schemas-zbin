@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can beginners join SHRED classes?",
+  "description": "Yes, beginners can join SHRED classes, as coaches offer modifications and scaling options to accommodate different fitness levels.",
+  "url": "cavetrainingfit.com/faq/can-beginners-join-shred-classes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can beginners join SHRED classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners can certainly join SHRED classes, as coaches provide modifications and scaling options for most exercises. The decision factor is often your current activity level and comfort with high-intensity movements. It's beneficial to start by understanding the basic movements and focusing on proper form, even if that means performing fewer repetitions or using lighter weights. Don't hesitate to speak with a coach before or after class to discuss suitable adjustments for your fitness level.",
+        "description": "Yes, beginners can join SHRED classes, as coaches offer modifications and scaling options to accommodate different fitness levels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

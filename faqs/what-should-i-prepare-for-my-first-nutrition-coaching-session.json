@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare for my first nutrition coaching session?",
+  "description": "Before your first session, consider tracking your food intake for a few days, have your fitness goals in mind, and prepare any questions you have for your coach",
+  "url": "cavetrainingfit.com/faq/what-should-i-prepare-for-my-first-nutrition-coaching-session",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare for my first nutrition coaching session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first nutrition coaching session, it's helpful to come prepared with a general understanding of your current eating habits and any specific fitness or health goals you have. You might also consider tracking your food intake for a few days prior to the session, as this can provide valuable insights for your coach. Having a list of questions or concerns ready will also help maximize the effectiveness of your initial consultation, allowing your coach to tailor their approach more effectively.",
+        "description": "Before your first session, consider tracking your food intake for a few days, have your fitness goals in mind, and prepare any questions you have for your coach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

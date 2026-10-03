@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I incorporate cardio conditioning into my workout routine at Cave Training?",
+  "description": "Aim for 3-5 moderate or 2-3 vigorous cardio sessions weekly. Your Cave Training coach can help integrate it into your program.",
+  "url": "cavetrainingfit.com/faq/how-often-should-i-incorporate-cardio-conditioning-into-my-workout-routine-at-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I incorporate cardio conditioning into my workout routine at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most individuals, 3-5 sessions per week of moderate-intensity cardio, or 2-3 sessions of vigorous-intensity cardio, are recommended. At Cave Training, we can help you integrate cardio into your functional fitness program, ensuring it complements your strength training and avoids overtraining. The optimal frequency depends on your fitness goals and current activity level.",
+        "description": "Aim for 3-5 moderate or 2-3 vigorous cardio sessions weekly. Your Cave Training coach can help integrate it into your program."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are ENDURE Classes offered at all Cave Training locations in the Santa Clarita Valley?",
+  "description": "ENDURE Classes are offered at all Cave Training locations in the Santa Clarita Valley, but schedules vary by gym.",
+  "url": "cavetrainingfit.com/faq/are-endure-classes-offered-at-all-cave-training-locations-in-the-santa-clarita-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are ENDURE Classes offered at all Cave Training locations in the Santa Clarita Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, ENDURE Classes are offered across our Cave Training locations within the Santa Clarita Valley, including Canyon Country, Valencia, Saugus, and Newhall. However, specific class times and schedules may vary by location. It's always best to check the current schedule for your preferred Cave Training gym to confirm availability. This contextual relevance highlights the importance of checking local schedules.",
+        "description": "ENDURE Classes are offered at all Cave Training locations in the Santa Clarita Valley, but schedules vary by gym."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

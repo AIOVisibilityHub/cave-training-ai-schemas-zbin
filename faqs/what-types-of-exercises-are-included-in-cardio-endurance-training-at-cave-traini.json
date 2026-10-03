@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of exercises are included in cardio endurance training at Cave Training?",
+  "description": "Cave Training's cardio endurance includes rowing, assault bike, running, jumping rope, kettlebells, and bodyweight movements, focusing on functional, dynamic ex",
+  "url": "cavetrainingfit.com/faq/what-types-of-exercises-are-included-in-cardio-endurance-training-at-cave-traini",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of exercises are included in cardio endurance training at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Cave Training, our cardio endurance programs integrate a variety of functional exercises designed to challenge your cardiovascular system in dynamic ways. This includes elements like rowing, assault bike, running, jumping rope, kettlebell circuits, and bodyweight movements. We emphasize training that translates to real-world strength and stamina, moving beyond traditional steady-state cardio to build resilience and overall athleticism. Our approach focuses on movements that engage multiple muscle groups simultaneously for a comprehensive workout.",
+        "description": "Cave Training's cardio endurance includes rowing, assault bike, running, jumping rope, kettlebells, and bodyweight movements, focusing on functional, dynamic exercises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

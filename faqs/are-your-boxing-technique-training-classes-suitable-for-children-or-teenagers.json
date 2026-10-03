@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are your boxing technique training classes suitable for children or teenagers?",
+  "description": "Our boxing technique classes are primarily for adults, though older teenagers might participate based on individual assessment. It's a decision factor for paren",
+  "url": "cavetrainingfit.com/faq/are-your-boxing-technique-training-classes-suitable-for-children-or-teenagers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are your boxing technique training classes suitable for children or teenagers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Cave Training, our boxing technique training classes are primarily designed for adults. However, older teenagers with appropriate maturity and physical development may be able to participate, depending on individual assessment. A decision factor for parents or guardians is to consider the individual's physical readiness and ability to follow complex instructions safely in a group setting. It's recommended to discuss with our staff if you are considering enrolling a teenager to ensure the class environment is appropriate for their age and skill level. For younger children, specialized youth programs might be more suitable.",
+        "description": "Our boxing technique classes are primarily for adults, though older teenagers might participate based on individual assessment. It's a decision factor for parents to discuss their teen's readiness with our staff."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

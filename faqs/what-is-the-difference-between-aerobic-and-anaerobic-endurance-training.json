@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between aerobic and anaerobic endurance training?",
+  "description": "Aerobic training uses oxygen for sustained, lower-intensity activity, while anaerobic training uses energy without oxygen for short, high-intensity bursts. Cave",
+  "url": "cavetrainingfit.com/faq/what-is-the-difference-between-aerobic-and-anaerobic-endurance-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between aerobic and anaerobic endurance training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aerobic endurance training involves sustained, lower-intensity activities where your body primarily uses oxygen to fuel muscles, like long-distance running. Anaerobic training involves short bursts of high-intensity activity where your body produces energy without oxygen, like sprints or heavy lifting. Both are crucial for comprehensive fitness. At Cave Training, our functional programming often blends these two to build a well-rounded athlete, improving both sustained effort capacity and explosive power, which is vital for real-world functional strength.",
+        "description": "Aerobic training uses oxygen for sustained, lower-intensity activity, while anaerobic training uses energy without oxygen for short, high-intensity bursts. Cave Training often blends both for well-rounded functional fitness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

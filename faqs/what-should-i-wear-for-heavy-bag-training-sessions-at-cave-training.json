@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I wear for heavy bag training sessions at Cave Training?",
+  "description": "Wear comfortable athletic clothing, supportive shoes, hand wraps, and boxing gloves for heavy bag training sessions. Hand wraps and gloves are crucial for prote",
+  "url": "cavetrainingfit.com/faq/what-should-i-wear-for-heavy-bag-training-sessions-at-cave-training",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I wear for heavy bag training sessions at Cave Training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For heavy bag training, wear comfortable athletic clothing that allows for a full range of motion. We recommend supportive athletic shoes and, most importantly, hand wraps and boxing gloves to protect your hands and wrists. If you're new to heavy bag training or don't own gear, Cave Training offers communal gloves and wraps, though many members prefer to bring their own for hygiene and fit. This preparation ensures safety and comfort during your workout.",
+        "description": "Wear comfortable athletic clothing, supportive shoes, hand wraps, and boxing gloves for heavy bag training sessions. Hand wraps and gloves are crucial for protecting your hands and wrists."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
