@@ -25,12 +25,6 @@ Canonical AI Data Package for Cave Training.
 - [ai-data-hub] Cave Training — AI Data Hub — https://cavetraining.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/cave-training-ai-schemas-zbin
 - [mirror-pages] GitHub — AI Data Hub mirror — https://cavetraining.aiovisibility.net/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/cave-training-ai-schemas-oy88
-- [mirror-pages] GitLab — AI Data Hub mirror — https://cave-training-ai-schemas-oy88-fc134c.gitlab.io/ai-data.html
-- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/cave-training-ai-schemas
-- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
-- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/23112677
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
